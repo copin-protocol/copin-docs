@@ -1,16 +1,20 @@
 ---
 description: >-
-  Explore, analyze and copy on-chain trader from the perpetual decentralized
-  exchange
+  An analytics infrastructure solution designed for perpetual decentralized
+  exchanges
 ---
 
 # Introduction
 
-<figure><img src=".gitbook/assets/Screen Shot 2023-09-11 at 09.18.28.png" alt=""><figcaption><p><a href="https://app.copin.io/"> <em>Copin Launch App</em></a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/90a0fef1-0501-4d41-8345-f97b8b8fbda8 (1).gif" alt=""><figcaption></figcaption></figure>
+
+Since the collapse of FTX, an increasing amount of traders have abandoned centralized exchanges in favor of on-chain alternatives. Decentralized perpetual exchanges have seen a massive increase in cumulative trading volume, user activity, and the number of new exchanges. Decentralized perpetual trading is one of the few sectors in DeFi with product market fit. On top of this, most native tokens have an actual purpose other than governance, such as receiving a dividend/yield from protocol revenue. Besides familiar names like dYdX and GMX, more than 50 perpetual DEX exchanges are available. Each perpetual DEX is built on a different blockchain. Traders may find it challenging to move assets across different platforms, and fragmented liquidity can result in inefficiencies and varying trading experiences. This is where Copin.io comes in.
 
 ## What is Copin?
 
-Copin focusses on **analyzing** and **copying on-chain traders** within the blockchain ecosystem, particularly on decentralized perpetual exchanges like GMX, Synthetix, DYDX, and more.
+Copin is a platform designed for the mass adoption of the perpetual DEX narrative. It enables users to explore, analyze, and copy on-chain traders from the top of Perpetual DEX exchanges like dYdx, GMX, Kwenta, etc.
+
+<figure><img src=".gitbook/assets/20231122-142834.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 To get started with Copin in 5 minutes, see the[ **Quickstart** **Guide**](features/dashboard.md)**.**
@@ -18,7 +22,7 @@ To get started with Copin in 5 minutes, see the[ **Quickstart** **Guide**](featu
 
 ### **How Copin works?**
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
 
 ### **Some things you can do with Copin**
 
