@@ -8,7 +8,7 @@
 * [Official Link](welcome/official-link.md)
 * [Product Roadmap](welcome/product-roadmap/README.md)
   * [Release notes](welcome/product-roadmap/release-notes.md)
-* [Ecosystem (partners & integrators)](welcome/ecosystem-partners-and-integrators.md)
+* [Integrators, Partners & Ecosystem](welcome/integrators-partners-and-ecosystem.md)
 * [FAQ](welcome/faq.md)
 
 ## 🚀 Features
