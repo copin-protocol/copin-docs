@@ -5,10 +5,11 @@
 * [Introduction](README.md)
   * [What is on-chain trader data?](welcome/introduction/what-is-on-chain-trader-data.md)
   * [What is decentralized copy trading?](welcome/introduction/what-is-decentralized-copy-trading.md)
+* [Methodology](welcome/methodology.md)
 * [Official Link](welcome/official-link.md)
+* [Integrators, Partners & Ecosystem](welcome/integrators-partners-and-ecosystem.md)
 * [Product Roadmap](welcome/product-roadmap/README.md)
   * [Release notes](welcome/product-roadmap/release-notes.md)
-* [Integrators, Partners & Ecosystem](welcome/integrators-partners-and-ecosystem.md)
 * [FAQ](welcome/faq.md)
 
 ## 🚀 Features

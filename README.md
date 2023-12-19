@@ -1,6 +1,6 @@
 ---
 description: >-
-  An analytics infrastructure solution designed for perpetual decentralized
+  Data analytics infrastructure solution designed for perpetual decentralized
   exchanges
 ---
 
@@ -8,39 +8,44 @@ description: >-
 
 <figure><img src=".gitbook/assets/90a0fef1-0501-4d41-8345-f97b8b8fbda8 (1).gif" alt=""><figcaption></figcaption></figure>
 
-Since the collapse of FTX, an increasing amount of traders have abandoned centralized exchanges in favor of on-chain alternatives. Decentralized perpetual exchanges have seen a massive increase in cumulative trading volume, user activity, and the number of new exchanges. Decentralized perpetual trading is one of the few sectors in DeFi with product market fit. On top of this, most native tokens have an actual purpose other than governance, such as receiving a dividend/yield from protocol revenue. Besides familiar names like dYdX and GMX, more than 50 perpetual DEX exchanges are available. Each perpetual DEX is built on a different blockchain. Traders may find it challenging to move assets across different platforms, and fragmented liquidity can result in inefficiencies and varying trading experiences. This is where Copin.io comes in.
+In the rapidly evolving world of decentralized finance (DeFi), trading activity on decentralized exchanges (DEX) offering perpetual derivative products has reached impressive figures. Currently, there are over 50 active perpetual DEX across various blockchains and Layer2 networks, hosting more than 2 million traders and facilitating a trading volume exceeding $330 billion. However, accessing, analyzing, and evaluating this vast data remains a significant challenge. Traders also require a platform to review their trading history, assess profit performance, and compare with others to enhance their trading strategies.
 
-## What is Copin?
+Enter Copin, a solution addressing this challenge. It's an advanced platform that aggregates, analyzes, and visualizes data from all perpetual DEX on blockchains. Copin not only provides access to comprehensive and detailed data but also assists users in deeply understanding and leveraging this information for smarter investment decisions. Our platform delivers value not just to individual traders but also to organizations, analysts, and anyone interested in derivative trading markets.
+
+Copin's goal is to offer transparency, efficiency, and profound market insights into the DeFi perpetual derivative market while enhancing users' assessment and risk management abilities. With Copin, big data ceases to be a barrier; instead, it becomes a valuable resource, unlocking new avenues for the growth of decentralized finance.
+
+As a product driven by data philosophy, Copin also allows developers and other projects to utilize cleaned data through APIs to build various products. There's no limit to the ideas that can be constructed on top of Copin, such as:
+
+* Decentralized copy-trading: Tracking and emulating on-chain traders' transactions
+* Trading bots
+* Trading competitions: Rankings of traders and hosting competitions without protocol or chain limitations
+* SocialFi: A social network for traders to meet, seek advice, and rate their favorite traders
+* Telegram bot
+* Decentralized capital: A space where confident and transparent traders establish funds to attract others to participate
+* AI-powered: Abundant and unique data as an excellent resource for AI-related idea development
+
+## How copin works?
 
 Copin is a platform designed for the mass adoption of the perpetual DEX narrative. It enables users to explore, analyze, and copy on-chain traders from the top of Perpetual DEX exchanges like dYdx, GMX, Kwenta, etc.
 
 <figure><img src=".gitbook/assets/20231122-142834.gif" alt=""><figcaption></figcaption></figure>
 
+* **Data Source:** Copin listens and gathers raw transactional data from over 50 different perpetual DEX represented by various blockchain and layer2.
+* **Data Transformation:** This raw data is then processed and cleaned to form a usable dataset. This could involve noise removal, data formatting, and normalization to facilitate easier analysis and retrieval.
+* **Data Rich:** The result is a rich dataset comprising profiles of over 2,000,000 traders, billions of trade positions, all labeled and ready for use.
+* **Use Cases:** From this data, a multitude of features and applications will be built on Copin through API provision:
+  * **Trader Explore & Profile:** A platform allowing exploration and viewing of trader profiles, enabling users to compare and choose traders they wish to follow or emulate.
+  * **Visualization & Leaderboard:** Providing data visualization tools and trader leaderboards to aid users in identifying and analyzing trading trends easily.
+  * **Backtesting & Copy-trading:** Allowing users to test trading strategies through backtesting and apply them in real-time via copy-trading functionality.
+  * **Content Creators & Trading Competition:** A platform supporting content creation for creators and organizing trading competitions to enhance interaction and competition within the community.
+  * **SocialFi & Decentralized Capital:** Establishing a SocialFi community and enabling the creation of decentralized investment funds, fostering investment opportunities and networking among traders.
+  * **Trading Bot & Alert System:** Offering automated trading capabilities through trading bots and alert systems to ensure investors don’t miss out on opportunities.
+  * **AI Integration & Chat UI:** Integrating artificial intelligence for analysis, predictions, along with a chat interface for interaction between users and the system or among traders.
+
 {% hint style="success" %}
 To get started with Copin in 5 minutes, see the[ **Quickstart** **Guide**](features/dashboard.md)**.**
 {% endhint %}
 
-### **How Copin works?**
+### **Our mission**
 
-
-
-### **Some things you can do with Copin**
-
-1. **Analyze On-Chain Trader Data**&#x20;
-
-Copin provides comprehensive on-chain trader data gathered from blockchain networks and decentralized exchanges. Users can analyze this data to gain insights into the performance, positions, and trading strategies of on-chain traders.
-
-* Evaluate Trader Rankings: Copin displays a ranking of on-chain traders based on different criteria such as ROI, PnL, win-rate, and more. Users can assess the rankings to identify successful traders and evaluate their past performance.
-* Backtesting: Enables users to assess the historical performance of traders or trading strategies before choosing to copy them. These features offer valuable insights into past performance, aiding users in evaluating potential future success.
-
-2. **Copy Trading**&#x20;
-
-Copin enables users to copy the trading signals of elite on-chain traders. Users can align their trades with those of successful traders, potentially benefiting from their expertise and achieving similar returns.
-
-* **Customize Copy Settings:** Copin allows users to customize their copy trading settings, including trade size, risk management parameters, and asset allocation. This customization empowers users to tailor their copy trading experience according to their individual preferences, risk tolerance, and investment goals.
-* **Monitor and Track Performance:** Users can monitor and track the performance of the traders they have chosen to copy. Copin provides transparency in the trading activities and historical performance of these traders, allowing users to assess the success and risk profile of their copied trades.
-* **Risk management solutions:** Through the volume protection mechanism, Copin applies an averaging method using the trader's volume within a specified range of previous orders as a protective measure. If the trader's volume is significantly smaller than the average volume of the specified range, the copier account will copy a percentage of the initially set volume. This mechanism aims to maintain a balanced approach and manage risk for copiers.
-
-<figure><img src=".gitbook/assets/Screen Shot 2023-09-15 at 10.26.40.png" alt=""><figcaption><p><em>Trader Profile</em></p></figcaption></figure>
-
-Overall, Copin aims to provide a platform for investors to analyze, evaluate, and copy the trading strategies of on-chain traders. By leveraging on-chain trader data, the platform aims to facilitate informed investment decisions and potentially enhance the trading outcomes for copiers.
+The mission of Copin is to drive the widespread acceptance and understanding of the perpetual Decentralized Exchange (perp DEX) narrative, positioning ourselves as a catalyst for the next bull run in the financial market. We believe that by illuminating the intricacies and potential of perp DEXes, we can lead a transformative shift in the decentralized finance landscape. Our goal is not only to democratize access to perp DEX data but also to empower users, from individual traders to large institutions, with the insights and tools necessary to navigate and capitalize on these emerging financial technologies. In doing so, Copin aims to be at the forefront of the next wave of innovation and growth in the DeFi sector.
