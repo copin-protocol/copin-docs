@@ -16,13 +16,13 @@ Copin's goal is to offer transparency, efficiency, and profound market insights 
 
 As a product driven by data philosophy, Copin also allows developers and other projects to utilize cleaned data through APIs to build various products. There's no limit to the ideas that can be constructed on top of Copin, such as:
 
-* Decentralized copy-trading: Tracking and emulating on-chain traders' transactions
+* **Decentralized copy-trading:** Tracking and emulating on-chain traders' transactions
 * Trading bots
-* Trading competitions: Rankings of traders and hosting competitions without protocol or chain limitations
-* SocialFi: A social network for traders to meet, seek advice, and rate their favorite traders
+* **Trading competitions:** Rankings of traders and hosting competitions without protocol or chain limitations
+* **SocialFi:** A social network for traders to meet, seek advice, and rate their favorite traders
 * Telegram bot
-* Decentralized capital: A space where confident and transparent traders establish funds to attract others to participate
-* AI-powered: Abundant and unique data as an excellent resource for AI-related idea development
+* **Decentralized capital:** A space where confident and transparent traders establish funds to attract others to participate
+* **AI-powered:** Abundant and unique data as an excellent resource for AI-related idea development
 
 ## How copin works?
 
