@@ -28,7 +28,7 @@
 * [Privacy Policy](another/privacy-policy.md)
 * [Terms of Service](another/terms-of-service.md)
 * [Risk Disclaimer](another/risk-disclaimer.md)
-* [General Risk Warning and Acceptance of Copy Trading Service Usage](another/general-risk-warning-and-acceptance-of-copy-trading-service-usage.md)
+* [Agreement](another/agreement.md)
 
 ***
 

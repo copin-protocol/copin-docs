@@ -1,4 +1,8 @@
-# General Risk Warning and Acceptance of Copy Trading Service Usage
+---
+description: General Risk Warning and Acceptance of Copy Trading Service Usage
+---
+
+# Agreement
 
 ## A. **Interpretation of Risk Warning**
 
