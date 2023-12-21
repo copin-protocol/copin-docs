@@ -14,4 +14,4 @@ In real-time, the platform **displays all traders who have open positions and ra
 
 You can click on the position information row to see details right next to it
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
