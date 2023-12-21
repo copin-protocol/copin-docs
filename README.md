@@ -43,7 +43,7 @@ Copin is a platform designed for the mass adoption of the perpetual DEX narrativ
   * **AI Integration & Chat UI:** Integrating artificial intelligence for analysis, predictions, along with a chat interface for interaction between users and the system or among traders.
 
 {% hint style="success" %}
-To get started with Copin in 5 minutes, see the[ **Quickstart** **Guide**](features/dashboard.md)**.**
+To get started with Copin in 5 minutes, see the[ **Quickstart** **Guide**](broken-reference)**.**
 {% endhint %}
 
 ### **Our mission**

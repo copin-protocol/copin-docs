@@ -3,20 +3,18 @@
 ## 👋 Welcome
 
 * [Introduction](README.md)
-  * [What is on-chain trader data?](welcome/introduction/what-is-on-chain-trader-data.md)
-  * [What is decentralized copy trading?](welcome/introduction/what-is-decentralized-copy-trading.md)
 * [Methodology](welcome/methodology.md)
 * [Official Link](welcome/official-link.md)
 * [Integrators, Partners & Ecosystem](welcome/integrators-partners-and-ecosystem.md)
 * [Product Roadmap](welcome/product-roadmap/README.md)
   * [Release notes](welcome/product-roadmap/release-notes.md)
-* [FAQ](welcome/faq.md)
 
 ## 🚀 Features
 
-* [Dashboard](features/dashboard.md)
-* [Filtering](features/filtering.md)
-* [Trader profile](features/trader-profile.md)
+* [Trader Explorer](features/trader-explorer.md)
+* [Top Opening Positions](features/top-opening-positions.md)
+* [Trader Leaderboard](features/trader-leaderboard.md)
+* [Trader Profile](features/trader-profile.md)
 * [Backtesting](features/backtesting.md)
 * [Copy Trading](features/copy-trading/README.md)
   * [How to use Copy Trading?](features/copy-trading/how-to-use-copy-trading.md)
@@ -30,6 +28,7 @@
 * [Privacy Policy](another/privacy-policy.md)
 * [Terms of Service](another/terms-of-service.md)
 * [Risk Disclaimer](another/risk-disclaimer.md)
+* [General Risk Warning and Acceptance of Copy Trading Service Usage](another/general-risk-warning-and-acceptance-of-copy-trading-service-usage.md)
 
 ***
 
