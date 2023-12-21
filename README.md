@@ -24,11 +24,13 @@ As a product driven by data philosophy, Copin also allows developers and other p
 * **Decentralized capital:** A space where confident and transparent traders establish funds to attract others to participate
 * **AI-powered:** Abundant and unique data as an excellent resource for AI-related idea development
 
-## How copin works?
+## What's Copin?
 
-Copin is a platform designed for the mass adoption of the perpetual DEX narrative. It enables users to explore, analyze, and copy on-chain traders from the top of Perpetual DEX exchanges like dYdx, GMX, Kwenta, etc.
+[Copin.io](https://copin.io) is a platform designed for the mass adoption of the perpetual DEX narrative. It enables users to explore, analyze, and copy on-chain traders from the top of Perpetual DEX exchanges like dYdx, GMX, Kwenta, etc.
 
 <figure><img src=".gitbook/assets/20231122-142834.gif" alt=""><figcaption></figcaption></figure>
+
+Copin is focusing extensively on public blockchain data from decentralized exchanges, specifically perpetual decentralized exchanges (DEXs) enriching the on-chain perpetual landscape transparently and reliably. Here's a breakdown of how Copin operates:
 
 * **Data Source:** Copin listens and gathers raw transactional data from over 50 different perpetual DEX represented by various blockchain and layer2.
 * **Data Transformation:** This raw data is then processed and cleaned to form a usable dataset. This could involve noise removal, data formatting, and normalization to facilitate easier analysis and retrieval.
