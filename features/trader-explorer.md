@@ -28,7 +28,7 @@ One-stop shop for discovering and exploring the performance of on-chain traders 
 
 Includes **26 powerful and diverse criteria** for filter traders. Details of the Trader evaluation criteria can be seen in detail **here.**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 \[1] - Filter suggestions, allowing beginners to quickly filter by sets of recommended criteria.
 
