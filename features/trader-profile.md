@@ -39,11 +39,11 @@ Besides the default radar chart with 6 fields above, you can also customize the 
 
 **Compare / Find similar traders**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Ever stumbled upon a stellar trader on Copin but wished you could find others with similar strengths? Your wish is granted! Introducing Compare & Find, the latest feature on Copin Analyzer that takes your trader exploration to the next level.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Compare Traders:** Dive deep into visually comparing the trading strategies, performance metrics, and risk management approaches of two traders with two radar charts. Comparing direct balance, last trade, runtime, and markets side by side.&#x20;
 

@@ -1,5 +1,26 @@
 # Release notes
 
+
+
+<details>
+
+<summary>Copin Analyzer - 0.5.1 (12/22/2023)</summary>
+
+* Supporting search trader by smart account & search position by tx hash
+* Remaking top opening: top open interest with bubble chart, sorting by newest, PnL, or volume
+* Simplify copy trade form
+* Copy trade stop-loss tracking improvement
+* New mechanism to sync position copy trade implementation
+* Limiting copy position by bingX wallet, trader, pair and position side
+* Supporting unlink telegram account action
+* Supporting grid view for trader stats
+* Sorting copy wallets by number of active copy trades as default
+* API performance improvement
+
+![](<../../.gitbook/assets/image (1).png>)
+
+</details>
+
 <details>
 
 <summary>Copin - 0.5.0 (11/30/2023) Big Updates</summary>
@@ -58,7 +79,7 @@ Hope you enjoy this updates!
 * Changing ROI to Avg ROI to avoid misunderstanding
 * Some technical & experience enhancements
 
-<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
