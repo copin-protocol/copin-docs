@@ -15,7 +15,7 @@ Contact us directly: [https://t.me/leecopin](https://t.me/leecopin) (Founder)
 
 * Twitter: [https://twitter.com/copin\_io](https://twitter.com/copin\_io)
 * Youtube: [https://www.youtube.com/@CopinAnalyzer](https://www.youtube.com/@CopinAnalyzer)
-* Substack: [https://copin.substack.com/](https://copin.substack.com/)
+* Blog: [https://blog.copin.io](https://blog.copin.io)
 
 ## Join our community
 
