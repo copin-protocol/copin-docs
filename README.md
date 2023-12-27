@@ -59,3 +59,5 @@ As a product driven by data philosophy, Copin.io also allows developers and othe
 The objective of Copin.io is not merely to democratize access to perp DEX data but also to empower a wide spectrum of users, ranging from individual traders to large-scale institutions. By providing them with critical insights and tools, Copin.io aims to enable effective navigation and capitalization on emerging financial technologies. Through these efforts, Copin.io aspires to be at the forefront of the next wave of innovation and growth within the DeFi sector.
 
 <figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+More and more individuals and web3 projects can benefit and receive value from Copin's rich data. For example, users can access completely transparent data from the blockchain to make better decisions, and projects can create use cases from this on-chain data to create products, and useful tools like never before. [Copin.io](https://copin.io) is building such tools and platforms! In this document, you'll find everything you need to know about our features and data.
