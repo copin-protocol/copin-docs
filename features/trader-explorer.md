@@ -1,60 +1,43 @@
+---
+description: >-
+  A comprehensive platform for analyzing and tracking on-chain trader
+  performance in the Perpetual DEX ecosystem, featuring GMX, Kwenta, and
+  Polynomial.
+---
+
 # Trader Explorer
 
-One-stop shop for discovering and exploring the performance of on-chain traders within the Perpetual DEX ecosystem. GMX, Kwenta & Polynomial are now available.
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<table data-header-hidden><thead><tr><th width="202">Field</th><th>Description</th></tr></thead><tbody><tr><td><ol start="1"><li><strong>Search Box</strong></li></ol></td><td>Search efficiently for traders and positions using Wallet Addresses, Smart Accounts, and Transaction Hashes.</td></tr><tr><td><ol start="2"><li><strong>Time Filter Tabs</strong></li></ol></td><td>Enables users to select specific time frames for data filtering.</td></tr><tr><td><ol start="3"><li><strong>Trader Explorer</strong></li></ol></td><td>Provides a comprehensive view of on-chain traders, customizable through various filters.</td></tr><tr><td><ol start="4"><li><strong>Filter Addition</strong></li></ol></td><td>Offers filtering options based on parameters, including Default and Percentile settings.</td></tr></tbody></table>
 
-\[1] - Search by wallet address. An overview of all on-chain traders based on the filter you use.&#x20;
+## Default Filter
 
-\[2] - Filter by a time range: Last 7 days, last 14 days, last 30 days, last 60 days, and all time.&#x20;
+Includes **26 powerful and diverse criteria** for filter traders. Details of the Trader evaluation criteria can be seen in detail [**here**](https://docs.copin.io/welcome/methodology)**.**
 
-\[3] - An overview of all on-chain traders based on the filter you use.&#x20;
+<figure><img src="../.gitbook/assets/image (56).png" alt="" width="375"><figcaption></figcaption></figure>
 
-\[4] - Filter by parameters (Default & Percentile).
+<table data-header-hidden><thead><tr><th width="243"></th><th></th></tr></thead><tbody><tr><td><ol start="1"><li><strong>Filter Suggestion</strong></li></ol></td><td>Suggests quick-apply filters, such as "Top Tier 1" or "Reverse Copy," for users.</td></tr><tr><td><ol start="2"><li><strong>Filter Counter</strong></li></ol></td><td>Exhibits the percentage and number of traders matching filter criteria within a specified timeframe.</td></tr><tr><td><ol start="3"><li><strong>Custom Filter Criteria</strong></li></ol></td><td>Enables setting of personalized criteria for refined search results.</td></tr></tbody></table>
 
-## Filtering
+## Percentile Filter
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+The Percentile Filter applies statistical percentiles to analyze the distribution of a specific data point (e.g., PNL, Winrate) within a defined timeframe. This provides valuable insights into a **data point's relative position compared to the entire dataset**.
 
-\[1] - Filter by a time range
+<figure><img src="../.gitbook/assets/image (57).png" alt="" width="375"><figcaption></figcaption></figure>
 
-\[2] - Sort by parameter
+<table data-header-hidden><thead><tr><th width="243">Field</th><th>Description</th></tr></thead><tbody><tr><td><ol start="1"><li><strong>Filter Counter</strong></li></ol></td><td>Displays the count and percentage of traders matching specified filter conditions in a chosen timeframe.</td></tr><tr><td><ol start="2"><li><strong>Custom Filter Criteria</strong></li></ol></td><td>Enables setting of personalized criteria for refined search results.</td></tr></tbody></table>
 
-\[3] - Filter by parameter: Default Filter & Percentile Filter
+## Favorites
 
-\[4] - Customize Column
+Favorite Trader feature on the platform allows users to curate a list of traders they want to track closely.
 
-## **Default Filter**
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-Includes **26 powerful and diverse criteria** for filter traders. Details of the Trader evaluation criteria can be seen in detail **here.**
+More than that, users have the capability to bookmark traders of interest with personalized notes, which is particularly useful for:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+* Performance Review at a Glance: It facilitates quick assessments of the traders' current PnL, alpha, and other essential metrics, eliminating the need for individual searches.
+* Strategic Comparison: Users can conveniently compare the strategies and performance of their preferred traders side-by-side through tools like **Multi-backtest** or **Compare similar traders**.
+* Creation of Custom Lists: This allows for the organization of favorite traders into groups based on specific criteria such as trading style, risk profile, or asset focus, aiding in focused analysis and exploration.
 
-\[1] - Filter suggestions, allowing beginners to quickly filter by sets of recommended criteria.
-
-\[2] - The filtered results provide an estimated count of traders that meet the specified criteria.
-
-\[3] - You can easily add, edit, and delete trader filter conditions as per your requirements.
-
-**Percentile Filter**
-
-The Percentile Filter applies statistical percentiles to analyze the distribution of a specific data point (e.g., PNL, Winrate) within a defined timeframe. This provides you with valuable insights into the relative position of a data point compared to the entire dataset.
-
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-\[1] - The filtered results provide an estimated count of traders that meet the specified criteria.
-
-\[2] - You can easily add, edit, and delete trader filter conditions and percentile as per your requirements.
-
-#### Favorites
-
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
-
-You can bookmark your favorite traders on Copin that you just explored with personalized notes! By taking note of the traders you find most interesting, you can easily:
-
-* Review their performance at a glance: This allows you to quickly assess their current PnL, alpha, and other key metrics without having to search for them individually.
-* Select them for comparison with other traders: Easily compare the strategies and performance of your favorite traders side-by-side by using **Multi-backtest** or **Compare similar traders**.
-* Custom lists for specific strategies or goals: Group your favorite traders based on their trading style, risk profile, or asset focus for targeted analysis and exploration.
-
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p><a href="https://app.copin.io/favorites">https://app.copin.io/favorites</a></p></figcaption></figure>
 
