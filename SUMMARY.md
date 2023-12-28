@@ -13,7 +13,7 @@
 ## 🚀 Features
 
 * [Trader Explorer](features/trader-explorer.md)
-* [Top Opening Positions](features/top-opening-positions.md)
+* [Open Interest](features/open-interest.md)
 * [Trader Leaderboard](features/trader-leaderboard.md)
 * [Trader Profile](features/trader-profile.md)
 * [Backtesting](features/backtesting.md)
