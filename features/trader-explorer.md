@@ -7,7 +7,7 @@ description: >-
 
 # Trader Explorer
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p><a href="https://app.copin.io/">https://app.copin.io/</a></p></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="202">Field</th><th>Description</th></tr></thead><tbody><tr><td><ol start="1"><li><strong>Search Box</strong></li></ol></td><td>Search efficiently for traders and positions using Wallet Addresses, Smart Accounts, and Transaction Hashes.</td></tr><tr><td><ol start="2"><li><strong>Time Filter Tabs</strong></li></ol></td><td>Enables users to select specific time frames for data filtering.</td></tr><tr><td><ol start="3"><li><strong>Trader Explorer</strong></li></ol></td><td>Provides a comprehensive view of on-chain traders, customizable through various filters.</td></tr><tr><td><ol start="4"><li><strong>Filter Addition</strong></li></ol></td><td>Offers filtering options based on parameters, including Default and Percentile settings.</td></tr></tbody></table>
 
@@ -31,7 +31,7 @@ The Percentile Filter applies statistical percentiles to analyze the distributio
 
 Favorite Trader feature on the platform allows users to curate a list of traders they want to track closely.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p><a href="https://app.copin.io/favorites">https://app.copin.io/favorites</a></p></figcaption></figure>
 
 More than that, users have the capability to bookmark traders of interest with personalized notes, which is particularly useful for:
 
