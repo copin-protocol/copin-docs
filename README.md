@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-<figure><img src=".gitbook/assets/90a0fef1-0501-4d41-8345-f97b8b8fbda8 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20231228-105724.gif" alt=""><figcaption></figcaption></figure>
 
 In the rapidly evolving world of decentralized finance (DeFi), trading activity on decentralized exchanges (DEX) offering perpetual derivative products has reached impressive figures. Currently, there are over 50 active perpetual DEX across various blockchains and Layer2 networks, hosting more than 2 million traders and facilitating a trading volume exceeding $330 billion. Given the immense scale and complexity of the perpetual DEX landscape in DeFi, the need for a comprehensive and efficient tool becomes paramount.&#x20;
 
