@@ -25,7 +25,7 @@ A Trader Profile is automatically generated for each wallet address engaged in t
 
 \[6] - Trading frequency
 
-![](<../.gitbook/assets/image (66).png>)\[7] - Transaction history
+\[7] - Transaction history
 
 ### **1. Percentile Ranking Radar Chart**
 
@@ -39,6 +39,8 @@ An encompassing overview of their trading style is evaluated based on the follow
 * Quickly Settled
 
 In addition to the default radar chart featuring the six fields mentioned above, the option to customize the radar chart according to one's preferences is available by altering other parameters, such as High PnL, High Max ROI, Low Leverage, High Profit Rate, High PnL ratio, and Low Overtrading.
+
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 #### **Compare / Find similar traders**
 
