@@ -1,32 +1,35 @@
+---
+description: >-
+  The trader profile page provides comprehensive statistics, including trading
+  frequency, profit performance, and a detailed transaction history, enabling a
+  thorough analysis of the trader's trading act
+---
+
 # Trader Profile
 
-The trader profile page provides comprehensive statistics, including trading frequency, profit performance, and a detailed transaction history, allowing for a thorough analysis of the trader's trading activities and performance.
+## Overview
 
-## Trader Profile
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+A Trader Profile is automatically generated for each wallet address engaged in trades on the perpetual DEX protocol. Access to a trader profile can be done through [Trader Explorer](https://app.copin.io/), [Leaderboard](https://app.copin.io/leaderboard), or by pasting the wallet address if traders have opened interest in Polynomial, Kwenta, or GMX. An on-chain trader profile on Copin encompasses seven components
 
-A dedicated Trader Profile is automatically generated for each wallet address engaging in trades on the perpetual DEX protocol. If you have traded on Polynomial, Kwenta, or GMX, paste your wallet address into the 'Search Address' to explore your trader profile. An on-chain trader profile on Copin now has 7 parts:&#x20;
-
-\[1] - Percentile Ranking Radar Chart: Shows an overview of the trader's trading style based:
+\[1] - Percentile Ranking Radar Chart
 
 \[2] - The PnL profit fluctuation chart
 
-\[3] - An overview of all opening positions&#x20;
+\[3] - Current Open Positions
 
-\[4] - Positions chart&#x20;
+\[4] - Positions chart
 
-\[5] - Stats&#x20;
+\[5] - Stats
 
-\[6] - Trading frequency&#x20;
+\[6] - Trading frequency
 
-\[7] - Transaction history
+![](<../.gitbook/assets/image (66).png>)\[7] - Transaction history
 
-***
+### **1. Percentile Ranking Radar Chart**
 
-### **\[1] - Percentile Ranking Radar Chart**
-
-Shows an overview of the trader's trading style based:
+An encompassing overview of their trading style is evaluated based on the following criteria
 
 * High Avg ROI
 * High Avg Volume
@@ -35,80 +38,49 @@ Shows an overview of the trader's trading style based:
 * Frequently Trade
 * Quickly Settled
 
-Besides the default radar chart with 6 fields above, you can also customize the radar chart to your style by changing other fields: High PnL, High Max ROI, Low Leverage, High Profit Rate, High PnL ratio, Low Overtrading.
+In addition to the default radar chart featuring the six fields mentioned above, the option to customize the radar chart according to one's preferences is available by altering other parameters, such as High PnL, High Max ROI, Low Leverage, High Profit Rate, High PnL ratio, and Low Overtrading.
 
-**Compare / Find similar traders**
+#### **Compare / Find similar traders**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+The 'Compare & Find Similar Traders' feature on Copin Analyzer is a key tool in enhancing copytrading strategies. It enables users to analyze and learn from a variety of successful trading styles, fostering the development of refined and innovative trading tactics, including Reverse Copy trading. This feature is essential for deepening market understanding and broadening strategic horizons in trading.
 
-Ever stumbled upon a stellar trader on Copin but wished you could find others with similar strengths? Your wish is granted! Introducing Compare & Find, the latest feature on Copin Analyzer that takes your trader exploration to the next level.
+<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+#### **Compare Traders**
 
-* **Compare Traders:** Dive deep into visually comparing the trading strategies, performance metrics, and risk management approaches of two traders with two radar charts. Comparing direct balance, last trade, runtime, and markets side by side.&#x20;
+Engage in an in-depth analysis by visually comparing the trading strategies, performance metrics, and risk management techniques of two traders using dual radar charts. This comparison includes a side-by-side evaluation of direct balance, last trade, runtime, and market approaches. To initiate the comparison feature, select a trader based on criteria through one of the following methods:&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+* Address Search
+* Favorites List Selection&#x20;
+* Ongoing Copytrade Traders List
 
-Copin also brings you Percentile Ranking Comparison, allowing you to assess traders based on their percentile rankings. Compare and find traders who match your percentile criteria, adding an extra layer to your trading analysis!
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
-* **Find Similar Traders (Premium)**: Looking for like-minded traders? Explore the new 'Find Similar Traders' feature to discover others who align with your trading preferences and style.
+More than that, Copin has also added the Percentile Ranking Comparison tool which allows for refined evaluation of traders based on their percentile rankings, enhancing trading analysis by pinpointing those who meet specific performance benchmarks.
 
-### **\[2] - The PnL profit fluctuation chart**
+#### **Find Similar Traders (Premium)**
 
-Displays the variation in profit and loss for a trader across different time periods. It helps in assessing the trader's ability to generate consistent profits and understanding the volatility of their trading strategy. Visualize the data as a **line chart** or **bar chart**, whichever suits your analysis needs. Additionally, you'll find essential details about traders:
+To enhance the trading experience, 'Find Similar Traders' feature is designed for users to connect with traders whose strategies and styles complement their chosen ones. Access to this customized tool is available if you upgrade to Premium Account.
 
-* Balances: The current account balance of the trader
-* Last trade: Most recent trade order
-* Runtime: The period from the initiation of trading activity on the protocol until now
+### **2. The PnL profit fluctuation chart**
 
-### **\[3]** - **Opening position**
+The PnL Profit Fluctuation Chart offers a graphical representation of a trader's profit and loss variations over different time frames. This feature aids in evaluating a trader's consistency in generating profits and the volatility of their trading strategy. Users can choose between a line or bar chart for data visualization.
 
-Opening position refers to the display of the trader's current open positions. Once a trader closes a position, that position will be displayed below in the **History** section**\[4] - Positions chart:** Shows the history of price movement and position history (open, close, increase, decrease) on the body of the candlestick so that you can observe an overview of the trader's trading strategy.
+Accompanying this chart are key trader details:
 
-### **\[4] - Positions chart**
+* Balances: Displays the current balance of the trader.
+* Last Trade: Indicates the trader's most recent trading order.
+* Runtime: Shows the length of time since the trader began activities on the protocol.
 
-Shows the history of price movement and position history (open, close, increase, decrease) on the body of the candlestick so that you can observe an overview of the trader's trading strategy.
+<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+### **3. Opening position**
 
-Zoom the Candlestick Chart in for precision, switch between multiple time frames M5, M15, H1, H4, and D (1), and explore a variety of trader's trading pairs (2).
+The 'Opening Position' section displays the trader's currently active open positions. When a position is closed by the trader, it is then documented in the 'History' section for reference.
 
-### **\[5]** - **Stats**
+### **4. Positions chart**
 
-The detailed statistics of a trader's trading performance encompass various key metrics and time frames.
+Positions chart presents a detailed history of price movements and position changes (open, close, increase, decrease) within candlestick formations, providing an overview of the trader's strategy.
 
-<figure><img src="../.gitbook/assets/2012 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-Feel empowered to tailor your trader evaluation using indicators, sorting options, and customized filters that align with your trading style and individual preferences 👇
-
-### **\[6] - Trading frequency**
-
-The heatmap activity feature is tucked away, waiting for you to discover it. When shown, it unveils the journey and consistency of traders.
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-The trader's trading frequency is categorized into five different levels, each represented by ascending color levels. This visualization provides a clear depiction of the trader's activity level, showcasing how frequently they engage in trading. The ascending color levels help illustrate the increasing intensity or frequency of the trader's trading activity.
-
-### **\[7] - Transaction history**
-
-The trader's transaction history includes important details such as the timestamp of each trade, entry price, trade size, leverage utilized, and the associated Profit and Loss (PnL) for each trade.
-
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
-These details provide a comprehensive overview of the trader's trading activities, allowing for in-depth analysis of their entry points, trade sizes, risk management through leverage, and overall profitability.
-
-## Position details
-
-To view the detailed history of each position, simply click on the respective position. The position's history includes relevant information such as entry points, exit points, profit/loss, duration, and any associated transactions.
-
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-**\[1] - The position's profit and loss (PNL):** movement history displays the historical changes in PNL for the specific position. You can track the performance of the position over time, observe the fluctuations in its profitability, and gain insights into its overall financial performance.**\[2] - The history of the position:** encompasses the trading orders associated with it, including open, close, increase, decrease, and liquidated orders. This record provides a detailed overview of the position's lifecycle, highlighting the specific actions taken throughout its existence. By reviewing this history, you can understand the sequence of trading orders executed for the position, enabling a thorough analysis of its performance and management.
-
-* _**Open**_: Initiate a new position by entering into a trade.
-* _**Increase**_: Add to the volume (amount of money) of an existing position, also referred to as order stuffing or dollar-cost averaging (DCA).
-* _**Decrease**_: Reduce the volume (amount of money) of an existing position, also known as position lock or cutting off.
-* _**Close**_: Terminate or exit the position, resulting in the closure of the trade. The closing of the position includes the profit earned and the Return on Investment (ROI).
-* _**Liquidated**_: The position has been forcefully closed by the exchange or platform, usually due to reaching a predetermined threshold or margin call, resulting in the liquidation of the position.
-
-**\[3] - What If:** when you review a trader's profile, you can simulate the potential outcomes of holding positions longer. You can set it from 1 → 48 hours to evaluate if it's a good exit point.
