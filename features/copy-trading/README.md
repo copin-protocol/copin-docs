@@ -39,7 +39,7 @@ Select and fill in all the required information in the setup section
 
 #### Advance settings
 
-<table data-header-hidden><thead><tr><th width="197"></th><th></th></tr></thead><tbody><tr><td>Max Margin Per Position</td><td>Sets a maximum margin limit per position when the trader increases the position.</td></tr><tr><td>Margin Protection</td><td><p>Always activated.</p><p>This feature adjusts your order volumes to match the recent trading behavior of the selected trader in which the system analyzes the trader's last 10 orders, ensuring your investments proportionally reflect any changes in their trading strategy, without relying on fixed order sizes.</p></td></tr><tr><td>Skip Lower Leverage Position</td><td>Skips copying trades with lower leverage than specified.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="197"></th><th></th></tr></thead><tbody><tr><td>Max Margin Per Position</td><td>Sets a maximum margin limit per position when the trader increases the position.</td></tr><tr><td>Margin Protection</td><td>This feature adjusts your order volumes to match the recent trading behavior of the selected trader in which the system analyzes the trader's last 10 orders, ensuring your investments proportionally reflect any changes in their trading strategy, without relying on fixed order sizes.</td></tr><tr><td>Skip Lower Leverage Position</td><td>Skips copying trades with lower leverage than specified.</td></tr></tbody></table>
 
 ### **Step 3/ Execute the Copy Trading Order**
 
