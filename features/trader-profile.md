@@ -84,3 +84,48 @@ Positions chart presents a detailed history of price movements and position chan
 
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
+Users can zoom in on the Candlestick Chart for detailed analysis, toggle between multiple time frames (M5, M15, H1, H4, D1), and examine the trader's diverse trading pairs.
+
+### **5. Stats**
+
+Stats is a section that offers comprehensive statistics on a trader's performance, covering a range of key metrics across various time frames.
+
+Users are enabled to fine-tune their evaluation of traders with the use of indicators, sorting options, and custom filters, ensuring alignment with individual trading styles and preferences.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### **6. Trading frequency**
+
+Part of Trading Frequency is the Heatmap that reveals the trading journey and consistency of traders upon exploration. It is designed to unfold the progression and regularity of a trader's market engagement.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Additionally, the trading frequency of a trader is classified into five distinct levels, each represented by progressively intense color hues on the Heatmap. The frequency and intensity of the trader's trading engagements are effectively illustrated through this visual representation, offering a clear and concise overview of their activity levels via color gradation.
+
+### **7. Transaction history**
+
+The Transaction History of a trader highlights crucial details, including trade timestamps, entry prices, trade sizes, leverage utilization, and the associated Profit and Loss (PnL) for each trade.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+This information provides a comprehensive overview of the trader's trading activities, enabling an in-depth analysis of their entry points, trade sizes, risk management through leverage, and overall profitability.
+
+## Position details
+
+To view the detailed history of each position, simply click on the respective position. The position's history includes relevant information such as entry points, exit points, profit/loss, duration, and any associated transactions.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### **1. The position's profit and loss (PNL)**
+
+The PNL movement history presents the historical evolution of PNL for the specific position. It allows for tracking the position's performance over time, observing fluctuations in its profitability, and gaining insights into its overall financial performance.
+
+### **2. The history of the position**
+
+This section encompasses all trading orders associated with the position, including open, close, increase, decrease, and liquidated orders. The record offers a detailed overview of the position's lifecycle, highlighting specific actions taken during its existence. Reviewing this history facilitates a comprehensive analysis of the position's performance and management.
+
+<table data-header-hidden><thead><tr><th width="176"></th><th></th></tr></thead><tbody><tr><td><strong>Open</strong></td><td>Initiate a new position through a trade.</td></tr><tr><td><strong>Increase</strong><br></td><td>Augment the volume (monetary amount) of an existing position, also known as order stuffing or dollar-cost averaging (DCA).</td></tr><tr><td><strong>Decrease</strong></td><td>Reduce the volume (monetary amount) of an existing position, also termed as position lock or cutting off.</td></tr><tr><td><strong>Modified Margin</strong></td><td>Adjust the position margin by either increasing or decreasing it.<br></td></tr><tr><td><strong>Close</strong></td><td>Conclude or exit the position, resulting in trade closure, inclusive of accrued profit and Return on Investment (ROI).</td></tr><tr><td><strong>Liquidated</strong></td><td>The position is automatically closed by the exchange or platform when it reaches a predefined threshold or experiences a margin call, leading to position liquidation.</td></tr></tbody></table>
+
+### **3. Time Range Adjustment**
+
+When reviewing a trader's profile, user has the option to simulate potential outcomes by adjusting the holding period from 1 to 48 hours to assess optimal exit points.
