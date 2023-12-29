@@ -1,19 +1,105 @@
+---
+description: >-
+  Integrated with platforms such as GMX, Kwenta, and Polynomial, Copytrading on
+  Copin allows users to effortlessly mirror the strategies of experienced
+  traders, blending convenience with expertise.
+---
+
 # Copy Trading
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2023-09-18 at 14.09.37.png" alt=""><figcaption></figcaption></figure>
+At Copin, the Copytrading feature elegantly addresses the diverse needs within Perp DEXs, offering a dual advantage. It serves as an educational platform for new users, guiding them through a controlled and risk-managed trading environment, while also providing advanced traders with sophisticated tools to enhance their trading strategies. This balanced approach ensures that Copin is an invaluable resource for traders at any level of expertise.
 
-To start a copy trader, please click the **\[Copy Trader]** button.\
+## **How to start Copy Trading?**
+
+The process of copy trading involves choosing an experienced trader to follow and then mirroring their trading activities in your own portfolio. Here’s how it works:
+
+### **Step 1/ Selecting a Trader**
+
+In the first step of Copin's Copytrading, selecting a trader is streamlined through [Trader Explorer](https://app.copin.io/), [Leaderboard](https://app.copin.io/leaderboard), or by a known trader's wallet address.
+
+Ensure their performance and strategies align with your investment goals with Copin's integrated assessment tools.
+
+Once you find the right match, you can begin copying their trades with a simple click on the 'Copy Trader' button.
+
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+
+### **Step 2/ Investment Allocation**
+
+Select and fill in all the required information in the setup section
+
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+
+#### Basic settings
+
+<table data-header-hidden><thead><tr><th width="157">Field</th><th>Description</th></tr></thead><tbody><tr><td>Label</td><td>A field where the user can assign a custom label or name for the copying order.</td></tr><tr><td>Copy Wallet</td><td>Offers a dropdown menu for selecting the appropriate wallet for copy trading, with an additional option to create a new one.</td></tr><tr><td>Margin</td><td>Sets the upper limit for the margin per order in USD when mirroring a trader's actions.</td></tr><tr><td>Trading Pairs</td><td><p>Provides options for users for selecting specific cryptocurrency pairs to follow, such as BTC and ETH.</p><p><em><strong>Follow the trader</strong>: Enables users to automatically replicate all trade orders made by the selected trader, regardless of the specific cryptocurrency pairs involved.</em></p></td></tr><tr><td>Leverage</td><td>Allows users to adjust their leverage level, ranging from 2x to 20x, thereby scaling their buying power accordingly.</td></tr><tr><td>Reverse Copy</td><td>Toggles the option for users to execute trades in the opposite direction to the trader’s actions.</td></tr></tbody></table>
+
+#### Stoploss setting
+
+<table data-header-hidden><thead><tr><th width="189"></th><th></th></tr></thead><tbody><tr><td>Position Stop Loss</td><td>Toggles the option for users to execute trades in the opposite direction to the trader’s actions.</td></tr></tbody></table>
+
+#### Advance settings
+
+<table data-header-hidden><thead><tr><th width="197"></th><th></th></tr></thead><tbody><tr><td>Max Margin Per Position</td><td>Sets a maximum margin limit per position when the trader increases the position.</td></tr><tr><td>Margin Protection</td><td><p>Always activated.</p><p>This feature adjusts your order volumes to match the recent trading behavior of the selected trader in which the system analyzes the trader's last 10 orders, ensuring your investments proportionally reflect any changes in their trading strategy, without relying on fixed order sizes.</p></td></tr><tr><td>Skip Lower Leverage Position</td><td>Skips copying trades with lower leverage than specified.</td></tr></tbody></table>
+
+### **Step 3/ Execute the Copy Trading Order**
+
+Tick to **Checkbox**: Requires users to confirm they have read and agree to the Copytrading Service Agreement. Initiates the copy trading process based on the settings by clicking on **Copy Trade** button
+
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
+## **How to connect your BingX account with Copin.io?**
+
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+
+Currently, Copin Analyzer's Beta version facilitates copy trading exclusively with BingX. The connection process involves:
+
+<table data-header-hidden><thead><tr><th width="248"></th><th></th></tr></thead><tbody><tr><td><strong>BingX Account Setup</strong></td><td>Create an account, unless you already have one.</td></tr><tr><td><strong>2FA Activation</strong></td><td>Enhance security by enabling two-factor authentication.</td></tr><tr><td><strong>API Key Creation</strong></td><td>Generate an API key for Copin Analyzer integration.</td></tr><tr><td><strong>Fund Deposit and Transfer</strong></td><td>Deposit funds into BingX and transfer them to your <strong>perpetual future</strong> account.</td></tr></tbody></table>
+
+For any difficulties, we invite you to join [the Copin.io community](https://t.me/Copin\_io) where our admin team is ready to assist.
+
+### **Step 1/ BingX Account Setup**
+
+1. **Website Visit**: Go to the BingX website ([https://bingx.com](https://bingx.com/)) and click \[Register] in the top right corner.
+2. **Account Registration**: Opt to register with either your email or phone number, set your password, and use the referral code **DY5QNN** for initial account benefits.
+3. **Security Verification**: Complete the puzzle for security verification and enter the verification code sent to your email or phone number to finalize registration.
+
+### Step 2/ **2FA Activation**
+
+1. **Access Settings**: Log into the BingX website, click the avatar icon, and select \[Account & Security].
+2. **Enable Google Verification**: In the "Security Center" section, find "Google Verification" and click \[Link].
+3. **Install Google Authenticator**: Scan the QR code for your mobile OS (iOS/Android) to download Google Authenticator, or get it directly from the app store.
+4. **Set Up in Authenticator**: Open Google Authenticator, tap the "+" sign, and scan the webpage's QR code or enter the provided BingX key manually by selecting "Enter a setup key".
+5. **Complete Verification**: Solve the verification puzzle, enter the codes from your email and Google Authenticator, and click \[Submit] to finish the binding process.
+
+### Step 3/ **Generate an API key**
+
+1. **API Settings**: Visit [https://bingx.com/en-us/account/api/](https://bingx.com/en-us/account/api/) and click \[Create API].
+2. **API Naming**: Choose a simple, memorable name for easy identification.
+3. **Security Confirmation**: Confirm your security settings before proceeding.
+4. **Modify API Info**: Click \[Edit] to adjust API details.
+5.  **Select Permissions**: Ensure only 'Read' and 'Perpetual Futures Trading' are selected, and set to 'Unrestricted'.
+
+    _**Important**: The Secret Key is displayed only once. It will be hidden after a page refresh or closure. Securely store it!_
+6. **Final Security Confirmation**: Complete the process with a final security verification
+
+### Step 4/ **Fund Deposit and Transfer**
+
+To transfer funds to your Perpetual Fund Account after depositing into your Fund Account, follow these steps:
+
+**For Mobile**:
+
+1. Go to \[Assets] and select \[Transfer].
+2. Ensure \[From] is your current fund, and \[To] is the Perpetual Futures Account.
+3. Enter the USDT amount in \[Size].
+4. Tap \[Transfer] to finish.
+
+**For PC**:
+
+1. On the BingX homepage, hover over the wallet icon at the top right and click \[Transfer].
+2. Verify \[From] as your current fund, and \[To] as the Perpetual Futures Account.
+3. Input the USDT amount into \[Transfer Amount].
+4. Click \[Transfer] to complete the process.
+
 \
-**In the current Beta version:**
+After transferring funds to your Perpetual Futures Account on BingX, you are ready to begin the process of copy trading on Copin and leverage investment strategies from experienced traders.
 
-* Only support copy traders from GMX, so make sure you copy GMX traders instead of Kwenta traders
-* Only supports copy trading through the BingX partnership. Please refer to the detailed step-by-step guide [here](https://tutorial.copin.io/)
-
-{% hint style="info" %}
-The copy-trading feature is available for users who have successfully registered a Copin account:
-
-* **Basic account:** Maximum of 3 traders you can copy simultaneously.
-* **Premium account**: There is no limit to the number of traders you can copy.
-
-To upgrade to a premium account, please contact the Telegram: [@leecopin](https://t.me/leecopin)
-{% endhint %}
