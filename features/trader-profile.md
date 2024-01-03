@@ -114,7 +114,7 @@ This information provides a comprehensive overview of the trader's trading activ
 
 ## Position details
 
-To view the detailed history of each position, simply click on the respective position. The position's history includes relevant information such as entry points, exit points, profit/loss, duration, and any associated transactions.
+To view the detailed history of each position, simply click on the respective position of the order. The position's history includes relevant information such as entry points, exit points, profit/loss, duration, and any associated transactions.
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 

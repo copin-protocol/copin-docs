@@ -43,7 +43,7 @@ Select and fill in all the required information in the setup section
 
 ### **Step 3/ Execute the Copy Trading Order**
 
-Tick to **Checkbox**: Requires users to confirm they have read and agree to the Copytrading Service Agreement. Initiates the copy trading process based on the settings by clicking on **Copy Trade** button
+Finally, to proceed with copy trading, check the agreement box to confirm you've read and accept the Copytrading Service Agreement, then click 'Copy Trade' to start.
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 

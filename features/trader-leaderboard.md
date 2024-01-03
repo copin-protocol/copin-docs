@@ -7,7 +7,7 @@ description: >-
 
 # Trader Leaderboard
 
-Displaying rankings monthly and weekly, the leaderboard enables comparisons of traders based on trades, wins, losses, liquidations, volume, fees, and PnL. It spotlights top performers on platforms like GMX, Polynomial, and Kwenta, with plans to broaden its scope.
+Displaying rankings monthly and weekly, the leaderboard enables comparisons of traders based on trades, wins, losses, liquidations, volume, fees, and PnL. It spotlights top performers on platforms integrated in Copin with plans to broaden its scope.
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><a href="https://app.copin.io/leaderboard">https://app.copin.io/leaderboard</a></p></figcaption></figure>
 

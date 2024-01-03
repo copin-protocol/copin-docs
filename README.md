@@ -16,19 +16,19 @@ This necessity arises from the difficulty in accessing, analyzing, and effective
 
 ## What is Copin.io?
 
-[Copin.io](https://copin.io) is a platform designed for the mass adoption of the perpetual DEX narrative. It enables users to explore, analyze, and copy on-chain traders from the top of Perpetual DEX exchanges like dYdx, GMX, Kwenta, etc.
+[Copin.io](https://copin.io) is a platform designed for the mass adoption of the perpetual DEX narrative. It enables users to explore, analyze, and copy on-chain traders from the top of Perpetual DEXs including dYdx, GMX, Kwenta, etc.
 
 <figure><img src=".gitbook/assets/20231122-142834.gif" alt=""><figcaption></figcaption></figure>
 
-Our focus is on leveraging on-chain data from Decentralized Perpetual Exchanges to mitigate market fragmentation. We aim to utilize this data for diverse applications like copy trading, social trading platforms or advanced trader data analysis tools.
+Our focus is on leveraging on-chain data from perpetual DEXs to mitigate market fragmentation. We aim to utilize this data for diverse applications like copy trading, social trading platforms or advanced trader data analysis tools.
 
 ### Our data framework
 
-Copin.io is focusing extensively on public blockchain data from decentralized exchanges, specifically perpetual decentralized exchanges (DEXs) enriching the on-chain perpetual landscape transparently and reliably. Here's a breakdown of how Copin operates:
+Copin.io is concentrating intensively on public blockchain data from DEXs, specifically perpetual DEXs, enhancing the on-chain perpetual landscape with transparency and reliability. Here's an explanation of Copin's operations:
 
 #### **Extract & Load**
 
-First, raw on-chain trading data from perpetual DEXs such as GMX, Kwenta, PolynomialFi, dYdX, and others is extracted and loaded into a dedicated data warehouse.
+First, raw on-chain trading data from perpetual DEXs is extracted and loaded into a dedicated data warehouse.
 
 #### **Data Transformation**
 
@@ -40,7 +40,7 @@ Finally, this rich dataset serves as the foundation for Copin's API, which, in t
 
 ## Our mission
 
-The mission of Copin.io is to drive the widespread acceptance and understanding of the perpetual Decentralized Exchange (perp DEX) narrative, positioning ourselves as a catalyst for the next bull run in the financial market. We believe that by illuminating the intricacies and potential of perp DEXes, we can lead a transformative shift in the decentralized finance landscape.
+The mission of Copin.io is to drive the widespread acceptance and understanding of the perpetual DEX narrative, positioning ourselves as a catalyst for the next bull run in the financial market. We believe that by illuminating the intricacies and potential of perp DEXs, we can lead a transformative shift in the decentralized finance landscape.
 
 <figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
