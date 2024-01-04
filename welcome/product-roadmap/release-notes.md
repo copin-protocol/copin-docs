@@ -1,6 +1,19 @@
 # Release notes
 
-## Copin Analyzer - 0.5.1 (12/22/2023)
+## Copin - 0.5.2 (1/04/2024)
+
+* New feature: Token preferences in trader profile
+* Take profit for copytrade implementation
+* Added closed type in copy position history
+* Improving table UIs of copy trades management, copy positions & activities
+* Improving Copin Subscription extending experience
+* And some system optimization
+
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary>Copin - 0.5.1 (12/22/2023)</summary>
 
 * Supporting search trader by smart account & search position by tx hash
 * Remaking top opening: top open interest with bubble chart, sorting by newest, PnL, or volume
@@ -13,11 +26,13 @@
 * Sorting copy wallets by number of active copy trades as default
 * API performance improvement
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
+
+</details>
 
 <details>
 
-<summary>Copin Analyzer - 0.5.0 (11/30/2023) Big Updates</summary>
+<summary>Copin - 0.5.0 (11/30/2023) Big Updates</summary>
 
 * Detailed percentile ranking with trader comparision
 * Mobile UX/UI responsive optimization
@@ -39,7 +54,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.4.2 (11/03/2023)</summary>
+<summary>Copin - 0.4.2 (11/03/2023)</summary>
 
 * Changing copy trading experience: Create a wallet with an API key, avoid re-entering multiple times
 * New feature: Leaderboard
@@ -53,7 +68,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.4.1 (10/26/2023)</summary>
+<summary>Copin - 0.4.1 (10/26/2023)</summary>
 
 * Making the position sharing link be more friendly
 * Improving SEO contents
@@ -65,7 +80,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.4.0 (10/19/2023)</summary>
+<summary>Copin - 0.4.0 (10/19/2023)</summary>
 
 * Adding percentile ranking filters in explorer
 * Now you can filter ranking chart by 7 / 15 / 30 / 60 days performance
@@ -79,7 +94,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.3.4 (10/09/2023) </summary>
+<summary>Copin - 0.3.4 (10/09/2023) </summary>
 
 * Sharing position details with chart image
 * Optimizing copytrade management experience
@@ -96,7 +111,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.3.3 (09/29/2023)</summary>
+<summary>Copin - 0.3.3 (09/29/2023)</summary>
 
 * Let's invite some friends using Copin! Referral feature has been release with promising benefits in the future. You can check your referral code here: [https://app.copin.io/me/referral](https://app.copin.io/me/referral)
 * Tab experience enhancement
@@ -108,7 +123,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.3.2 (09/13/2023)</summary>
+<summary>Copin - 0.3.2 (09/13/2023)</summary>
 
 * Now you can set max volume multiplier for each copytrade. (Eg: initial volume is $100, max volume multiplier = 3 => max volume is $300)
 * Added new config for account: max opening positions per API Key
@@ -123,7 +138,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.3.1  (09/05/2023)</summary>
+<summary>Copin - 0.3.1  (09/05/2023)</summary>
 
 * Trader profile sharing with PnL image
 * Now you can easily share multi/single backtest results by sending links
@@ -141,7 +156,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.3.0 (08/23/2023) Big Updates</summary>
+<summary>Copin - 0.3.0 (08/23/2023) Big Updates</summary>
 
 * Trader statistics enhancements:
   * You may now choose which fields to display.
@@ -167,7 +182,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin Analyzer - 0.2.1 (08/14/2023)</summary>
+<summary>Copin - 0.2.1 (08/14/2023)</summary>
 
 * New My Profile, a powerful interface for managing your copy trades
 * Now you can copy address when hovering trader's address in Trader Explorer
@@ -180,7 +195,7 @@ Hope you enjoy this updates!
 
 ***
 
-#### Copin Analyzer v0.1.0 (08/08/2023) 🍾 - Private Beta version release
+#### Copin v0.1.0 (08/08/2023) 🍾 - Private Beta version release
 
 [https://twitter.com/Copin\_io/status/1686243157745479680](https://twitter.com/Copin\_io/status/1686243157745479680)\
 \
