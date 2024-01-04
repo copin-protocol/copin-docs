@@ -22,6 +22,10 @@
 * [Copin API](features/copin-api/README.md)
   * [Public API docs](features/copin-api/public-api-docs.md)
 
+***
+
+* [👑 Upgrade to premium](upgrade-to-premium.md)
+
 ## 📜 another
 
 * [What do people say?](another/what-do-people-say.md)
@@ -29,7 +33,3 @@
 * [Terms of Service](another/terms-of-service.md)
 * [Risk Disclaimer](another/risk-disclaimer.md)
 * [Agreement](another/agreement.md)
-
-***
-
-* [👑 Upgrade to premium](upgrade-to-premium.md)
