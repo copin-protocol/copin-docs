@@ -80,13 +80,17 @@ Accompanying this chart are key trader details:
 
 The 'Opening Position' section displays the trader's currently active open positions. When a position is closed by the trader, it is then documented in the 'History' section for reference.
 
-### **4. Positions chart**
+### **4. Token referrences**
 
-Positions chart presents a detailed history of price movements and position changes (open, close, increase, decrease) within candlestick formations, providing an overview of the trader's strategy.
+Easily assess trading performance statistics by token, neatly aligned with a dynamic candlestick chart.
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://decentralab.larksuite.com/space/api/box/stream/download/asynccode/?code=ODJjODBmYzNmZDIzYWEzYzg1MGI2MWVmOGE0MDk0NWNfTFA5a2tTUHA1SkN1V3gwQ0FCS1laSU5LbjhPVHVrcXZfVG9rZW46QjhFSGJkb1dRb05heWt4MXJhSnVnWU5Nc3BmXzE3MDUyODUxNDM6MTcwNTI4ODc0M19WNA" alt=""><figcaption></figcaption></figure>
 
-Users can zoom in on the Candlestick Chart for detailed analysis, toggle between multiple time frames (M5, M15, H1, H4, D1), and examine the trader's diverse trading pairs.
+The left bar, 'Token Preference,' provides a detailed breakdown of the trader's activity and success rate across various trading pairs. It displays key metrics such as the number of executed trades, win rate percentage, traded volume, and profit or loss for a specific pair.
+
+<figure><img src="../.gitbook/assets/Trader 0xEed---6B7 on KWENTA - Google Chrome 2024-01-10 17-59-31.gif" alt=""><figcaption></figcaption></figure>
+
+Users have the option to select a specific pair and zoom in on the Candlestick Chart for in-depth analysis. Easily toggle between multiple time frames (M5, M15, H1, H4, D1), and assess the trader's trading frequency along with entry and exit points.
 
 ### **5. Stats**
 
