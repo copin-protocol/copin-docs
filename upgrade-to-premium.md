@@ -17,6 +17,10 @@ Elevate your trading experience with a Copin Premium Account to enjoy EXCLUSIVE 
 
 <table data-header-hidden><thead><tr><th width="240"></th><th></th></tr></thead><tbody><tr><td><strong>Type</strong></td><td>ERC-721</td></tr><tr><td><strong>Blockchain</strong></td><td>Optimism</td></tr><tr><td><strong>Contract</strong></td><td>0xE77C8B98D21e7Aa2960A90AebDf0B50EAb83Ff55</td></tr><tr><td><strong>Opensea Official Link</strong></td><td>https://opensea.io/collection/copin-subscription</td></tr><tr><td><strong>Subscription details</strong></td><td></td></tr><tr><td><strong>Mint Price</strong></td><td>0.01 ETH</td></tr><tr><td><strong>Subscription Validity</strong></td><td>30 days from the date of activation</td></tr></tbody></table>
 
+After the expiration of your NFT Subscription, you have the option to renew it for 3 months, 6 months, or 1 year, unlocking additional discounts when minting NFTs.
+
+<figure><img src=".gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 _NFTs can be transferred from mint wallet address to another wallet to use Premium account features_
 {% endhint %}

@@ -21,7 +21,7 @@ Ensure their performance and strategies align with your investment goals with Co
 
 Once you find the right match, you can begin copying their trades with a simple click on the 'Copy Trader' button.
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2/ Investment Allocation**
 
@@ -43,9 +43,11 @@ Select and fill in all the required information in the setup section
 
 ### **Step 3/ Execute the Copy Trading Order**
 
-Finally, to proceed with copy trading, check the agreement box to confirm you've read and accept the Copytrading Service Agreement, then click 'Copy Trade' to start.
+Tick to **Checkbox**: Requires users to confirm they have read and agree to the Copytrading Service Agreement.
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+Initiates the copy trading process based on the settings by clicking on **Copy Trade** button
+
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ## **How to connect your BingX account with Copin.io?**
 
