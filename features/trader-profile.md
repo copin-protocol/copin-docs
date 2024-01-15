@@ -19,7 +19,7 @@ A Trader Profile is automatically generated for each wallet address engaged in t
 
 \[3] - Current Open Positions
 
-\[4] - Positions chart
+\[4] - Token preference
 
 \[5] - Stats
 
@@ -80,7 +80,7 @@ Accompanying this chart are key trader details:
 
 The 'Opening Position' section displays the trader's currently active open positions. When a position is closed by the trader, it is then documented in the 'History' section for reference.
 
-### **4. Token referrences**
+### **4. Token preference**
 
 Easily assess trading performance statistics by token, neatly aligned with a dynamic candlestick chart.
 

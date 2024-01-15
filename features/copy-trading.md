@@ -33,9 +33,9 @@ Select and fill in all the required information in the setup section
 
 <table data-header-hidden><thead><tr><th width="157">Field</th><th>Description</th></tr></thead><tbody><tr><td>Label</td><td>A field where the user can assign a custom label or name for the copying order.</td></tr><tr><td>Copy Wallet</td><td>Offers a dropdown menu for selecting the appropriate wallet for copy trading, with an additional option to create a new one.</td></tr><tr><td>Margin</td><td>Sets the upper limit for the margin per order in USD when mirroring a trader's actions.</td></tr><tr><td>Trading Pairs</td><td><p>Provides options for users for selecting specific cryptocurrency pairs to follow, such as BTC and ETH.</p><p><em><strong>Follow the trader</strong>: Enables users to automatically replicate all trade orders made by the selected trader, regardless of the specific cryptocurrency pairs involved.</em></p></td></tr><tr><td>Leverage</td><td>Allows users to adjust their leverage level, ranging from 2x to 20x, thereby scaling their buying power accordingly.</td></tr><tr><td>Reverse Copy</td><td>Toggles the option for users to execute trades in the opposite direction to the trader’s actions.</td></tr></tbody></table>
 
-#### Stoploss setting
+#### Stop Loss / Take Profit
 
-<table data-header-hidden><thead><tr><th width="189"></th><th></th></tr></thead><tbody><tr><td>Position Stop Loss</td><td>Toggles the option for users to execute trades in the opposite direction to the trader’s actions.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="189"></th><th></th></tr></thead><tbody><tr><td>Stop Loss</td><td>Position Stop Loss automatically closes a copied position if the market moves unfavorably, limiting potential losses.</td></tr><tr><td>Take Profit</td><td>Position Take Profit automatically closes a copied position to secure profits when the market reaches your desired level.</td></tr></tbody></table>
 
 #### Advance settings
 
