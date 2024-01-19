@@ -1,5 +1,17 @@
 # What do people say?
 
+
+
+{% embed url="https://twitter.com/ColeGarnersTake/status/1747979817902039543" %}
+
+{% embed url="https://twitter.com/mastermojo83/status/1744021042299916761" %}
+
+{% embed url="https://twitter.com/TheBitResearch/status/1745085355924099555?s=20" %}
+
+{% embed url="https://twitter.com/hraesvelg33/status/1740336664952635756" %}
+
+{% embed url="https://twitter.com/CryptoDuck_TH/status/1732542791954419783" %}
+
 {% embed url="https://twitter.com/0xToit/status/1711641035044970701" %}
 
 {% embed url="https://twitter.com/0x_____________/status/1710745618417697012" %}
