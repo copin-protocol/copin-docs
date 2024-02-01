@@ -1,6 +1,35 @@
 # Release notes
 
-## Copin - 0.5.2 (1/04/2024)
+
+
+## Copin - 0.5.5 (1/31/2024)
+
+* Implemented Stop Loss / Take Profit by percent feature.
+* Improved UX/UI for Open Interest by markets.
+* Modified "Force-close" BingX copy position to "Unlink" and added missing closed type.
+* Aligned backtest interface and parameters with copy trading.
+* Enhanced loading speed for positions in the token preference - trader profile section.
+* Implemented position details by transaction hash.
+* Introduced new integration: GMX V2.
+
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary>Copin - 0.5.4 (1/18/2024)</summary>
+
+* Implemented copy trade, wallet, and position change logs.
+* New Feature: Open interest by markets for enhanced analysis.
+* Refreshed homepage look & feel.
+* Various UX & system optimizations.
+
+![](../../.gitbook/assets/image.png)
+
+</details>
+
+<details>
+
+<summary>Copin - 0.5.2 (1/04/2024)</summary>
 
 * New feature: Token preferences in trader profile
 * Take profit for copytrade implementation
@@ -9,7 +38,9 @@
 * Improving Copin Subscription extending experience
 * And some system optimization
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/image (74).png" alt="" data-size="original">
+
+</details>
 
 <details>
 
@@ -26,7 +57,7 @@
 * Sorting copy wallets by number of active copy trades as default
 * API performance improvement
 
-<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -88,7 +119,7 @@ Hope you enjoy this updates!
 * Changing ROI to Avg ROI to avoid misunderstanding
 * Some technical & experience enhancements
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
