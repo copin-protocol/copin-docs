@@ -18,9 +18,9 @@
 
 * [x] Release referral & affiliate program
 * [x] NFT subscription
-* [ ] Integration with GMX v2, DYDX and other perpetuals DEXes
-* [ ] Develop fully decentralized copy-trading
-* [ ] Release Copin Beta version
+* [x] Integration with GMX v2, DYDX and other perpetuals DEXes
+* [x] Develop fully decentralized copy-trading (internal testnet)
+* [x] Release Copin Beta version
 
 **Q1/2024**
 
