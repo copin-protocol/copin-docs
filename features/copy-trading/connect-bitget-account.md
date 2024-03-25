@@ -14,7 +14,7 @@ Click "Create" at " Bitget Wallet" to start linking your Bitget Exchange account
 
 <figure><img src="https://decentralab.larksuite.com/space/api/box/stream/download/asynccode/?code=NTRjZjdiOGM3OWNmNGFkYTNmOGVjOWU0MWUwZDI1MThfeGRMZm83N1hBM29NTmNlcUVjZTc1TUVxNXVRbFlldFNfVG9rZW46QzJsaWJhOGwyb0MyZG54OHQ4WnVuNVNpc0JlXzE3MTEzNTUyNDk6MTcxMTM1ODg0OV9WNA" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The connection process involves:
 
@@ -69,7 +69,7 @@ The connection process involves:
 
 * After submitting your selfie, you will receive a notification that your KYC verification information has been successfully submitted.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. ### **API Key Creation**
 
@@ -78,7 +78,7 @@ _API is an abbreviation for application programming interface, and it is used to
 * **Step 1: Access the API keys page**
   * Click on your profile in the top right-hand corner of the screen and go to the "API keys" tab or visit https://www.bitget.online/account/newapi
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Read and agree to Bitget's API Keys Terms & Conditions
 

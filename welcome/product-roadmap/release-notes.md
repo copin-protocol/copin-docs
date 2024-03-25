@@ -1,8 +1,43 @@
 # Release notes
 
+## Copin - 0.6.1 (3/25/2024)
 
+* Trade safer with Skip Low Risk: Helps you avoid copying trades with unexpectedly low leverage.
+* Easy-to-track copy trading history with advanced filtering by wallet and status: Easily manage your past trades to gain valuable insights and stay in control of your portfolio.
+* Explore the new GMX V2 pair: Boost your trading profit with the exciting new OP pair.
+* Discover new GNS pairs: We've added new pairs to help you explore new opportunities, including STRK, DYM, NTRN, PYTH, SC, WIF, PIXEL, JTO, MAVIA, MYRO, and STG.
+* Added Alert BOT for GNS protocol traders: Stay updated on your favorite traders' latest trades with Alert BOT for GNS.
+* Bitget integration for copy trade: Connect your Bitget account to Copin for copy trade and get a 10% transaction fee rebate with code: 1qlg
 
-## Copin - 0.5.5 (1/31/2024)
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+
+<details>
+
+<summary>Copin - 0.6.0 (3/25/2024) - Big updates</summary>
+
+* Indexed trader data from GainsNetwork on Arbitrum&#x20;
+* Started supporting Bitget for hybrid copy-trading in internal testing Try now
+
+![](<../../.gitbook/assets/image (1).png>)
+
+</details>
+
+<details>
+
+<summary>Copin - 0.5.6 (2/23/2024)</summary>
+
+* Optimized display of position duration
+* Support expanding open positions to view more detailed information
+* Optimized position URLs to be viewable via transaction hash
+* Display additional 24-hour changes in open interest by markets
+
+![](../../.gitbook/assets/image.png)
+
+</details>
+
+<details>
+
+<summary>Copin - 0.5.5 (1/31/2024)</summary>
 
 * Implemented Stop Loss / Take Profit by percent feature.
 * Improved UX/UI for Open Interest by markets.
@@ -12,7 +47,9 @@
 * Implemented position details by transaction hash.
 * Introduced new integration: GMX V2.
 
-<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/image (79).png" alt="" data-size="original">
+
+</details>
 
 <details>
 
@@ -23,7 +60,7 @@
 * Refreshed homepage look & feel.
 * Various UX & system optimizations.
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 </details>
 
@@ -57,13 +94,13 @@
 * Sorting copy wallets by number of active copy trades as default
 * API performance improvement
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
 <details>
 
-<summary>Copin - 0.5.0 (11/30/2023) Big Updates</summary>
+<summary>Copin - 0.5.0 (11/30/2023) - Big Updates</summary>
 
 * Detailed percentile ranking with trader comparision
 * Mobile UX/UI responsive optimization
@@ -119,7 +156,7 @@ Hope you enjoy this updates!
 * Changing ROI to Avg ROI to avoid misunderstanding
 * Some technical & experience enhancements
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -187,7 +224,7 @@ Hope you enjoy this updates!
 
 <details>
 
-<summary>Copin - 0.3.0 (08/23/2023) Big Updates</summary>
+<summary>Copin - 0.3.0 (08/23/2023) - Big Updates</summary>
 
 * Trader statistics enhancements:
   * You may now choose which fields to display.

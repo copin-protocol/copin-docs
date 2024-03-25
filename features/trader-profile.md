@@ -104,7 +104,7 @@ Users are enabled to fine-tune their evaluation of traders with the use of indic
 
 Part of Trading Frequency is the Heatmap that reveals the trading journey and consistency of traders upon exploration. It is designed to unfold the progression and regularity of a trader's market engagement.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Additionally, the trading frequency of a trader is classified into five distinct levels, each represented by progressively intense color hues on the Heatmap. The frequency and intensity of the trader's trading engagements are effectively illustrated through this visual representation, offering a clear and concise overview of their activity levels via color gradation.
 
@@ -112,7 +112,7 @@ Additionally, the trading frequency of a trader is classified into five distinct
 
 The Transaction History of a trader highlights crucial details, including trade timestamps, entry prices, trade sizes, leverage utilization, and the associated Profit and Loss (PnL) for each trade.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This information provides a comprehensive overview of the trader's trading activities, enabling an in-depth analysis of their entry points, trade sizes, risk management through leverage, and overall profitability.
 
