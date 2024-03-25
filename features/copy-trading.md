@@ -66,7 +66,7 @@ For any difficulties, we invite you to join [the Copin.io community](https://t.m
 * Go to the [BingX website](https://bingx.com/invite/DY5QNN)
 * Click \[Register] in the top right corner.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://bingx.com/invite/DY5QNN">https://bingx.com/invite/DY5QNN</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://bingx.com/invite/DY5QNN">https://bingx.com/invite/DY5QNN</a></p></figcaption></figure>
 
 #### **Step 2: Account Registration**
 
@@ -88,14 +88,14 @@ _Two-factor authentication (2FA) is a security method that requires you to enter
 * Log into the [BingX website](https://bingx.com/invite/DY5QNN), click the avatar icon
 * Select \[Account & Security] from the dropdown menu under the avatar icon.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 2: Enable Google Verification**
 
 * Scroll down to the \[Security Center] section and you'll see \[Google Verification].
 * Click the \[Link] button.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 3: Install Google Authenticator**
 

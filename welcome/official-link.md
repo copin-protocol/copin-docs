@@ -11,7 +11,12 @@ Contact us directly: [https://t.me/leecopin](https://t.me/leecopin) (Founder)
 * Document: [https://docs.copin.io/](https://docs.copin.io/)
 * Github: [https://github.com/copin-protocol](https://github.com/copin-protocol)
 
-## Follow us on social networks
+**Register a new account through our referral links to get discount on trading fees:**
+
+* BingX: [https://bingx.com/invite/DY5QNN](https://bingx.com/invite/DY5QNN) (Code: **DY5QNN**)
+* Bitget: [https://partner.bitget.online/bg/HPM3BN](https://partner.bitget.online/bg/HPM3BN) (Code: **1qlg**)
+
+## Follow us on social media
 
 * Twitter: [https://twitter.com/copin\_io](https://twitter.com/copin\_io)
 * Youtube: [https://www.youtube.com/@CopinAnalyzer](https://www.youtube.com/@CopinAnalyzer)

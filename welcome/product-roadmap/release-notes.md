@@ -23,7 +23,7 @@
 * Refreshed homepage look & feel.
 * Various UX & system optimizations.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 </details>
 
@@ -57,7 +57,7 @@
 * Sorting copy wallets by number of active copy trades as default
 * API performance improvement
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -119,7 +119,7 @@ Hope you enjoy this updates!
 * Changing ROI to Avg ROI to avoid misunderstanding
 * Some technical & experience enhancements
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
