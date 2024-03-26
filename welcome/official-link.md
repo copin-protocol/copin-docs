@@ -17,6 +17,7 @@ Contact us directly: [https://t.me/leecopin](https://t.me/leecopin) (Founder)
 * Bitget: [https://partner.bitget.online/bg/HPM3BN](https://partner.bitget.online/bg/HPM3BN) (Referral code: **`1qlg`**)
 * OKX: [https://www.okx.com/join/75651458](https://www.okx.com/join/75651458) (Referral code: **`75651458`**)
 * Gate: [https://www.gate.io/signup/AgBFAApb?ref\_type=103](https://www.gate.io/signup/AgBFAApb?ref\_type=103) (Referral code: **`AgBFAApb`**)
+* Binance: [https://accounts.binance.com/register?ref=19902233](https://accounts.binance.com/register?ref=19902233) (Referral code: **`19902233`**)
 
 ## Follow us on social media
 
