@@ -27,7 +27,7 @@ Once you find the right match, you can begin copying their trades with a simple 
 
 ### **Step 2: Investment Allocation**
 
-Select and fill in all the required information in the setup section
+Select and fill in all the required information in the setup section:
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
@@ -45,11 +45,11 @@ Select and fill in all the required information in the setup section
 
 ### **Step 3: Execute the Copy Trading Order**
 
-Tick to **Checkbox**: Requires users to confirm they have read and agree to the Copytrading Service Agreement.
+Tick to **Checkbox**: Requires users to confirm they have read and agree to the [**Copytrading Service Agreement.**](../../another/agreement.md)
 
 <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
-Initiates the copy trading process based on the settings by clicking on **Copy Trade** button
+Initiates the copy trading process based on the settings by clicking on **Copy Trade** button.
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
