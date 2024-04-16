@@ -42,8 +42,6 @@ Finally, this rich dataset serves as the foundation for Copin's API, which, in t
 
 The mission of Copin.io is to drive the widespread acceptance and understanding of the perpetual DEX narrative, positioning ourselves as a catalyst for the next bull run in the financial market. We believe that by illuminating the intricacies and potential of perp DEXs, we can lead a transformative shift in the decentralized finance landscape.
 
-<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
-
 As a product driven by data philosophy, Copin.io also allows developers and other projects to utilize cleaned data through APIs to build various products. There's no limit to the ideas that can be constructed on top of Copinio, such as:
 
 * **Trader Explore & Profile:** A platform allowing exploration and viewing of trader profiles, enabling users to compare and choose traders they wish to follow or emulate.

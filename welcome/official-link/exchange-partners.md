@@ -1,7 +1,7 @@
 # Exchange partners
 
 {% hint style="info" %}
-**Register for a new account under the referral links from Copin's exchange partners to receive trading fee, given priority to use expansion features as well as best support from the team.**
+Register for a new account under the referral links from Copin's exchange partners to receive trading fee, given priority to use expansion features as well as best support from the team.
 {% endhint %}
 
 ## Centralized exchanges

@@ -22,7 +22,7 @@ Contact us directly: [https://t.me/leecopin](https://t.me/leecopin) (Founder)
 * Telegram Global (Chat): [https://t.me/Copin\_io](https://t.me/Copin\_io)
 * Discord: [https://discord.gg/jaJu8USARd](https://discord.gg/jaJu8USARd)
 
-## Marketing Playbook
+## Co-Marketing Playbook
 
 * [https://copinio.notion.site/Copin-io-s-Co-Marketing-Playbook-924d10858c07486ca76f239806312994](https://copinio.notion.site/Copin-io-s-Co-Marketing-Playbook-924d10858c07486ca76f239806312994)
 

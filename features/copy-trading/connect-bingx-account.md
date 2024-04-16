@@ -1,20 +1,28 @@
+---
+description: >-
+  Link with your BingX account through API key. All your assets and your
+  positions are managed by BingX. Lowest fee, CEX trading.
+---
+
 # Connect BingX account
 
 {% hint style="info" %}
-Link with your BingX account through API key. All your assets and your positions are managed by BingX. Lowest fee, CEX trading.&#x20;
-
 Register a BingX account: [https://bingx.com/en-us/invite/DY5QNN](https://bingx.com/en-us/invite/DY5QNN)
 {% endhint %}
 
-## **How to connect your BingX account with Copin.io?**
+Click on your wallet in the top right-hand corner of the screen and go to the "Wallet Management" tab or visit [https://app.copin.io/wallet-management](https://app.copin.io/wallet-management)
 
-<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-Currently, Copin Analyzer's Beta version facilitates copy trading exclusively with BingX. The connection process involves:
+Click "Create" at " BingX Exchange" to start linking your BingX account to app.copin.io through API key.
 
-<table data-header-hidden><thead><tr><th width="248"></th><th></th></tr></thead><tbody><tr><td><strong>BingX Account Setup</strong></td><td>Create an account, unless you already have one.</td></tr><tr><td><strong>2FA Activation</strong></td><td>Enhance security by enabling two-factor authentication.</td></tr><tr><td><strong>API Key Creation</strong></td><td>Generate an API key for Copin Analyzer integration.</td></tr><tr><td><strong>Fund Deposit and Transfer</strong></td><td>Deposit funds into BingX and transfer them to your <strong>perpetual future</strong> account.</td></tr></tbody></table>
+<figure><img src="../../.gitbook/assets/img_v3_02a0_9b3d1811-9a89-48eb-8a25-e65c5d7871dh.png" alt=""><figcaption></figcaption></figure>
 
-For any difficulties, we invite you to join [the Copin.io community](https://t.me/Copin\_io) where our admin team is ready to assist.
+The connection process involves:
+
+<table data-header-hidden><thead><tr><th width="248"></th><th></th></tr></thead><tbody><tr><td><strong>BingX Account Setup</strong></td><td>Create an account, unless you already have one.</td></tr><tr><td><strong>2FA Activation</strong></td><td>Enhance security by enabling two-factor authentication.</td></tr><tr><td><strong>API Key Creation</strong></td><td>Generate an API key for Copin Analyzer integration.</td></tr><tr><td><strong>Fund Deposit and Transfer</strong></td><td>Deposit funds into BingX and transfer them to your <strong>perpetual future</strong> <strong>USDT-M</strong> account.</td></tr></tbody></table>
+
+> _For any difficulties, we invite you to join_ [_the Copin.io community_](https://t.me/Copin\_io) _where our admin team is ready to assist._
 
 ### **1. BingX Account Setup**
 
@@ -40,7 +48,7 @@ For any difficulties, we invite you to join [the Copin.io community](https://t.m
 _Two-factor authentication (2FA) is a security method that requires you to enter a dynamic verification code generated on your mobile phone to perform operations such as login and transfer. Before using 2FA, you'll need to bind the authenticator. This security measure provides better protection for your account information and funds._
 {% endhint %}
 
-#### **Step 1:Access Settings**
+#### **Step 1: Access Settings**
 
 * Log into the [BingX website](https://bingx.com/invite/DY5QNN), click the avatar icon
 * Select \[Account & Security] from the dropdown menu under the avatar icon.

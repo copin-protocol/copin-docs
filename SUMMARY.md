@@ -21,7 +21,9 @@
 * [Copy Trading](features/copy-trading/README.md)
   * [Connect BingX account](features/copy-trading/connect-bingx-account.md)
   * [Connect Bitget account](features/copy-trading/connect-bitget-account.md)
-* [Referral Program](features/referral-program.md)
+* [Referral](features/referral/README.md)
+  * [Referral Program](features/referral/referral-program.md)
+  * [Ambassador Program](features/referral/ambassador-program.md)
 * [Developer](features/developer/README.md)
   * [Public API docs](features/developer/public-api-docs.md)
 
