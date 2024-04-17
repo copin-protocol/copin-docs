@@ -4,6 +4,13 @@ description: We've got a pricing plan that's perfect for you
 
 # 👑 Subscription Plan
 
+{% hint style="info" %}
+**Notification of changes in version 0.7.0:**&#x20;
+
+* New version update date: **April 20, 2024**&#x20;
+* Official implementation date of the new changes: **April 25, 2024**
+{% endhint %}
+
 ## Subscription Plans&#x20;
 
 Start mint NFT with the subscription plan that's right for you here: [https://app.copin.io/subscription](https://app.copin.io/subscription)
