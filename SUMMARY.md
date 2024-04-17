@@ -29,7 +29,7 @@
 
 ***
 
-* [👑 Upgrade to premium](upgrade-to-premium.md)
+* [👑 Subscription Plan](subscription-plan.md)
 
 ## 📜 another
 
