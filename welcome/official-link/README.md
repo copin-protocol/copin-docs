@@ -13,7 +13,7 @@ Contact us directly: [https://t.me/leecopin](https://t.me/leecopin) (Founder)
 
 ## Follow us on social media
 
-* Twitter: [https://twitter.com/copin\_io](https://twitter.com/copin\_io)
+* X/Twitter: [https://twitter.com/copin\_io](https://twitter.com/copin\_io)
 * Youtube: [https://www.youtube.com/@CopinAnalyzer](https://www.youtube.com/@CopinAnalyzer)
 * Blog: [https://blog.copin.io](https://blog.copin.io)
 
@@ -21,6 +21,10 @@ Contact us directly: [https://t.me/leecopin](https://t.me/leecopin) (Founder)
 
 * Telegram Global (Chat): [https://t.me/Copin\_io](https://t.me/Copin\_io)
 * Discord: [https://discord.gg/jaJu8USARd](https://discord.gg/jaJu8USARd)
+
+## Useful Links for Hybrid Copy Trading
+
+<table><thead><tr><th width="173">Language</th><th>Link</th></tr></thead><tbody><tr><td>English</td><td> <a href="https://tutorial.copin.io/">https://tutorial.copin.io/</a></td></tr><tr><td>Vietnamese</td><td> <a href="https://copinio.notion.site/H-ng-d-n-Copy-Trade-tr-n-Copin-io-aa4dc4d5ea184e77ab720afa218613d3">https://copinio.notion.site/H-ng-d-n-Copy-Trade-tr-n-Copin-io-aa4dc4d5ea184e77ab720afa218613d3</a></td></tr></tbody></table>
 
 ## Co-Marketing Playbook
 
