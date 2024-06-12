@@ -24,15 +24,27 @@
 
 **Q1/2024**
 
-* [ ] Copin v1.0 official launch
+* [ ] Copin alpha version official launch
 * [ ] Growth users & ecosystem building
 * [ ] Analyzer tool more powerful
 * [ ] Release major risk management
+* [ ] Indexing more perpetual DEXs (10+)
 
 **Q2/2024**
 
-* [ ] Mobile application release (IOS & Android)
-* [ ] Release profitability strategy marketplace for Data Analyst and Copiers
-* [ ] Apply for seed round (target on Binance labs)
+* [ ] Soft-launch decentralized copy-trading on Synthenix V2 (DCP)
+* [ ] Integration with more CEXs for deeper liquidity
+* [ ] Indexing more perpetual DEXs (20+)
+
+**Q3/2024**
+
+* [ ] Research & development of Copin for DEX, allowing analysis and copying of spot trading
+* [ ] Launch private version for DEX copy-trading
+
+**Q4/2024**
+
+* [ ] Soft-launch copy-trading on DEX (spot trading)
+* [ ] Testing of social trading platform (SocialFi)
+* [ ] Release mobile application (iOS & Android)
 
 \
