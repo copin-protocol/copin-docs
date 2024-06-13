@@ -11,7 +11,7 @@ Register for a new account under the referral links from Copin's exchange partne
 * OKX: [https://www.okx.com/join/75651458](https://www.okx.com/join/75651458) (Referral code: **`75651458`**)
 * Gate: [https://www.gate.io/signup/AgBFAApb?ref\_type=103](https://www.gate.io/signup/AgBFAApb?ref\_type=103) (Referral code: **`AgBFAApb`**)
 * Binance: [https://accounts.binance.com/register?ref=19902233](https://accounts.binance.com/register?ref=19902233) (Referral code: **`19902233`**)
-* Bybit: [https://partner.bybitglobal.com/b/copin](https://partner.bybitglobal.com/b/copin) (Referral code: **`copin`**)
+* Bybit: [https://partner.bybitglobal.com/b/copin](https://partner.bybitglobal.com/b/copin) (Referral code: **`COPIN`**)
 
 ## Decentralized exchanges
 
