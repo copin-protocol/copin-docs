@@ -22,6 +22,7 @@
   * [Connect BingX API](features/copy-trading/connect-bingx-api.md)
   * [Connect Bitget API](features/copy-trading/connect-bitget-api.md)
   * [Connect Bybit API](features/copy-trading/connect-bybit-api.md)
+  * [Connect Gate API](features/copy-trading/connect-gate-api.md)
 * [Referral](features/referral/README.md)
   * [Referral Program](features/referral/referral-program.md)
   * [Ambassador Program](features/referral/ambassador-program.md)
