@@ -1,10 +1,10 @@
 ---
 description: >-
   Link with your Bitget account through API key. All your assets and your
-  positions are managed by Bitget. Lowest fee, CEX trading.
+  positions are managed by Bitget.
 ---
 
-# Connect Bitget account
+# Connect Bitget API
 
 {% hint style="info" %}
 Register a Bitget account: [https://partner.bitget.online/bg/HPM3BN](https://partner.bitget.online/bg/HPM3BN) (Referral code: **`1qlg`**)
@@ -26,7 +26,7 @@ The connection process involves:
 | **API Key Creation**                              | Generate an API key for Copin Analyzer integration.                                               |
 | **Fund Deposit and Transfer**                     | Deposit funds into Bitget and transfer them to your **future** account.                           |
 
-> _For any difficulties, we invite you to join_ [_the Copin.io community_](https://bingx.com/en-us/invite/DY5QNN) _where our admin team is ready to assist._
+> _For any difficulties, we invite you to join the_ [_Copin.io community_](https://t.me/copin\_io) _where our admin team is ready to assist._
 
 ### **1. Bitget Account Setup**
 

@@ -1,10 +1,10 @@
 ---
 description: >-
   Link with your BingX account through API key. All your assets and your
-  positions are managed by BingX. Lowest fee, CEX trading.
+  positions are managed by BingX.
 ---
 
-# Connect BingX account
+# Connect BingX API
 
 {% hint style="info" %}
 Register a BingX account: [https://bingx.com/en-us/invite/DY5QNN](https://bingx.com/en-us/invite/DY5QNN)
