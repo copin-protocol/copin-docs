@@ -73,7 +73,7 @@ The connection process involves:
 
 3. ## **API Key Creation**
 
-_API is an abbreviation for application programming interface, and it is used to allow two or more platforms or software to interact. So the API key, in this case, grants certain applications permission to interact._**Step 1: Access the API keys page**
+**Step 1: Access the API keys page**
 
 * Click on your profile in the top right-hand corner of the screen and go to the "API Management" tab or visit https://www.gate.io/myaccount/api\_key\_manage
 

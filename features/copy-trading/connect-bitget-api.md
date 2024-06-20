@@ -78,10 +78,6 @@ The connection process involves:
 
 ### **3. API Key Creation**
 
-{% hint style="info" %}
-_API is an abbreviation for application programming interface, and it is used to allow two or more platforms or software to interact. So the API key, in this case, grants certain applications permission to interact._
-{% endhint %}
-
 **Step 1: Access the API keys page**
 
 * Click on your profile in the top right-hand corner of the screen and go to the "API keys" tab or visit https://www.bitget.online/account/newapi

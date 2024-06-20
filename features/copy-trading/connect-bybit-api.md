@@ -72,8 +72,6 @@ The connection process involves:
 
 3. ### **API Key Creation**
 
-_API is an abbreviation for application programming interface, and it is used to allow two or more platforms or software to interact. So the API key, in this case, grants certain applications permission to interact._
-
 **Step 1: Access the API keys page**
 
 * Hover over your profile in the top right corner of the screen and select "API" or click on the link https://www.bybitglobal.com/app/user/api-management .

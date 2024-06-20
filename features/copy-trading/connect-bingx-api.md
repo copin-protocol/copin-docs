@@ -85,10 +85,6 @@ _Two-factor authentication (2FA) is a security method that requires you to enter
 
 ### 3. **Generate an API key**
 
-{% hint style="info" %}
-_API is an abbreviation for application programming interface, and it is used to allow two or more platforms or software to interact. So the API key, in this case, grants certain applications permission to interact._
-{% endhint %}
-
 #### **Step 1: API Settings**
 
 * Visit [https://bingx.com/en-us/account/api/](https://bingx.com/en-us/account/api/)
