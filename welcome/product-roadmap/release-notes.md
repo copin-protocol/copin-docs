@@ -18,7 +18,7 @@
 * Indexed trader data from GainsNetwork on Arbitrum&#x20;
 * Started supporting Bitget for hybrid copy-trading in internal testing Try now
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 </details>
 
@@ -31,7 +31,7 @@
 * Optimized position URLs to be viewable via transaction hash
 * Display additional 24-hour changes in open interest by markets
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (24).png>)
 
 </details>
 
@@ -60,7 +60,7 @@
 * Refreshed homepage look & feel.
 * Various UX & system optimizations.
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 </details>
 
@@ -94,7 +94,7 @@
 * Sorting copy wallets by number of active copy trades as default
 * API performance improvement
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -116,7 +116,7 @@
 
 Hope you enjoy this updates!
 
-![](<../../.gitbook/assets/image (23).png>)
+![](<../../.gitbook/assets/image (23) (1).png>)
 
 </details>
 
@@ -130,7 +130,7 @@ Hope you enjoy this updates!
 * Supporting more web3 wallets: Trust Wallet, Coinbase, Wallet Connect, ...
 * Some UX enhancements & technical optimizations
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 </details>
 
@@ -156,7 +156,7 @@ Hope you enjoy this updates!
 * Changing ROI to Avg ROI to avoid misunderstanding
 * Some technical & experience enhancements
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 

@@ -31,7 +31,7 @@ The connection process involves:
 * Go to the [BingX website](https://bingx.com/invite/DY5QNN)
 * Click \[Register] in the top right corner.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bingx.com/invite/DY5QNN">https://bingx.com/invite/DY5QNN</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bingx.com/invite/DY5QNN">https://bingx.com/invite/DY5QNN</a></p></figcaption></figure>
 
 #### **Step 2: Account Registration**
 
@@ -53,35 +53,35 @@ _Two-factor authentication (2FA) is a security method that requires you to enter
 * Log into the [BingX website](https://bingx.com/invite/DY5QNN), click the avatar icon
 * Select \[Account & Security] from the dropdown menu under the avatar icon.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 2: Enable Google Verification**
 
 * Scroll down to the \[Security Center] section and you'll see \[Google Verification].
 * Click the \[Link] button.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 3: Install Google Authenticator**
 
 * Scan the QR code that corresponds to your mobile phone's operating system (iOS/Android) to download Google Authenticator
 * You can also download and install it directly from the app store.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 4: Setup an Authenticator**
 
 * Open Google Authenticator, tap the "+" sign
 * Scan the webpage's QR code or enter the provided BingX key manually by selecting "Enter a setup key".
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 5: Complete Verification**
 
 * Solve the verification puzzle, enter the codes from your email and Google Authenticator
 * Click \[Submit] to finish the binding process.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. **Generate an API key**
 
@@ -89,23 +89,23 @@ _Two-factor authentication (2FA) is a security method that requires you to enter
 
 * Visit [https://bingx.com/en-us/account/api/](https://bingx.com/en-us/account/api/)
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click \[Create API]
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 2: API Naming**
 
 * Choose a simple, memorable name for easy identification.
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 3: Security Confirmation**
 
 * Confirm your security settings before proceeding.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 4: Modify API Info**
 
@@ -115,7 +115,7 @@ _Two-factor authentication (2FA) is a security method that requires you to enter
 
 * Ensure only 'Read' and 'Perpetual Futures Trading' are selected, and set to 'Unrestricted'.
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 6: Important**
 
@@ -131,7 +131,7 @@ To transfer funds to your Perpetual Fund Account after depositing into your Fund
 
 * **Step 1: Head to the \[My Assets]** [**page**](https://bingx.com/en-us/assets/) **and click \[Transfer].**
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 2: Verify \[From] as your current fund, and \[To] as the Perpetual Futures Account.**
 
@@ -139,6 +139,6 @@ To transfer funds to your Perpetual Fund Account after depositing into your Fund
 
 #### **Step 4: Click \[Confirm] to complete the process.**
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After transferring funds to your Perpetual Futures Account on BingX, you are ready to begin the process of copy trading on Copin and leverage investment strategies from experienced traders.

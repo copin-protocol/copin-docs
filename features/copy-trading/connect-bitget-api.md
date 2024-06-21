@@ -74,7 +74,7 @@ The connection process involves:
 
 * After submitting your selfie, you will receive a notification that your KYC verification information has been successfully submitted.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. API Key Creation**
 
@@ -82,21 +82,21 @@ The connection process involves:
 
 * Click on your profile in the top right-hand corner of the screen and go to the "API keys" tab or visit https://www.bitget.online/account/newapi
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Read and agree to Bitget's API Keys Terms & Conditions
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Create API Key**
 
 * Click "**Create API Key**"
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click "**System-generated**"
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: Modify API Info**
 
@@ -104,28 +104,28 @@ The connection process involves:
 * Create "Passphrase (API token)" API
 * Select "Read-write"
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ensure only "**Orders**", "**Holdings**" and "**Trade**" are selected.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4: Final Security Confirmation**
 
 * Complete the process with a final security verification then "Confirm".
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The Access APIKey and SecretKey are displayed, so let's copy and fill in[ Copin Wallet Management](https://app.copin.io/wallet-management)
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 5: Complete creating Bitget Wallet on Copin.io**
 
 * Access https://app.copin.io/wallet-management
 * Fill Bitget API Key, Secret Key and Pass Phrase you just created in the previous step.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **4. Fund Deposit and Transfer**
 
@@ -138,15 +138,15 @@ The connection process involves:
 
 * Head to the **"**[**Assets Overview**](https://www.bitget.online/asset)**".**
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click "**Transfer**"
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Input the USDT amount into "Transfer Amount" then Confirm
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 After transferring funds to your Futures Account on Bitget, you are ready to begin the process of copy trading on Copin.io.
 
