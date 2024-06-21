@@ -24,7 +24,7 @@ The connection process involves:
 
 > _For any difficulties, we invite you to join the_ [_Copin.io community_](https://t.me/copin\_io) _where our admin team is ready to assist._
 
-1. ### **Bybit Account Setup**
+## **1. Bybit Account Setup**
 
 **Step 1: Sign up for a Bybit account.**
 
@@ -46,7 +46,7 @@ The connection process involves:
 * After submitting the registration form, you will be asked to verify your account. Bybit will send a verification email with a confirmation code.
 * Enter the code and complete email verification.
 
-2. ### **Identify Verification**
+## **2. KYC Verification**
 
 **Step 1: Access the Identity Verification Page**
 
@@ -70,7 +70,7 @@ The connection process involves:
 
 * Please complete all the verification steps requested by Bybit to finish verifying your account. Note that the verification device must have a camera to enable live image verification.
 
-3. ### **API Key Creation**
+## **3. API Key Creation**
 
 **Step 1: Access the API keys page**
 
@@ -114,7 +114,7 @@ The connection process involves:
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
-4. ## **Fund Deposit and Transfer**
+## **4. Fund Deposit and Transfer**
 
 **Step 1: Make a deposit on Bybit**
 
@@ -135,7 +135,7 @@ The connection process involves:
 
 After transferring funds to your Unified Trading on Bybit, you are nearly ready to begin the process of copy trading on Copin.io.
 
-5. ## **Setup Trading mode**
+## **5. Setup Trading mode**
 
 These settings ensure that the copy trading system operates in the most logical manner.
 

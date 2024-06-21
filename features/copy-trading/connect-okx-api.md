@@ -24,7 +24,7 @@ The connection process involves:
 
 > _For any difficulties, we invite you to join_ [_the Copin.io community_ ](https://t.me/Copin\_io)_where our admin team is ready to assist._
 
-1. ## **OKX Account Setup**
+## **1. OKX Account Setup**
 
 **Step 1: Sign up for an OKX account.**
 
@@ -55,7 +55,7 @@ The connection process involves:
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-2. ## **Identify Verification**
+## **2. KYC Verification**
 
 **Step 1: Access the Identity Verification Page**
 
@@ -81,7 +81,7 @@ The connection process involves:
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-1. ### **API Key Creation**
+## **3. API Key Creation**
 
 **Step 1: Access the API keys page**
 
@@ -118,7 +118,7 @@ The connection process involves:
 
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-3. ## **Fund Deposit and Transfer**
+## **4. Fund Deposit and Transfer**
 
 **Step 1: Make a deposit on OKX**
 
@@ -133,7 +133,7 @@ The connection process involves:
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-4. ## **Setup Account mode**
+## **5. Setup Account mode**
 
 These settings ensure that the copy trading system operates in the most logical manner.
 

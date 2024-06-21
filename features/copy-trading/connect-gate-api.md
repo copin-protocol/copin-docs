@@ -24,7 +24,7 @@ The connection process involves:
 
 > _For any difficulties, we invite you to join the_ [_Copin.io community_](https://t.me/copin\_io) _where our admin team is ready to assist._
 
-1. ## **Gate Account Setup**
+## **1. Gate Account Setup**
 
 **Step 1: Sign up for a Gate account.**
 
@@ -47,7 +47,7 @@ The connection process involves:
 
 <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-2. ## **Identify Verification**
+## **2. KYC Verification**
 
 **Step 1: Access the Identity Verification Page**
 
@@ -71,7 +71,7 @@ The connection process involves:
 
 * After submitting your documents, you must take a selfie using either your webcam or your Gate mobile application. Avoid wearing glasses or a hat, and make sure you are exposed to good light. After all, you will receive a notification that your KYC verification information has been successfully submitted.
 
-3. ## **API Key Creation**
+## **3. API Key Creation**
 
 **Step 1: Access the API keys page**
 
@@ -117,7 +117,7 @@ The connection process involves:
 
 <figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
-4. ## **Fund Deposit and Transfer**
+## **4. Fund Deposit and Transfer**
 
 **Step 1: Make a deposit on Gate**
 
@@ -140,7 +140,7 @@ The connection process involves:
 
 After transferring funds to your Perpetual Futures on Gate, you are nearly beginning the process of copy trading on Copin.io.
 
-5. ## Setup Trading mode
+## 5. Setup Trading mode
 
 * Hover over "Derivatives" on the top bar. Next, select "Perpetual Futures" and choose any trading pair.
 
