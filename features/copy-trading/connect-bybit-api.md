@@ -147,11 +147,11 @@ These settings ensure that the copy trading system operates in the most logical 
 
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-* Set the margin mode to "Isolated Margin" and the position mode to "Hedge Mode". Apply these settings to all USDT pairs.
+* Set the margin mode to "Isolated Margin" and the position mode to **"Hedge Mode"**. Apply these settings to **all USDT pairs**.
 
 <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 ## FAQ
 
