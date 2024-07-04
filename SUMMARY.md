@@ -24,7 +24,7 @@
   * [Connect Bybit API](features/copy-trading/connect-bybit-api.md)
   * [Connect Gate API](features/copy-trading/connect-gate-api.md)
   * [Connect OKX API](features/copy-trading/connect-okx-api.md)
-  * [Important about your API security](features/copy-trading/important-about-your-api-security.md)
+  * [FAQs about your API security](features/copy-trading/faqs-about-your-api-security.md)
 * [Referral](features/referral/README.md)
   * [Referral Program](features/referral/referral-program.md)
   * [Ambassador Program](features/referral/ambassador-program.md)
