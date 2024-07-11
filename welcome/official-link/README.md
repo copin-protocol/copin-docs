@@ -4,6 +4,10 @@
 Contact us directly: [https://t.me/leecopin](https://t.me/leecopin) (Founder)
 {% endhint %}
 
+{% hint style="success" %}
+Get feedbacks, new ideas, requests, bugs, ...: [https://copin.canny.io/](https://copin.canny.io/)
+{% endhint %}
+
 ## Official link
 
 * Website: [https://copin.io/](https://copin.io/)

@@ -1,10 +1,10 @@
 ---
 description: >-
-  Frequently asked questions and things to know about your API security on
-  Copin.io
+  Frequently asked questions and things to know about your API from
+  CEXs(@binane, @bybit,...) security on Copin!
 ---
 
-# Important about your API security
+# FAQs about your API security
 
 ### 1. Can Copin withdraw your assets via API?
 
