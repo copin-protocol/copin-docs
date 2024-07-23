@@ -135,6 +135,13 @@ The connection process involves:
 
 After transferring funds to your Unified Trading on Bybit, you are nearly ready to begin the process of copy trading on Copin.io.
 
+{% hint style="info" %}
+If you encounter the <mark style="color:red;">**INVALID API KEY**</mark> error, please ensure that:&#x20;
+
+1. Your futures account balance is greater than 0 (refer to Section 4. Fund Deposit and Transfer).&#x20;
+2. You have switched to Isolated Margin and Hedge Mode (refer to Section 5. Setup Trading Mode).
+{% endhint %}
+
 ## **5. Setup Trading mode**
 
 These settings ensure that the copy trading system operates in the most logical manner.
