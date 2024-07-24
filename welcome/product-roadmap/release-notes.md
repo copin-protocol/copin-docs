@@ -1,6 +1,61 @@
 # Release notes
 
-## Copin - 0.6.1 (3/25/2024)
+## Copin - 0.7.1 (24/7/2024) - Big updates
+
+* **New Trader Profile and Wallet Management UI**: Easily analyze and compare a trader's performance across different platforms; efficiently manage wallets.
+* **Support for Trader Tracking on Multiple Platforms**: Now includes Blast, BNB, Base, Avalanche, Polygon, Fantom, Linea, Mode, Level Finance, EquationDAO, Vela Exchange, LogX Trade, MYX Finance, DexToro, LogX Trade, HMX, and CyberDEX.
+* **Copy-Trade Integrations**: Integrated with GMXv2, Avantisfi, CyberDEX, Vela Exchange, EquationDAO, and HMX.
+* **Exchange Integrations**: Bybit, Gate.io, and OKX are now integrated with Copin for easy copy trading.
+* **Introducing VIP Subscription Plan**
+
+<details>
+
+<summary>Copin - 0.7.0 (4/19/2024)</summary>
+
+* Introducing VIP Subscription Plan. Copin is excited to announce the launch of our VIP Subscription Plan, exclusively designed for Copin VIPs:&#x20;
+  * Access trader data sources on Perpetual DEX across 5 platforms: GMX, GMXV2, Kwenta, Polynomial, gTrade, Level Finance, and more, with early access to our data indexing.&#x20;
+  * Smooth connection to CEX accounts across 6 exchanges (BingX, Bitget, OKX, Gate, ByBit, Binance) (Live on 1st May)&#x20;
+  * Explore our platform at https://vip.copin.io/ with enhanced management tools.&#x20;
+  * Enjoy increased copy sizes if you refer to Copin on CEX.&#x20;
+  * Especially, VIPs can have a maximum copy size of $2,000,000 if they refer Copin on CEX.
+
+<!---->
+
+* Easily track all Level\_\_Finance traders from Level (Arbitrum) on app.copin.io
+
+![](<../../.gitbook/assets/image (145).png>)![](<../../.gitbook/assets/image (146).png>)![](<../../.gitbook/assets/image (147).png>)
+
+</details>
+
+<details>
+
+<summary>Copin - 0.6.3 (4/15/2024)</summary>
+
+* New Wallet Management UI.&#x20;
+* Add new pairs in GNS: ONDO, MNT, HBAR, KAS, BEAM, RONIN, ENA, W.
+* Add more support chains: Blast, BNB, Base, Avalanche, Polygon, Fantom, Linea, Mode.&#x20;
+* Format decimal token price depends on pair. Token prices on trading pairs will now be displayed correctly in the corresponding decimal amount
+
+![](<../../.gitbook/assets/image (142).png>)![](<../../.gitbook/assets/image (143).png>)
+
+![](<../../.gitbook/assets/image (144).png>)
+
+</details>
+
+<details>
+
+<summary>Copin - 0.6.2 (4/02/2024)</summary>
+
+* New trader profile - Easily analyze and compare a trader's performance across different platforms at the same time.
+* GMX V2 copy trade - Increase your profits by copying trades from new traders on GMX V2.
+
+![](<../../.gitbook/assets/image (138).png>)![](<../../.gitbook/assets/image (139).png>)![](<../../.gitbook/assets/image (140).png>)
+
+</details>
+
+<details>
+
+<summary>Copin - 0.6.1 (3/25/2024)</summary>
 
 * Trade safer with Skip Low Risk: Helps you avoid copying trades with unexpectedly low leverage.
 * Easy-to-track copy trading history with advanced filtering by wallet and status: Easily manage your past trades to gain valuable insights and stay in control of your portfolio.
@@ -9,7 +64,9 @@
 * Added Alert BOT for GNS protocol traders: Stay updated on your favorite traders' latest trades with Alert BOT for GNS.
 * Bitget integration for copy trade: Connect your Bitget account to Copin for copy trade and get a 10% transaction fee rebate with code: 1qlg
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/image (80).png" alt="" data-size="original">
+
+</details>
 
 <details>
 
