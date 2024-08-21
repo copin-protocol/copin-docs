@@ -19,6 +19,7 @@
 * [Trader Profile](features/trader-profile.md)
 * [Backtesting](features/backtesting.md)
 * [Decentralized Copy-Trading (DCP)](features/decentralized-copy-trading-dcp/README.md)
+  * [DCP via gTrade (Gains Network)](features/decentralized-copy-trading-dcp/dcp-via-gtrade-gains-network.md)
   * [Fees Structure](features/decentralized-copy-trading-dcp/fees-structure.md)
 * [Centralized Copy-Trading (CCP)](features/centralized-copy-trading-ccp/README.md)
   * [Connect BingX API](features/centralized-copy-trading-ccp/connect-bingx-api.md)
