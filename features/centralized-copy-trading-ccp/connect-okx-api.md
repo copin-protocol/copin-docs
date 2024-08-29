@@ -152,6 +152,6 @@ These settings ensure that the copy trading system operates in the most logical 
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-* Set account mode to "Single-currency margin". Click on switch to finish.
+* Set account mode to "Spot and futures mode**"**. Click on switch to finish.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.03.38.png" alt=""><figcaption></figcaption></figure>
