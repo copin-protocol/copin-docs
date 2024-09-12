@@ -10,7 +10,7 @@ We’ve rolled out new updates to enhance your experience on Copin.io. Key impro
 * **TradingView Integration:** Real-time charts integrated directly into the platform.
 * **Copier Ranking v0.1:** A leaderboard ranking the performance of all copiers on Copin.
 * **New Integrations:**
-  * **Synfuture, Hyperliquid, Mummy Finance (data + copy-trade), Rollie (copy-trade).**
+  * Synfuture, Hyperliquid, Mummy Finance (data + copy-trade), Rollie (copy-trade).
   * Support for copy-trade via DCP: ApolloX, HMX, KiloEx, Rollie, Vela, Mummy.
 * **General Improvements:** Various performance and user experience enhancements.
 
