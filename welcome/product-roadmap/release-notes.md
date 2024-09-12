@@ -1,12 +1,30 @@
 # Release notes
 
-## Copin - 0.7.1 (24/7/2024) - Big updates
+## Copin - 0.8.0 (9/12/2024) - Big updates
+
+We’ve rolled out new updates to enhance your experience on Copin.io. Key improvements include:
+
+* **New Search Experience:** Faster, more intuitive search across the platform.
+* **GraphQL Integration:** Position statistics on key pages (Homepage, Trader Explorer, Open Interest, Trader Favourite) now powered by GraphQL for enhanced performance.
+* **Protocol Picker:** Quickly select one, multiple, or all protocols with ease.
+* **TradingView Integration:** Real-time charts integrated directly into the platform.
+* **Copier Ranking v0.1:** A leaderboard ranking the performance of all copiers on Copin.
+* **New Integrations:**
+  * **Synfuture, Hyperliquid, Mummy Finance (data + copy-trade), Rollie (copy-trade).**
+  * Support for copy-trade via DCP: ApolloX, HMX, KiloEx, Rollie, Vela, Mummy.
+* **General Improvements:** Various performance and user experience enhancements.
+
+<details>
+
+<summary>Copin - 0.7.1 (7/24/2024)</summary>
 
 * **New Trader Profile and Wallet Management UI**: Easily analyze and compare a trader's performance across different platforms; efficiently manage wallets.
 * **Support for Trader Tracking on Multiple Platforms**: Now includes Blast, BNB, Base, Avalanche, Polygon, Fantom, Linea, Mode, Level Finance, EquationDAO, Vela Exchange, LogX Trade, MYX Finance, DexToro, LogX Trade, HMX, and CyberDEX.
 * **Copy-Trade Integrations**: Integrated with GMXv2, Avantisfi, CyberDEX, Vela Exchange, EquationDAO, and HMX.
 * **Exchange Integrations**: Bybit, Gate.io, and OKX are now integrated with Copin for easy copy trading.
 * **Introducing VIP Subscription Plan**
+
+</details>
 
 <details>
 
