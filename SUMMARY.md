@@ -33,6 +33,9 @@
   * [Ambassador Program](features/referral/ambassador-program.md)
 * [Developer](features/developer/README.md)
   * [Public API docs](features/developer/public-api-docs.md)
+* [Vault](features/vault/README.md)
+  * [Terms of Vault](features/vault/terms-of-vault.md)
+  * [Q\&A of Vault](features/vault/q-and-a-of-vault.md)
 
 ***
 
