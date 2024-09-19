@@ -11,7 +11,7 @@ By using Vault Copy Trading, users can benefit from advanced strategies while mi
 #### **How Vault Copy Trading Works**
 
 1. **Deposit USDC**\
-   After connecting your **MetaMask** wallet to Copin, you can deposit **USDC (Arbitrum)** directly into the Vault. The minimum deposit required is **100 USDC**.
+   After connecting your **MetaMask** wallet to Copin, you can deposit **USDC (Arbitrum)** directly into the Vault. The minimum deposit required is **100 USDC,** maximum deposit is **100,000 USDC**&#x20;
 2. **Copy Trades Automatically**\
    Once your funds are in the Vault, our **Data Analytics team** will manage the trading by selecting top-performing on-chain pro traders. Your funds will then automatically mirror the strategies and trades of these experts.
 3. **Smart Contracts & Transparency**\
