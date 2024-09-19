@@ -34,7 +34,6 @@ Using Vault Copy Trading comes with the following fees:
 
 * **Management Fee**: 1% per year, calculated daily.
 * **Profit Sharing (Performance Fee)**: 15% of the profit made from copy trading, calculated from the time of deposit to the time of withdrawal.
-* **Execution Fee**: This is a transaction fee incurred when the Vault executes trades on the platform, charged based on platform fees.
 
 All fees will be clearly displayed in your Vault interface, ensuring complete transparency.
 
