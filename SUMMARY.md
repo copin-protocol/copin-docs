@@ -28,6 +28,7 @@
   * [Connect Gate API](features/centralized-copy-trading-ccp/connect-gate-api.md)
   * [Connect OKX API](features/centralized-copy-trading-ccp/connect-okx-api.md)
   * [FAQs about your API security](features/centralized-copy-trading-ccp/faqs-about-your-api-security.md)
+* [Vault Copy Trading.](features/vault-copy-trading..md)
 * [Referral](features/referral/README.md)
   * [Referral Program](features/referral/referral-program.md)
   * [Ambassador Program](features/referral/ambassador-program.md)
