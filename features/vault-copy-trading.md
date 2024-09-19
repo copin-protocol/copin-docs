@@ -1,4 +1,4 @@
-# Vault Copy Trading.
+# Vault Copy Trading
 
 #### **What is Vault Copy Trading?**
 
@@ -56,7 +56,7 @@ Invest only what you are prepared to lose, as all investments carry risk.
 To get started with Vault Copy Trading, follow these simple steps:
 
 1. **Install MetaMask**: Ensure you have a MetaMask wallet connected to the Arbitrum network.
-2. **Deposit USDC**: Once connected, deposit a minimum of 100 USDC into the Vault.
+2. **Deposit USDC**: Once connected, deposit a minimum of 100 USDC into the Vault. Maximum deposit is 100,000 USDC.
 3. **Track Performance**: You can monitor your investments, profits, and trade history in real-time via the Copin interface.
 
 For any questions or issues, you can always reach out to our support team via **hi@copin.io** or through our online Telegram support channel.
