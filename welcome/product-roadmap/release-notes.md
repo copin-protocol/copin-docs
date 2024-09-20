@@ -1,18 +1,37 @@
 # Release notes
 
-## Copin - 0.8.0 (9/12/2024) - Big updates
+## Copin - 0.9.0 (9/20/2024) - Major updates
 
-We’ve rolled out new updates to enhance your experience on Copin.io. Key improvements include:
+We are thrilled to announce version 0.9.0, packed with significant updates and new features designed to enhance your experience on Copin.io:
 
-* **New Search Experience:** Faster, more intuitive search across the platform.
-* **GraphQL Integration:** Position statistics on key pages (Homepage, Trader Explorer, Open Interest, Trader Favourite) now powered by GraphQL for enhanced performance.
-* **Protocol Picker:** Quickly select one, multiple, or all protocols with ease.
-* **TradingView Integration:** Real-time charts integrated directly into the platform.
-* **Copier Ranking v0.1:** A leaderboard ranking the performance of all copiers on Copin.
-* **New Integrations:**
-  * Synfuture, Hyperliquid, Mummy Finance (data + copy-trade), Rollie (copy-trade).
-  * Support for copy-trade via DCP: ApolloX, HMX, KiloEx, Rollie, Vela, Mummy.
-* **General Improvements:** Various performance and user experience enhancements.
+* **Revamped New Search**: Enjoy a new interface and improved user experience for searching. With more information available and added shortcuts, you can search faster and more flexibly than ever before.
+* **Explore and Analyze On-Chain Traders across all Perp DEXs**: Users can now explore and analyze all on-chain traders across all Perp DEXs simultaneously on the following pages: Homepage, Trader Explorer, Open Interest, and Trader Favorite. This feature allows you to quickly find traders that match your personal needs across all Perp DEXs at once. **\[Major update]**
+* **New Protocol Picker**: Users can now select one, multiple, or all protocols at the same time, streamlining your trading process.
+* **Copier Ranking v0.1**: Introducing the PnL ranking for all copiers, displayed by daily, weekly, monthly, 60-day, and all-time performance: [https://app.copin.io/copier-leaderboard](https://app.copin.io/copier-leaderboard)
+* **Data Integration and New Perp DEXs**: We have integrated new data and added new Perp DEXs, including:
+  * Hyperliquid: Users can filter and search for traders with data sourced from August 27, 2024.
+  * Synfuture
+  * Mummy Finance
+  * Rollie Finance
+* **Copy-Trading Integration**: Users can now copy-trade from six Perp DEXs through the DCP gTrade liquidity source, including ApolloX, HMX, KiloEx, Rollie, Vela, and Mummy.
+
+We appreciate your continued support and feedback. These updates are aimed at improving your trading experience on Copin.io!
+
+<details>
+
+<summary>Copin - 0.8.0 (8/01/2024)</summary>
+
+* Premium users can now clone copy trades from one wallet to another for greater flexibility.
+* Users can now engage in on-chain copy-trading and claim fee rebate rewards via gTrade. Learn more at Fee Rebate Rewards: [https://app.copin.io/fee-rebate/gns](https://app.copin.io/fee-rebate/gns)
+* The price for premium NFTs has been updated from 0.01 ETH to 0.03 ETH.
+* Premium users can now create multiple copies within copy management, allowing for more efficient trading strategies.
+* We've updated the chart to provide real-time data for open positions, enhancing your copy-trading experience.
+* New Trading Pairs Added: New pairs are now available for gTrade, GMX V2, Vela, and Synthetix V3.
+* Additional parameters have been added to the Stats page. Check it out at Stats: [https://app.copin.io/stats](https://app.copin.io/stats)
+
+Thank you for being a part of our community. We’re committed to continuously improving your experience on Copin.io!
+
+</details>
 
 <details>
 
