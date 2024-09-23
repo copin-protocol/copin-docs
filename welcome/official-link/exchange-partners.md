@@ -18,3 +18,4 @@ Register for a new account under the referral links from Copin's exchange partne
 * Hyperliquid: [https://app.hyperliquid.xyz/join/COPIN](https://app.hyperliquid.xyz/join/COPIN) (Referral code: **`COPIN`**)
 * GMX: [https://app.gmx.io/#/trade/?ref=copin](https://app.gmx.io/#/trade/?ref=copin) (Referral code: **`copin`**)
 * Kwenta: [https://kwenta.io/?ref=copin](https://kwenta.io/?ref=copin) (Referral code: **`copin`**)
+* Mux: [https://app.mux.network/#/ref/copin](https://app.mux.network/#/ref/copin) (Referral code: **`copin`**)
