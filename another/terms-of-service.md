@@ -1,47 +1,75 @@
 # Terms of Service
 
-Welcome to Copin! These Terms of Use ("Terms") govern your access to and use of the Copin platform and services ("Services"). By accessing or using the Services, you agree to be bound by these Terms. If you do not agree with these Terms, please refrain from accessing or using the Services.
+Welcome to **Copin!** These Terms of Use ("Terms") govern your access to and use of the Copin platform and its services ("Services"). By accessing or using our Services, you agree to be bound by these Terms. If you do not agree with any part of these Terms, please refrain from using or accessing the platform.
 
-## I. Acceptance of Terms
+***
 
-By using Copin, you affirm that you are of legal age and have the authority to enter into these Terms. If you are accessing or using the Services on behalf of a company or organization, you represent and warrant that you have the authority to bind such entity to these Terms.
+**I. Acceptance of Terms**
 
-## II. Description of Services
+By using **Copin**, you confirm that you are of legal age and have the capacity to enter into this agreement. If you are using the Services on behalf of a company or another legal entity, you represent and warrant that you have the authority to bind that entity to these Terms. If you do not have such authority, you must not use or access the Services.
 
-Copin is a decentralized copy trading platform that enables users to connect with other traders and replicate their trades. The Services provide a platform for users to share and access trading strategies and signals. Copin acts solely as a facilitator and does not provide financial advice or guarantee any specific results.
+***
 
-## III. User Responsibilities
+**II. Description of Services**
 
-1. Account Registration: To access certain features of the Services, you must create an account. You agree to provide accurate and complete information during the registration process and to keep your account information up to date. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
-2. Compliance with Laws: You agree to comply with all applicable laws, regulations, and third-party rights while using the Services. You acknowledge that cryptocurrency trading involves risks, and you are solely responsible for your trading decisions.
-3. Prohibited Conduct: You must not engage in any activity that violates these Terms or disrupts the functioning of the Services. Prohibited conduct includes but is not limited to:
-   1. Unauthorized access or use of other users' accounts.
-   2. Attempting to manipulate or deceive other users or the platform.
-   3. Uploading or transmitting viruses, malware, or any harmful content.
-   4. Interfering with the security or integrity of the Services.
-   5. Engaging in any illegal or fraudulent activities.
+Copin is a decentralized copy trading platform that allows users to connect with and follow other traders, replicating their trades in real-time. Copin facilitates the sharing and accessing of trading strategies, but does not provide any financial or investment advice, nor does it guarantee any specific outcomes or trading results. Users are solely responsible for their own trading decisions.
 
-## IV. Intellectual Property
+**Smart Wallet Creation**\
+When using Copin's decentralized copy trading services, you may be required to create a **Smart Wallet**—a blockchain-based wallet managed by smart contracts to facilitate your trading activities. You are fully responsible for managing the security of this wallet, including securing private keys and ensuring access to your funds. Copin cannot be held liable for any unauthorized access or losses resulting from wallet mismanagement.
 
-Copin and its associated trademarks, logos, and content are the exclusive property of the platform. You may not use, copy, modify, or distribute any of these materials without prior written consent from Copin.
+***
 
-## V. Privacy
+**III. User Responsibilities**
 
-Copin respects your privacy and handles your personal information in accordance with its Privacy Policy. By using the Services, you consent to the collection, use, and storage of your information as described in the Privacy Policy.
+**1. Account Registration**\
+To use certain features of the platform, such as accessing copy trading services, you must register for an account. You agree to provide accurate and complete information during the registration process and to keep your account details up to date. You are responsible for safeguarding your account credentials and for all activities that occur under your account.
 
-## VI. Disclaimer of Warranty and Limitation of Liability
+**2. Compliance with Laws**\
+You agree to comply with all applicable laws, rules, and regulations in connection with your use of the Services. This includes adhering to legal requirements related to cryptocurrency trading. You acknowledge that cryptocurrency trading carries risks, and you are solely responsible for making informed decisions.
 
-The Services are provided "as is" without warranties of any kind, whether express or implied. Copin does not guarantee the accuracy, completeness, or reliability of any information provided by users. You acknowledge and agree that your use of the Services is at your own risk.To the maximum extent permitted by law, Copin and its affiliates shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages arising out of or in connection with the use of the Services.
+**3. Prohibited Conduct**\
+While using Copin, you agree not to engage in the following prohibited activities:
 
-## VII. Modification and Termination
+* Unauthorized access to other users' accounts or the platform’s systems.
+* Manipulation or deception of other users or the platform.
+* Uploading viruses, malware, or harmful content.
+* Interfering with the security, integrity, or performance of the platform.
+* Participating in illegal, fraudulent, or unethical activities.
 
-Copin reserves the right to modify, suspend, or terminate the Services at any time without prior notice. We may also update these Terms from time to time, and it is your responsibility to review them periodically. Continued use of the Services after any modifications to the Terms constitutes your acceptance of the revised terms.
+***
 
-## IIX. Severability
+**IV. Intellectual Property**
 
-If any provision of these Terms is held to be invalid or unenforceable, the remaining provisions shall continue to be valid and enforceable to the fullest extent permitted by law.
+All intellectual property, including but not limited to **Copin**’s trademarks, logos, designs, and content, remains the exclusive property of Copin. You may not copy, modify, distribute, or use these materials without explicit written permission from Copin.
 
-## IX. Entire Agreement
+***
 
-These Terms constitute the entire agreement between you and Copin regarding the Services and supersede any prior or contemporaneous agreements.\
-If you have any questions or concerns about these terms, please contact us at hi@copin.io
+**V. Privacy**
+
+Your privacy is important to us. Copin collects and processes your personal data in accordance with its **Privacy Policy**, which is incorporated by reference into these Terms. By using the Services, you consent to the collection and use of your information as outlined in the Privacy Policy.
+
+***
+
+**VI. Disclaimer of Warranties and Limitation of Liability**
+
+The Services are provided "as is" without any warranties, express or implied. Copin makes no representations or guarantees regarding the accuracy, completeness, or reliability of the information available on the platform, whether provided by other users or third parties.
+
+You acknowledge that your use of the Services is entirely at your own risk. To the fullest extent permitted by law, Copin and its affiliates shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages arising from your use of the Services, including but not limited to any loss of profits, data, or other intangible losses.
+
+***
+
+**VII. Modification and Termination**
+
+Copin reserves the right to modify, suspend, or terminate any aspect of the Services at any time, with or without notice. Additionally, we may update these Terms periodically, and it is your responsibility to review them regularly. Continued use of the Services following any changes constitutes your acceptance of the revised Terms.
+
+***
+
+**VIII. Severability**
+
+If any provision of these Terms is found to be unlawful, void, or unenforceable, the remaining provisions will continue in full effect. Any invalid provisions will be replaced by enforceable terms that closely reflect the intent of the original terms.
+
+***
+
+**IX. Entire Agreement**
+
+These Terms constitute the entire agreement between you and Copin regarding the use of the Services and supersede any prior agreements or communications. If you have any questions or concerns regarding these Terms, please reach out to us at **hi@copin.io**.
