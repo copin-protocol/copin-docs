@@ -1,8 +1,18 @@
 # Release notes
 
-## Copin - 0.9.0 (9/20/2024) - Major updates
+## Copin - 0.9.2 (10/04/2024)
 
-We are thrilled to announce version 0.9.0, packed with significant updates and new features designed to enhance your experience on Copin.io:
+* Improve search, protocol picker
+* Update the Result Estimated in Trader Explorer page
+* Update market filter in Trade Explorer & Open Interest page
+* Update url for home, Explorer, Open Interest, favourite page
+* Apply Pair (symbol) for positions & position statistics
+* Apply pair for copy position & backtest
+* Add new pair: POL, RDNT, FLUX, NEIRO, SUNDOG, CAT, BABYDOGE
+
+<details>
+
+<summary>Copin - 0.9.0 (9/20/2024) - Major updates</summary>
 
 * **Revamped New Search**: Enjoy a new interface and improved user experience for searching. With more information available and added shortcuts, you can search faster and more flexibly than ever before.
 * **Explore and Analyze On-Chain Traders across all Perp DEXs**: Users can now explore and analyze all on-chain traders across all Perp DEXs simultaneously on the following pages: Homepage, Trader Explorer, Open Interest, and Trader Favorite. This feature allows you to quickly find traders that match your personal needs across all Perp DEXs at once. **\[Major update]**
@@ -15,7 +25,7 @@ We are thrilled to announce version 0.9.0, packed with significant updates and n
   * Rollie Finance
 * **Copy-Trading Integration**: Users can now copy-trade from six Perp DEXs through the DCP gTrade liquidity source, including ApolloX, HMX, KiloEx, Rollie, Vela, and Mummy.
 
-We appreciate your continued support and feedback. These updates are aimed at improving your trading experience on Copin.io!
+</details>
 
 <details>
 
