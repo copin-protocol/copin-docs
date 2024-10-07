@@ -20,11 +20,11 @@ The Copy Trading Service on Copin enables users to follow selected traders' acti
 
 By subscribing to the Copy Trading Service, you acknowledge the risks associated with copying another trader’s account and strategies. You are solely responsible for relying on information provided by third-party traders. Copy trading carries inherent risks, and you could experience significant losses. When using the Copy Trading Service, you do so at your own risk, and Copin will not be liable for any losses incurred as a result of your participation in the service.
 
-By clicking "I agree," you authorize the platform to execute all trades and positions initiated by the trader, account, portfolio, or strategy you choose to follow. Once you initiate a trade, automated trading execution will handle the process without requiring any manual intervention from you. All activities related to the Copy Trading Service are governed by the **Terms of Service**, which outline the usage and functionality of the platform.
+By clicking "I agree," you authorize the platform to execute all trades and positions initiated by the trader, account, portfolio, or strategy you choose to follow. Once you initiate a trade, automated trading execution will handle the process without requiring any manual intervention from you. All activities related to the Copy Trading Service are governed by the [**Terms of Service**](terms-of-service.md), which outline the usage and functionality of the platform.
 
 **ORDER EXECUTION RISKS**
 
-In our **Terms of Service**, we clarify that we do not guarantee the filling of any orders you place. Orders may be delayed due to circumstances beyond our control, including system processing issues, hardware or software failures, or market conditions related to liquidity and volatility. Therefore, we cannot be held responsible for ensuring that orders are executed at the exact price specified in your order if delays or conditions impact order transmission or execution. It is crucial for users to understand these risks when using our platform for trading.
+In our [**Terms of Service**](terms-of-service.md), we clarify that we do not guarantee the filling of any orders you place. Orders may be delayed due to circumstances beyond our control, including system processing issues, hardware or software failures, or market conditions related to liquidity and volatility. Therefore, we cannot be held responsible for ensuring that orders are executed at the exact price specified in your order if delays or conditions impact order transmission or execution. It is crucial for users to understand these risks when using our platform for trading.
 
 **THIRD-PARTY PLATFORM PROVIDERS**
 
