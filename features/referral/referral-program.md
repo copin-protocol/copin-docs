@@ -17,14 +17,7 @@ Copin's referral system operates on multi levels: F0 (You), F1 (Your direct refe
 
 Rewards are tracked once a trading position is closed and are available for claiming at 00:00 UTC the next day. Referral tiers are determined by the total fees paid by F0, F1, and F2 over a 30-day period, with increasing rewards based on the following structure:
 
-| Tiers | Total Fee Paid by F0+F1+F2 (Last 30 Days)	 | F0 (Rebate) | F1 (Commission) | F2 (Commission) |
-| ----- | ------------------------------------------ | ----------- | --------------- | --------------- |
-| 1     | $0                                         | 0%          | 10%             | 1%              |
-| 2     | $1,500                                     | 5%          | 15%             | 2%              |
-| 3     | $3,000                                     | 5%          | 20%             | 4%              |
-| 4     | $6,000                                     | 5%          | 25%             | 6%              |
-| 5     | $12,000                                    | 5%          | 30%             | 8%              |
-| 6     | $24,000                                    | 5%          | 35%             | 10%             |
+<table><thead><tr><th width="81">Tiers</th><th width="228">Total Fee Paid by F0+F1+F2 (Last 30 Days)	</th><th width="127">F0 (Rebate)</th><th width="156">F1 (Commission)</th><th>F2 (Commission)</th></tr></thead><tbody><tr><td>1</td><td>$0</td><td>0%</td><td>10%</td><td>1%</td></tr><tr><td>2</td><td>$1,500</td><td>5%</td><td>15%</td><td>2%</td></tr><tr><td>3</td><td>$3,000</td><td>5%</td><td>20%</td><td>4%</td></tr><tr><td>4</td><td>$6,000</td><td>5%</td><td>25%</td><td>6%</td></tr><tr><td>5</td><td>$12,000</td><td>5%</td><td>30%</td><td>8%</td></tr><tr><td>6</td><td>$24,000</td><td>5%</td><td>35%</td><td>10%</td></tr></tbody></table>
 
 ## **FAQs**
 
