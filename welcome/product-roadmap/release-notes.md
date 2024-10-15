@@ -1,6 +1,38 @@
 # Release notes
 
-## Copin - 0.9.2 (10/04/2024)
+## Copin - 0.9.3 (10/15/2024)
+
+* Referral program: New UI updates, Add Referral Code, Custom Referral Code (Premium User), Recent Activities, Statistics
+* Implement connect Metamask on mobile browser
+* Improve: New table for display large data
+* Add new market KiloEx & gTrade - FE
+* Improve: Show fees on trader bar chart&#x20;
+* Improve: Toggle dropdown for protocol picker&#x20;
+* Add disclaimer when create DCP wallet&#x20;
+* Update new pair \[KiloEx, Mummy, GNS, GMXv2]&#x20;
+* Remove the blocking of actions that touch fulltime data for Basic users: View All Time Data, Compare Trader with All Time data&#x20;
+* DCP Wallet\_Investigate & hotfix switch chain with disconnect wallet&#x20;
+
+<details>
+
+<summary>Copin - 0.9.3 (10/15/2024)</summary>
+
+* Referral program: New UI updates, Add Referral Code, Custom Referral Code (Premium User), Recent Activities, Statistics
+* Implement connect Metamask on mobile browser
+* Improve: New table for display large data
+* Add new market KiloEx & gTrade - FE
+* Improve: Show fees on trader bar chart&#x20;
+* Improve: Toggle dropdown for protocol picker&#x20;
+* Add disclaimer when create DCP wallet&#x20;
+* Update new pair \[KiloEx, Mummy, GNS, GMXv2]&#x20;
+* Remove the blocking of actions that touch fulltime data for Basic users: View All Time Data, Compare Trader with All Time data&#x20;
+* DCP Wallet\_Investigate & hotfix switch chain with disconnect wallet&#x20;
+
+</details>
+
+<details>
+
+<summary>Copin - 0.9.2 (10/04/2024)</summary>
 
 * Improve search, protocol picker
 * Update the Result Estimated in Trader Explorer page
@@ -9,6 +41,8 @@
 * Apply Pair (symbol) for positions & position statistics
 * Apply pair for copy position & backtest
 * Add new pair: POL, RDNT, FLUX, NEIRO, SUNDOG, CAT, BABYDOGE
+
+</details>
 
 <details>
 
