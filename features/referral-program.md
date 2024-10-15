@@ -1,7 +1,7 @@
 # Referral Program
 
 {% hint style="info" %}
-Referral program v2.0 - _Updated: 11 Oct, 2024_
+Referral program v0.2 - _Updated: 11 Oct, 2024_
 {% endhint %}
 
 ## **Introduction**
