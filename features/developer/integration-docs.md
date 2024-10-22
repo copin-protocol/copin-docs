@@ -4,7 +4,7 @@
 
 Welcome to the Copin Integration Guide! This guide helps developers, partners, and traders seamlessly connect with Copin’s features, such as trader profiles, position data, and leaderboards, to enhance their platforms.
 
-Integrating with Copin unlocks real-time trading insights, transaction data, and performance metrics, offering valuable information to your users and building transparency and trust. Leaderboard integration further boosts engagement by showcasing top traders and encouraging competition.
+Integrating with Copin unlocks trading insights, transaction data, and performance metrics, offering valuable information to your users and building transparency and trust. Leaderboard integration further boosts engagement by showcasing top traders and encouraging competition.
 
 With clear steps, examples, and URLs, this guide ensures a smooth integration process, enabling you to fully utilize Copin’s data-rich ecosystem.
 
