@@ -1,10 +1,3 @@
----
-description: >-
-  Welcome to the Copin Integration Guide! This document is designed to help
-  developers, partners, and traders integrate seamlessly with Copin’s suite of
-  features.
----
-
 # Integration Docs
 
 ## Introduction
