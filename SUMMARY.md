@@ -32,6 +32,7 @@
 * [Referral Program](features/referral-program.md)
 * [Developer](features/developer/README.md)
   * [Public API docs](features/developer/public-api-docs.md)
+  * [Copin Integrators](features/developer/copin-integrators.md)
 
 ***
 
