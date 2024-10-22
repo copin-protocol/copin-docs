@@ -1,4 +1,4 @@
-# Copin Integrators
+# Integration Docs
 
 ## Protocol List
 
@@ -19,7 +19,7 @@ https://app.copin.io/trader/\[trader\_address]/\[protocol]?utm\_source=\[protoco
 * trader\_address:
   * Ex: 0xCf9D6C81167b183A384964d0A2ed2234feF81BDC
 * protocol:
-  * \[PROTOCOL] from [Protocol List](https://decentralab.larksuite.com/docx/DW2gdRTyooA0Drx1x0Bu9lvesUc#share-VVAYdv8uqoHSLZxFV9ruRAZIs8b)
+  * \[PROTOCOL] from protocol list
   * Ex: KILOEX\_OPBNB
 * Example:
   * https://app.copin.io/trader/0xCf9D6C81167b183A384964d0A2ed2234feF81BDC/kiloex\_opbnb?time=FULL\&utm\_source=GNS
@@ -31,7 +31,7 @@ https://app.copin.io/\[protocol]/position/\[order\_tx\_hash]?account=\[trader\_a
 {% endhint %}
 
 * protocol:
-  * \[PROTOCOL] from [Protocol List](https://decentralab.larksuite.com/docx/DW2gdRTyooA0Drx1x0Bu9lvesUc#share-VVAYdv8uqoHSLZxFV9ruRAZIs8b)
+  * \[PROTOCOL] from protocol list
   * Ex: GMX\_V2
 * trader\_address:
   * Ex: 0x08c788aFdACF6cf81180D2bBBE42A7434D0C7A92
@@ -57,7 +57,7 @@ https://app.copin.io/\[protocol]/leaderboard?leaderboard\_type=\[type]\&utm\_sou
 {% endhint %}
 
 * protocol:
-  * \[PROTOCOL] from [Protocol List](https://decentralab.larksuite.com/docx/DW2gdRTyooA0Drx1x0Bu9lvesUc#share-VVAYdv8uqoHSLZxFV9ruRAZIs8b)
+  * \[PROTOCOL] from protocol list
   * Ex: GNS
 * type:
   * Trader rankings by week or month
