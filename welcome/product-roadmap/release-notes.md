@@ -1,17 +1,11 @@
 # Release notes
 
-## Copin - 0.9.3 (10/15/2024)
+## Copin - 0.9.4 (10/18/2024)
 
-* Referral program: New UI updates, Add Referral Code, Custom Referral Code (Premium User), Recent Activities, Statistics
-* Implement connect Metamask on mobile browser
-* Improve: New table for display large data
-* Add new market KiloEx & gTrade - FE
-* Improve: Show fees on trader bar chart&#x20;
-* Improve: Toggle dropdown for protocol picker&#x20;
-* Add disclaimer when create DCP wallet&#x20;
-* Update new pair \[KiloEx, Mummy, GNS, GMXv2]&#x20;
-* Remove the blocking of actions that touch fulltime data for Basic users: View All Time Data, Compare Trader with All Time data&#x20;
-* DCP Wallet\_Investigate & hotfix switch chain with disconnect wallet&#x20;
+* Referral claim reward
+* Referral lastest activities
+* Sync real PNL from CEXs
+* Fix some bugs
 
 <details>
 
