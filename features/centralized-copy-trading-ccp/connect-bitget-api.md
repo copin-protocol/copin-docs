@@ -74,7 +74,7 @@ The connection process involves:
 
 * After submitting your selfie, you will receive a notification that your KYC verification information has been successfully submitted.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. API Key Creation**
 
@@ -82,21 +82,21 @@ The connection process involves:
 
 * Click on your profile in the top right-hand corner of the screen and go to the "API keys" tab or visit https://www.bitget.online/account/newapi
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Read and agree to Bitget's API Keys Terms & Conditions
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Create API Key**
 
 * Click "**Create API Key**"
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click "**System-generated**"
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3: Modify API Info**
 
@@ -104,11 +104,11 @@ The connection process involves:
 * Create "Passphrase (API token)" API
 * Select "Read-write"
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ensure only "**Orders**", "**Holdings**" and "**Trade**" are selected.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Step 4: Final Security Confirmation**
 
