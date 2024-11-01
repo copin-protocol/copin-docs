@@ -1,11 +1,23 @@
 # Release notes
 
-## Copin - 0.9.4 (10/18/2024)
+## Copin - 0.9.5 (10/28/2024)
+
+* Integrate DYDX&#x20;
+* Integrate BSX
+* Integrate Unidex
+* Copy trade via Hyperliquid
+* Some hotfixs
+
+<details>
+
+<summary>Copin - 0.9.4 (10/18/2024)</summary>
 
 * Referral claim reward
 * Referral lastest activities
 * Sync real PNL from CEXs
 * Fix some bugs
+
+</details>
 
 <details>
 
