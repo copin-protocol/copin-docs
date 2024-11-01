@@ -45,6 +45,8 @@ description: >-
 * API Wallet Private Key: The private key saved from API creation.
 * Wallet Name: Optional.
 
+<figure><img src="../../.gitbook/assets/img_v3_02g7_11b4919f-a55a-4db6-9701-ba95e4de196h.png" alt=""><figcaption><p>This is your master account</p></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 4. Agreement and Confirmation:
