@@ -7,11 +7,10 @@ description: >-
 # Connect Hyperliquid API
 
 {% hint style="info" %}
-#### Prerequisites for Hyperliquid and Copin
+**Notes:**
 
-1. **Matching Wallet Addresses**: It's recommended to log into Hyperliquid with the same wallet address you use for Copin to avoid potential errors.
-2. **Create a Hyperliquid Account**: If you don't have an account yet, [register here ](https://app.hyperliquid.xyz/join/COPIN)(Referral code: COPIN)
-3. API wallets (also known as agent wallets) can perform actions on behalf of your account without having withdrawal permissions. You must still use your account's public address for info requests.
+1. If you don't have a Hyperliquid account yet, [register here ](https://app.hyperliquid.xyz/join/COPIN)(Referral code: COPIN)
+2. API wallets (also known as agent wallets) can perform actions on behalf of your account without having withdrawal permissions. You must still use your account's public address for info requests.
 {% endhint %}
 
 ## Step 1: Create a Hyperliquid API
@@ -28,6 +27,7 @@ description: >-
 3. Save Your Private Key:
 
 * Set Maximum Validity: Choose MAX for up to 180 days.
+* Save your Private Key.
 * Click **\[Authorize]** to complete.
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
@@ -35,24 +35,24 @@ description: >-
 ## Step 2: Connect API to Copin
 
 1. Visit Copin Wallet Management: [https://app.copin.io/wallet-management](https://app.copin.io/wallet-management) and log in.
-2. Connect to Hyperliquid Exchange: Select **\[Connect]** Hyperliquid Exchange.
+2. **\[Connect]** to Hyperliquid Exchange.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter API Details:
 
-* Hyperliquid Account Address: This is the Master Account wallet on Hyperliquid. [Find the Master Account wallet](https://app.hyperliquid.xyz/subAccounts).
+* Hyperliquid Account Address: The wallet address you use to log into Hyperliquid (Hyperliquid's Master Account).
+
+> **Note**: Visit [https://app.hyperliquid.xyz/subAccounts](https://app.hyperliquid.xyz/subAccounts) to identify the Master Account wallet.
+
 * API Wallet Private Key: The private key saved from API creation.
 * Wallet Name: Optional.
 
-<figure><img src="../../.gitbook/assets/img_v3_02g7_11b4919f-a55a-4db6-9701-ba95e4de196h.png" alt=""><figcaption><p>This is your master account</p></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-4. Agreement and Confirmation:
+4. Select "I agree to let Copin use the API to place orders", sign, and confirm your agreement to pay a 0.025% fee per copy trade with Copin.
 
-* Check I agree to allow Copin to use the API for placing orders. A 0.025% fee applies per copy trade.
-* Verify your wallet is the Master Account on Hyperliquid before confirming.
+> **Note**: Ensure that the correct wallet used for signing is the Master Account of Hyperliquid. You can verify by clicking on the icon as shown below before selecting "Confirm."
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
