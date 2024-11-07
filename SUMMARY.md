@@ -28,6 +28,7 @@
   * [Connect Bybit API](features/centralized-copy-trading-ccp/connect-bybit-api.md)
   * [Connect Gate API](features/centralized-copy-trading-ccp/connect-gate-api.md)
   * [Connect OKX API](features/centralized-copy-trading-ccp/connect-okx-api.md)
+  * [Connect CoinEX API](features/centralized-copy-trading-ccp/connect-coinex-api.md)
   * [FAQs about your API security](features/centralized-copy-trading-ccp/faqs-about-your-api-security.md)
 * [Vault Copy Trading](features/vault-copy-trading.md)
 * [Referral Program](features/referral-program.md)
