@@ -22,7 +22,7 @@ The connection process involves:
 
 <table data-header-hidden><thead><tr><th width="258"></th><th></th></tr></thead><tbody><tr><td><strong>OKX Account Setup</strong></td><td>Create an account, unless you already have one.</td></tr><tr><td><strong>Identify Verification</strong></td><td>Identify Verification or <strong>Know Your Customer</strong> (KYC) standards are required for all users of OKX.</td></tr><tr><td><strong>API Key Creation</strong></td><td>Generate an <strong>API key</strong> for Copin Analyzer integration.</td></tr><tr><td><strong>Fund Deposit and Transfer</strong></td><td>Deposit funds into OKX and transfer them to your <strong>Unified Trading Account</strong></td></tr><tr><td><strong>Setup Trading mode</strong></td><td>Set <strong>Isolate Margin</strong> and <strong>Hedge Mode</strong> for all trading pairs</td></tr></tbody></table>
 
-> _For any difficulties, we invite you to join_ [_the Copin.io community_ ](https://t.me/Copin\_io)_where our admin team is ready to assist._
+> _For any difficulties, we invite you to join_ [_the Copin.io community_ ](https://t.me/Copin_io)_where our admin team is ready to assist._
 
 ## **1. OKX Account Setup**
 
@@ -152,6 +152,6 @@ These settings ensure that the copy trading system operates in the most logical 
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-* Set account mode to "Spot and futures mode**"**. Click on switch to finish.
+* Set account mode to "Spot and futures mod&#x65;**"**. Click on switch to finish.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-08-29 at 11.03.38.png" alt=""><figcaption></figcaption></figure>

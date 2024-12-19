@@ -50,7 +50,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-4. Select "I agree to let Copin use the API to place orders", sign, and confirm your agreement to pay a 0.025% fee per copy trade with Copin.
+4. Select "I agree to let Copin use the API to place orders", sign, and confirm your agreement to pay a 0.05% trade size when open order.
 
 > **Note**: Ensure that the correct wallet used for signing is the Master Account of Hyperliquid. You can verify by clicking on the icon as shown below before selecting "Confirm."
 
@@ -88,6 +88,6 @@ Copin uses the PYTH oracle to obtain price information, while Hyperliquid has it
 Hyperliquid's system uses partial order matching, so each partial fill appears as a separate entry in the activity log, unlike other sources that may group these as a single copy order.
 
 {% hint style="info" %}
-Join the Copin Global community on Telegram to get support here: [https://t.me/Copin\_io](https://t.me/Copin\_io).
+Join the Copin Global community on Telegram to get support here: [https://t.me/Copin\_io](https://t.me/Copin_io).
 {% endhint %}
 
