@@ -50,7 +50,9 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-4. Select "I agree to let Copin use the API to place orders", sign, and confirm your agreement to pay a 0.05% trade size when open order.
+4. Select "I agree to let Copin use the API to place orders", sign, and confirm your agreement to pay a 0.05% trade size when open order.&#x20;
+
+> Learn more about copy-trade fee structure here: [https://docs.copin.io/features/fees-structure#id-1.-fee-structure-for-copy-trading-on-hyperliquid](https://docs.copin.io/features/fees-structure#id-1.-fee-structure-for-copy-trading-on-hyperliquid)
 
 > **Note**: Ensure that the correct wallet used for signing is the Master Account of Hyperliquid. You can verify by clicking on the icon as shown below before selecting "Confirm."
 

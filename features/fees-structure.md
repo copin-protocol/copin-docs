@@ -10,7 +10,7 @@ Copin provides detailed information about the fee structures applied when users 
 
 When users copy trade through Hyperliquid, the following fees apply:
 
-<table><thead><tr><th width="142">Fee type</th><th width="191">Fee formula ($)</th><th width="188">When charging</th><th>How to check</th></tr></thead><tbody><tr><td><strong>Builder fee</strong></td><td>0.05% trade size of open order</td><td>Charged when <strong>opening/increasing</strong> a copy trade order and no fee when closing/decreasing an order.</td><td>You can check the fees in the <strong>"Trade History"</strong> tab of your Hyperliquid account.</td></tr><tr><td><strong>Hyperliquid Trading Fee</strong></td><td>0.035% trade size</td><td>Charged when an order is executed.</td><td>You can check the fees in the <strong>"Trade History"</strong> tab of your Hyperliquid account.</td></tr></tbody></table>
+<table><thead><tr><th width="142">Fee type</th><th width="191">Fee formula ($)</th><th width="188">When charging</th><th>How to check</th></tr></thead><tbody><tr><td>Builder fee</td><td>0.05% trade size of open order</td><td>Charged when <strong>opening/increasing</strong> a copy trade order and no fee when closing/decreasing an order.</td><td>You can check the fees in the <strong>"Trade History"</strong> tab of your Hyperliquid account.</td></tr><tr><td>Hyperliquid Trading Fee</td><td>0.035% trade size</td><td>Charged when an order is executed.</td><td>You can check the fees in the <strong>"Trade History"</strong> tab of your Hyperliquid account.</td></tr></tbody></table>
 
 These fees are charged directly on the Hyperliquid platform and can be reviewed in the **"Trade History"** tab of your Hyperliquid account.
 
