@@ -5,7 +5,7 @@ description: We've got a pricing plan that's perfect for you
 # 👑 Subscription Plan
 
 {% hint style="info" %}
-**Update date: August 13, 2024**&#x20;
+**Update date: January 14, 2025**
 {% endhint %}
 
 ## Subscription Plans&#x20;
