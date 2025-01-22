@@ -1,7 +1,5 @@
 # Release notes
 
-
-
 <details>
 
 <summary>Copin - 1.1.1 (1/22/2024)</summary>

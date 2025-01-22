@@ -7,7 +7,6 @@
 * [Official Link](welcome/official-link/README.md)
   * [Exchange partners](welcome/official-link/exchange-partners.md)
 * [Integrators, Partners & Ecosystem](welcome/integrators-partners-and-ecosystem.md)
-* [Release notes](welcome/release-notes.md)
 * [Copin Elite Club](welcome/copin-elite-club.md)
 
 ## 🚀 Features
@@ -34,6 +33,7 @@
 * [Developer](features/developer/README.md)
   * [Public API docs](features/developer/public-api-docs.md)
   * [Integration Docs](features/developer/integration-docs.md)
+* [Release notes](features/release-notes.md)
 
 ***
 
