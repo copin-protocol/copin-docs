@@ -1,12 +1,136 @@
 # Release notes
 
-## Copin - 0.9.5 (10/28/2024)
+
+
+<details>
+
+<summary>Copin - 1.1.1 (1/22/2024)</summary>
+
+**1. Copin Alert v2.0.1**
+
+\- Updated interface for a smoother experience, paving the way for users to flexibly and powerfully customize alerts in the future.
+
+\- Start exploring now: [https://app.copin.io/settings/alert-list](https://app.copin.io/settings/alert-list)
+
+**2. Copin Lite v0.2.0**
+
+This update enhances usability and onboarding with the following improvements:
+
+\- Added trader filters for tables, including open positions, history, and activities.
+
+\- Enabled switching between list view and table view on mobile for easier navigation of open positions, history, and activities.
+
+\- Introduced a Mission Widget to simplify user onboarding with 3 steps: Copy 2 traders, deposit funds and enable alerts.&#x20;
+
+\- Added support for viewing real-time opening positions.
+
+\- Added the ability to unlink mismatched orders between off-chain and on-chain data.
+
+**3. Copy trade is now enabled for Holdstation, providing users with even more trading opportunities.**
+
+Log in now to explore these updates! Thank you for being part of Copin!
+
+</details>
+
+<details>
+
+<summary>Copin - 1.0.1 (1/15/2024)</summary>
+
+📢 Product Update: Copin v1.1.0
+
+**A. New Features**
+
+**1. Perp Explorer**
+
+\- Four new charts have been added to the Perp Detail Page, include: Top volume by pair, Top PnL by pair, Open Interest by pair, Trader activity intensity (by day & hour)
+
+\- Link: [https://app.copin.io/perp-explorer/gmx\_v2 ](https://app.copin.io/perp-explorer/gmx_v2)
+
+**2. Copin Alert Bot**
+
+\- Redesigned with a new structure and updated content for a smoother experience.
+
+\- Alerts can now be enabled for all integrated perpdex platforms (excluding Hyperliquid).
+
+**B. Integrations**
+
+&#x31;**. Pingu Data Integration**
+
+Data from Pingu Exchange is now fully integrated.
+
+Link: [https://app.copin.io/explorer?protocol=PINGU\_ARB](https://app.copin.io/explorer?protocol=PINGU_ARB)
+
+**2. Expanded Copy Trade Support, include:**
+
+\- Foxify
+
+\- BMX Classic
+
+\- Polynomial L2
+
+\- Apollox Base
+
+**C. Improvements**
+
+**1. Copy Trade Settings Update**
+
+\- Added a setting to enable only LONG or only SHORT copy trades.
+
+\- Note: If "only LONG" is enabled and a SHORT trade is copied, the trade will be skipped without generating notifications or activity logs.
+
+</details>
+
+<details>
+
+<summary>Copin - 1.0.1 (1/15/2024)</summary>
+
+We’re excited to share the latest updates in Copin v1.0.1, focused on improving functionality and enhancing your experience:
+
+**1. Account Limited Mechanism for Copy Trade via Hyperliquid (Copin Lite):**
+
+\- No size limit for copy trading.
+
+\- No restriction on the number of hot traders you can follow.
+
+Note: Size limits, if applied, are calculated based on the total copy trades of the respective trader.
+
+**2. Improved Statistics Refresh Time:**
+
+Statistics now refresh every 15 minutes instead of daily, providing timely and accurate insights into trading performance.
+
+</details>
+
+<details>
+
+<summary>Copin - 1.0.0 (1/10/2025) - Copin’s Fresh New Look &#x26; Copin Lite</summary>
+
+![](../.gitbook/assets/telegram-cloud-photo-size-5-6053356920670109346-y.jpg)
+
+We’ve made some exciting updates to improve our interface and make your experience even smoother.
+
+**What’s New?**
+
+1. A Clearer Font: We’ve introduced a new font that’s easier to read, so you can quickly catch the numbers, charts, and info that matter most.
+2. A Cleaner Design: The platform has been updated to look more consistent and user-friendly, making everything easier to find and use.
+3. We're excited to announce the launch of **Copin Lite**! The easiest way to get started with copy trading – designed for newcomers to crypto. ➡️ Start your journey here: https://app.copin.io/lite
+
+**Why It Matters?**
+
+This isn’t just a visual update—it’s about creating a space where you feel confident and focused. We want you to enjoy using Copin every step of the way.
+
+</details>
+
+<details>
+
+<summary>Copin - 0.9.5 (10/28/2024)</summary>
 
 * Integrate DYDX&#x20;
 * Integrate BSX
 * Integrate Unidex
 * Copy trade via Hyperliquid
 * Some hotfixs
+
+</details>
 
 <details>
 
@@ -106,11 +230,9 @@ Thank you for being a part of our community. We’re committed to continuously i
   * Enjoy increased copy sizes if you refer to Copin on CEX.&#x20;
   * Especially, VIPs can have a maximum copy size of $2,000,000 if they refer Copin on CEX.
 
-<!---->
+- Easily track all Level\_\_Finance traders from Level (Arbitrum) on app.copin.io
 
-* Easily track all Level\_\_Finance traders from Level (Arbitrum) on app.copin.io
-
-![](<../../.gitbook/assets/image (145).png>)![](<../../.gitbook/assets/image (146).png>)![](<../../.gitbook/assets/image (147).png>)
+![](<../.gitbook/assets/image (145).png>)![](<../.gitbook/assets/image (146).png>)![](<../.gitbook/assets/image (147).png>)
 
 </details>
 
@@ -123,9 +245,9 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Add more support chains: Blast, BNB, Base, Avalanche, Polygon, Fantom, Linea, Mode.&#x20;
 * Format decimal token price depends on pair. Token prices on trading pairs will now be displayed correctly in the corresponding decimal amount
 
-![](<../../.gitbook/assets/image (142).png>)![](<../../.gitbook/assets/image (143).png>)
+![](<../.gitbook/assets/image (142).png>)![](<../.gitbook/assets/image (143).png>)
 
-![](<../../.gitbook/assets/image (144).png>)
+![](<../.gitbook/assets/image (144).png>)
 
 </details>
 
@@ -136,7 +258,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * New trader profile - Easily analyze and compare a trader's performance across different platforms at the same time.
 * GMX V2 copy trade - Increase your profits by copying trades from new traders on GMX V2.
 
-![](<../../.gitbook/assets/image (138).png>)![](<../../.gitbook/assets/image (139).png>)![](<../../.gitbook/assets/image (140).png>)
+![](<../.gitbook/assets/image (138).png>)![](<../.gitbook/assets/image (139).png>)![](<../.gitbook/assets/image (140).png>)
 
 </details>
 
@@ -151,7 +273,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Added Alert BOT for GNS protocol traders: Stay updated on your favorite traders' latest trades with Alert BOT for GNS.
 * Bitget integration for copy trade: Connect your Bitget account to Copin for copy trade and get a 10% transaction fee rebate with code: 1qlg
 
-<img src="../../.gitbook/assets/image (80).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (80).png" alt="" data-size="original">
 
 </details>
 
@@ -162,7 +284,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Indexed trader data from GainsNetwork on Arbitrum&#x20;
 * Started supporting Bitget for hybrid copy-trading in internal testing Try now
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 </details>
 
@@ -175,7 +297,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Optimized position URLs to be viewable via transaction hash
 * Display additional 24-hour changes in open interest by markets
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24).png>)
 
 </details>
 
@@ -191,7 +313,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Implemented position details by transaction hash.
 * Introduced new integration: GMX V2.
 
-<img src="../../.gitbook/assets/image (79).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (79).png" alt="" data-size="original">
 
 </details>
 
@@ -204,7 +326,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Refreshed homepage look & feel.
 * Various UX & system optimizations.
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -219,7 +341,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Improving Copin Subscription extending experience
 * And some system optimization
 
-<img src="../../.gitbook/assets/image (74).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (74).png" alt="" data-size="original">
 
 </details>
 
@@ -238,7 +360,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Sorting copy wallets by number of active copy trades as default
 * API performance improvement
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -260,7 +382,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 
 Hope you enjoy this updates!
 
-![](<../../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 </details>
 
@@ -274,7 +396,7 @@ Hope you enjoy this updates!
 * Supporting more web3 wallets: Trust Wallet, Coinbase, Wallet Connect, ...
 * Some UX enhancements & technical optimizations
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 </details>
 
@@ -300,7 +422,7 @@ Hope you enjoy this updates!
 * Changing ROI to Avg ROI to avoid misunderstanding
 * Some technical & experience enhancements
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -409,7 +531,7 @@ Hope you enjoy this updates!
 
 #### Copin v0.1.0 (08/08/2023) 🍾 - Private Beta version release
 
-[https://twitter.com/Copin\_io/status/1686243157745479680](https://twitter.com/Copin\_io/status/1686243157745479680)\
+[https://twitter.com/Copin\_io/status/1686243157745479680](https://twitter.com/Copin_io/status/1686243157745479680)\
 \
 Meet Copin Analyzer - The leading tool to analyze and copy on-chain traders.\
 \
