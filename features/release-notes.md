@@ -1,8 +1,26 @@
 # Release notes
 
+
+
 <details>
 
-<summary>Copin - 1.1.1 (1/22/2024)</summary>
+<summary>Copin - 1.1.2 (2/05/2025</summary>
+
+1\. Copy trading is now enabled for traders on KiloEx (Base) and Unidex (Arb), providing more opportunities to follow top traders.
+
+2\. Disabled the hourly chart in perpdex details to improve platform stability and usability.
+
+3\. Hotfixes: Resolved MetaMask connection errors on certain devices.
+
+
+
+Log in now to explore the latest improvements. Thank you for being part of Copin!
+
+</details>
+
+<details>
+
+<summary>Copin - 1.1.1 (1/22/2025)</summary>
 
 **1. Copin Alert v2.0.1**
 
@@ -32,7 +50,7 @@ Log in now to explore these updates! Thank you for being part of Copin!
 
 <details>
 
-<summary>Copin - 1.0.1 (1/15/2024)</summary>
+<summary>Copin - 1.1.0 (1/15/2025)</summary>
 
 📢 Product Update: Copin v1.1.0
 
@@ -80,7 +98,7 @@ Link: [https://app.copin.io/explorer?protocol=PINGU\_ARB](https://app.copin.io/e
 
 <details>
 
-<summary>Copin - 1.0.1 (1/15/2024)</summary>
+<summary>Copin - 1.0.1 (1/15/2025)</summary>
 
 We’re excited to share the latest updates in Copin v1.0.1, focused on improving functionality and enhancing your experience:
 
