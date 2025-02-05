@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>Copin - 1.1.2 (2/05/2025</summary>
+<summary>Copin - 1.1.2 (2/05/2025)</summary>
 
 1\. Copy trading is now enabled for traders on KiloEx (Base) and Unidex (Arb), providing more opportunities to follow top traders.
 
