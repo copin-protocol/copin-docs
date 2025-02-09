@@ -1,20 +1,22 @@
 # Release notes
 
+<details>
 
+<summary>Copin - 1.1.3 (2/08/2025)</summary>
+
+* Allow export csv data for Premium & VIP user
+* Hot-fix: Cannot load thumbnail share
+* Hot-fix: Trade HYPE pair but API returns list of indexTokens including ANIME, MELANIA, VINE
+
+</details>
 
 <details>
 
 <summary>Copin - 1.1.2 (2/05/2025)</summary>
 
-1\. Copy trading is now enabled for traders on KiloEx (Base) and Unidex (Arb), providing more opportunities to follow top traders.
-
-2\. Disabled the hourly chart in perpdex details to improve platform stability and usability.
-
-3\. Hotfixes: Resolved MetaMask connection errors on certain devices.
-
-
-
-Log in now to explore the latest improvements. Thank you for being part of Copin!
+* Copy trading is now enabled for traders on KiloEx (Base) and Unidex (Arb), providing more opportunities to follow top traders.
+* Disabled the hourly chart in perpdex details to improve platform stability and usability.
+* Hotfixes: Resolved MetaMask connection errors on certain devices.
 
 </details>
 
