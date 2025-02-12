@@ -1,5 +1,21 @@
 # Release notes
 
+
+
+<details>
+
+<summary>Copin - 1.1.4 (2/12/2025)</summary>
+
+* Implement new API for copied traders
+* Show Open Interest & MAU parameters in protocol picker
+* Improve UX: Adding copy management drawer to trader details page
+* Time format switch (time/relative) on History (Trader Profile page)
+* Allow copy trade for all DEGEN pairs (ex: SOLDEGEN, BTCDEGEN, ...)
+* Added "FILLS" info tab to trader details page for Hyperliquid
+* Some UI/UX bugs/issues need to be improved
+
+</details>
+
 <details>
 
 <summary>Copin - 1.1.3 (2/08/2025)</summary>
