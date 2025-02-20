@@ -4,6 +4,26 @@
 
 <details>
 
+<summary>Copin - 1.1.5 (2/20/2025)</summary>
+
+**Improvements & Enhancements**
+
+* **Faster Copy Trade Sync**: Implemented queue & multi-threading to optimize PnL synchronization for copied trades.
+* **Better Image Management**: Now fetching images directly from the server for easier asset handling.
+* **NFT Subscription Update**: Added minted NFT count display on the subscription page.
+* **Withdrawal Confirmation**: Added a confirmation popup when users withdraw funds on Copin Lite.
+
+**Hotfixes & Bug Fixes**
+
+* **Bybit Copy Trade**: Fixed "Quantity Invalid" error when executing copy trades.
+* **Protocol Performance**: Optimized rerendering to improve loading speed, especially on low-performance computers.
+* **HMX - Zeno**: Resolved PnL calculation issues for liquidated positions.
+* **GMX Orders**: Fixed missing order data for improved trade accuracy.
+
+</details>
+
+<details>
+
 <summary>Copin - 1.1.4 (2/12/2025)</summary>
 
 * Implement new API for copied traders
