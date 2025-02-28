@@ -1,6 +1,20 @@
 # Release notes
 
+<details>
 
+<summary>Copin - 1.1.6 (2/28/2025)</summary>
+
+Fixes:
+
+* Fixed position details in Onchain Copin Lite.
+* Stopped wallet screen from auto-scrolling to the top.
+* Improved Copytrade in Copin Lite.
+* Removed duplicate Telegram messages.
+* Restored missing Hyperliquid trading alerts.
+
+Thanks for using Copin!
+
+</details>
 
 <details>
 
@@ -8,17 +22,18 @@
 
 **Improvements & Enhancements**
 
-* **Faster Copy Trade Sync**: Implemented queue & multi-threading to optimize PnL synchronization for copied trades.
-* **Better Image Management**: Now fetching images directly from the server for easier asset handling.
-* **NFT Subscription Update**: Added minted NFT count display on the subscription page.
-* **Withdrawal Confirmation**: Added a confirmation popup when users withdraw funds on Copin Lite.
+* Faster Copy Trade Sync: Implemented queue & multi-threading to optimize PnL synchronization for copied trades.
+* Better Image Management: Now fetching images directly from the server for easier asset handling.
+* NFT Subscription Update: Added minted NFT count display on the subscription page.
+* Withdrawal Confirmation: Added a confirmation popup when users withdraw funds on Copin Lite.
+* Enhanced Tooltips content on trader details page
 
 **Hotfixes & Bug Fixes**
 
-* **Bybit Copy Trade**: Fixed "Quantity Invalid" error when executing copy trades.
-* **Protocol Performance**: Optimized rerendering to improve loading speed, especially on low-performance computers.
-* **HMX - Zeno**: Resolved PnL calculation issues for liquidated positions.
-* **GMX Orders**: Fixed missing order data for improved trade accuracy.
+* Bybit Copy Trade: Fixed "Quantity Invalid" error when executing copy trades.
+* Protocol Performance: Optimized rerendering to improve loading speed, especially on low-performance computers.
+* HMX - Zeno: Resolved PnL calculation issues for liquidated positions.
+* GMX Orders: Fixed missing order data for improved trade accuracy.
 
 </details>
 
