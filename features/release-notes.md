@@ -2,17 +2,33 @@
 
 <details>
 
+<summary>Copin - 1.1.7 (3/03/2025)</summary>
+
+**Fixes**
+
+* Fixed Lite\_Mobile\_Copy showing `[Close]` instead of `[Mismatch]` when position match is missing.
+* Resolved Deposit/Withdraw popup reappearing on login in Copin Lite.
+
+**Improvements**
+
+* Optimized performance for "Trader Favorite - HL Order Fills."
+* Enhanced UX for scrollable history page.
+* Added filter for pair-specific HL Order Fills.
+* Ignored DCP for Synthetix V2/V3 on FE.
+
+</details>
+
+<details>
+
 <summary>Copin - 1.1.6 (2/28/2025)</summary>
 
-Fixes:
+**Fixes:**
 
 * Fixed position details in Onchain Copin Lite.
 * Stopped wallet screen from auto-scrolling to the top.
 * Improved Copytrade in Copin Lite.
 * Removed duplicate Telegram messages.
 * Restored missing Hyperliquid trading alerts.
-
-Thanks for using Copin!
 
 </details>
 
