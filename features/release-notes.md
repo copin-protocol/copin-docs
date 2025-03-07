@@ -1,5 +1,40 @@
 # Release notes
 
+
+
+<details>
+
+<summary>Copin - 1.2.1 (3/07/2025)</summary>
+
+**News**
+
+* Integrate GMX (SOL) data
+
+**Improvements**
+
+* Realtime Hyperliquid alert for VIP user
+* Mobile Style & Scroll Fix: Smoother style selection and scrolling on mobile (FE).
+* Enhanced Trader Alerts: Improved alerts to prevent missed notifications.
+
+**Bug Fixes**
+
+* HMX Notification Bug: Fixed issue where traders didn’t receive notifications after closing positions on HMX.
+* Duplicate Copytrade Settings: Resolved hotfix for duplicate copytrade settings.
+
+</details>
+
+
+
+<details>
+
+<summary>Copin - 1.2.0: Introducing Copin Alert v2.0 (3/05/2025)</summary>
+
+We’re excited to launch Copin Alert v2.0, a major upgrade to one of **Copin’s core features**, designed to keep traders ahead with **real-time, precision alerts from 50+ perpdexs** via **Telegram** & **Webhook**.
+
+[https://x.com/Copin\_io/status/1897233337166746061](https://x.com/Copin_io/status/1897233337166746061)
+
+</details>
+
 <details>
 
 <summary>Copin - 1.1.7 (3/03/2025)</summary>
