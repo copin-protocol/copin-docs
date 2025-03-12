@@ -1,6 +1,14 @@
 # Release notes
 
+<details>
 
+<summary>Copin - 1.2.2 (3/11/2025)</summary>
+
+* Bug. Hotfix\_Alert Watchlist\_Search to Add traders\_When searching for "0x8" returns a list of traders that includes Traders in some protocols that are not yet public
+* IMP. Show warning data for dYdX exchange (temp fix) - FE
+* Switch Alert BOT
+
+</details>
 
 <details>
 
@@ -22,8 +30,6 @@
 * Duplicate Copytrade Settings: Resolved hotfix for duplicate copytrade settings.
 
 </details>
-
-
 
 <details>
 
