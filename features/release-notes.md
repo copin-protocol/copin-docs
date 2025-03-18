@@ -1,5 +1,21 @@
 # Release notes
 
+
+
+<details>
+
+<summary>Copin - 1.2.3 (3/18/2025)</summary>
+
+* IMP. Change logic for activity log "User isn't in position" - BE
+* IMP. Copin Lite Opening position v2 - BE
+* IMP. Delete / edit all copy trade - FE
+* IMP. Bulk update copy trade - Clean UI and Fix - FE
+* IMP. Fix Pyth Worker (COP2-1682)
+* Data. Close copy position for Copin Lite - BE
+* Bug. Fix calc PnL for copying 1000PEPE, 1000BONK,... on Hyperliquid API - FE
+
+</details>
+
 <details>
 
 <summary>Copin - 1.2.2 (3/11/2025)</summary>
