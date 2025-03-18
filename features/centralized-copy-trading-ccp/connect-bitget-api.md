@@ -26,7 +26,7 @@ The connection process involves:
 | **API Key Creation**                              | Generate an API key for Copin Analyzer integration.                                               |
 | **Fund Deposit and Transfer**                     | Deposit funds into Bitget and transfer them to your **future** account.                           |
 
-> _For any difficulties, we invite you to join the_ [_Copin.io community_](https://t.me/copin\_io) _where our admin team is ready to assist._
+> _For any difficulties, we invite you to join the_ [_Copin.io community_](https://t.me/copin_io) _where our admin team is ready to assist._
 
 ### **1. Bitget Account Setup**
 
@@ -74,7 +74,7 @@ The connection process involves:
 
 * After submitting your selfie, you will receive a notification that your KYC verification information has been successfully submitted.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **3. API Key Creation**
 
@@ -82,7 +82,7 @@ The connection process involves:
 
 * Click on your profile in the top right-hand corner of the screen and go to the "API keys" tab or visit https://www.bitget.online/account/newapi
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Read and agree to Bitget's API Keys Terms & Conditions
 

@@ -4,7 +4,7 @@ description: >-
   enable seamless copy trading through 2 steps.
 ---
 
-# Connect Hyperliquid API
+# Connect Hyperliquid
 
 {% hint style="info" %}
 **Notes:**
@@ -22,7 +22,7 @@ description: >-
 * Generate a Wallet Address: Click **\[Generate]**.
 * Authorize the API Wallet: Click **\[Authorize API Wallet]**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3. Save Your Private Key:
 
@@ -30,7 +30,7 @@ description: >-
 * Save your Private Key.
 * Click **\[Authorize]** to complete.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2: Connect API to Copin
 

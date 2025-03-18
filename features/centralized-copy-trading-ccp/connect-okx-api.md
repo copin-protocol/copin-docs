@@ -16,7 +16,7 @@ Click on your wallet in the top right-hand corner of the screen and go to the "W
 
 Click "Create" at " OKX Exchange" to start linking your OKX Exchange account to app.copin.io through API key.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The connection process involves:
 
@@ -35,7 +35,7 @@ The connection process involves:
 
 * Choose your region. Agree to OKX Terms of Service, Risk & Compliance Disclosure & Privacy Policy. Confirm to continue.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

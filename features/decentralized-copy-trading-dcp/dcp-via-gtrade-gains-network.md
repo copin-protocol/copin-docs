@@ -22,7 +22,7 @@ Before creating an **Account abstraction** (AA) wallet, you need to prepare by f
 
 ( 3 ) Choose any supported EVM wallet that Copin is compatible with. _(In this guide, I'll be using **MetaMask**)_
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 4 ) Select `Sign` to complete the login process for Copin DCP.
 
@@ -32,7 +32,7 @@ Before creating an **Account abstraction** (AA) wallet, you need to prepare by f
 
 ( 2 ) Select `Create` next to gTrade Exchange.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 3 ) Click `Confirm` to complete the setup. This process requires a fee of approximately _$0.05 in ETH_ on the Arbitrum network.
 

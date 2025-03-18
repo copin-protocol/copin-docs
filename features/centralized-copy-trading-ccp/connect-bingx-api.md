@@ -22,7 +22,7 @@ The connection process involves:
 
 <table data-header-hidden><thead><tr><th width="248"></th><th></th></tr></thead><tbody><tr><td><strong>BingX Account Setup</strong></td><td>Create an account, unless you already have one.</td></tr><tr><td><strong>2FA Activation</strong></td><td>Enhance security by enabling two-factor authentication.</td></tr><tr><td><strong>API Key Creation</strong></td><td>Generate an API key for Copin Analyzer integration.</td></tr><tr><td><strong>Fund Deposit and Transfer</strong></td><td>Deposit funds into BingX and transfer them to your <strong>perpetual future</strong> <strong>USDT-M</strong> account.</td></tr></tbody></table>
 
-> _For any difficulties, we invite you to join_ [_the Copin.io community_](https://t.me/Copin\_io) _where our admin team is ready to assist._
+> _For any difficulties, we invite you to join_ [_the Copin.io community_](https://t.me/Copin_io) _where our admin team is ready to assist._
 
 ### **1. BingX Account Setup**
 
@@ -31,7 +31,7 @@ The connection process involves:
 * Go to the [BingX website](https://bingx.com/invite/DY5QNN)
 * Click \[Register] in the top right corner.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bingx.com/invite/DY5QNN">https://bingx.com/invite/DY5QNN</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://bingx.com/invite/DY5QNN">https://bingx.com/invite/DY5QNN</a></p></figcaption></figure>
 
 #### **Step 2: Account Registration**
 
@@ -53,14 +53,14 @@ _Two-factor authentication (2FA) is a security method that requires you to enter
 * Log into the [BingX website](https://bingx.com/invite/DY5QNN), click the avatar icon
 * Select \[Account & Security] from the dropdown menu under the avatar icon.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 2: Enable Google Verification**
 
 * Scroll down to the \[Security Center] section and you'll see \[Google Verification].
 * Click the \[Link] button.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 3: Install Google Authenticator**
 
