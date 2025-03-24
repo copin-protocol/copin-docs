@@ -4,6 +4,21 @@
 
 <details>
 
+<summary>Copin - 1.3.0 (3/24/2025)</summary>
+
+**News**
+
+* Public data support for **HoldStation (Bera)**.
+
+**Improvements & fixes**
+
+* Added new pairs for GMX\_V2 and dYdX.
+* Hotfix for Copin Lite: Fixed issue preventing copy position closure for **TRUMP** and some pickup pairs.
+
+</details>
+
+<details>
+
 <summary>Copin - 1.2.3 (3/18/2025)</summary>
 
 * IMP. Change logic for activity log "User isn't in position" - BE
