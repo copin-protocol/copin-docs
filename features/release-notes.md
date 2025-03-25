@@ -4,6 +4,14 @@
 
 <details>
 
+<summary>Copin - 1.4.0 (3/25/2025): New landing page</summary>
+
+* New landing page: [https://copin.io](https://copin.io)
+
+</details>
+
+<details>
+
 <summary>Copin - 1.3.0 (3/24/2025)</summary>
 
 **News**
@@ -64,7 +72,7 @@
 
 <details>
 
-<summary>Copin - 1.2.0: Introducing Copin Alert v2.0 (3/05/2025)</summary>
+<summary>Copin - 1.2.0 (3/05/2025): Introducing Copin Alert v2.0</summary>
 
 We’re excited to launch Copin Alert v2.0, a major upgrade to one of **Copin’s core features**, designed to keep traders ahead with **real-time, precision alerts from 50+ perpdexs** via **Telegram** & **Webhook**.
 
