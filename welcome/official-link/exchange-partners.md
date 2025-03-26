@@ -12,6 +12,7 @@ Register for a new account under the referral links from Copin's exchange partne
 * Gate: [https://www.gate.io/signup/AgBFAApb?ref\_type=103](https://www.gate.io/signup/AgBFAApb?ref_type=103) (Referral code: **`AgBFAApb`**)
 * Binance: [https://accounts.binance.com/register?ref=19902233](https://accounts.binance.com/register?ref=19902233) (Referral code: **`19902233`**)
 * Bybit: [https://partner.bybitglobal.com/b/copin](https://partner.bybitglobal.com/b/copin) (Referral code: **`COPIN`**)
+* CoinEX: [https://www.coinex.com/register?refer\_code=npy4q](https://www.coinex.com/register?refer_code=npy4q) (Referral code: **`npy4q`**)
 
 ## Decentralized exchanges
 
