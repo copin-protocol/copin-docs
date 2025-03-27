@@ -4,9 +4,13 @@
 
 <details>
 
-<summary>Copin - 1.4.0 (3/25/2025): New landing page</summary>
+<summary>Copin - 1.3.1 (3/26/2025)</summary>
 
-* New landing page: [https://copin.io](https://copin.io)
+**Bug Fixes**
+
+* Copin Lite\_Cannot close copy position with TRUMP pair and some pickup pair.
+* Copy trade\_ Copy position is kept on Copin with size = 0.
+* Fix missing raw data DYDX.
 
 </details>
 
