@@ -4,6 +4,14 @@
 
 <details>
 
+<summary>Copin - 1.4.0 (3/28/2025): New landing page</summary>
+
+* Release new landing page
+
+</details>
+
+<details>
+
 <summary>Copin - 1.3.1 (3/26/2025)</summary>
 
 **Bug Fixes**
