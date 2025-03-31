@@ -17,7 +17,7 @@ Register for a new account under the referral links from Copin's exchange partne
 ## Decentralized exchanges
 
 * Hyperliquid: [https://app.hyperliquid.xyz/join/COPIN](https://app.hyperliquid.xyz/join/COPIN) (Referral code: **`COPIN`**)
-* APEX: [https://omni.apex.exchange/referral?code=VV211C98](https://omni.apex.exchange/referral?code=VV211C98) (Referral code: **`VV211C98`**)
+* APEX: [https://deeplink.omni.apex.exchange/AFF-6966](https://deeplink.omni.apex.exchange/AFF-6966) (Referral code: **`AFF-6966`**)
 * GMX: [https://app.gmx.io/#/trade/?ref=copin](https://app.gmx.io/#/trade/?ref=copin) (Referral code: **`copin`**)
 * Kwenta: [https://kwenta.io/?ref=copin](https://kwenta.io/?ref=copin) (Referral code: **`copin`**)
 * Mux: [https://app.mux.network/#/ref/copin](https://app.mux.network/#/ref/copin) (Referral code: **`copin`**)
