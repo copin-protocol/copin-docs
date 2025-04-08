@@ -4,6 +4,31 @@
 
 <details>
 
+<summary>Copin - 1.4.1 (4/03/2025)</summary>
+
+**News**
+
+* Copin Alert: Implement Custom Group Traders Alert
+
+**Bugs**
+
+* Copin Alert: Missing some Closed notification&#x20;
+* Copin Alert: Bug. Block action that links multi Copin account with Direct Telegram account
+* Bug. DYDX has pairs with long names - causing a broken layout &#x20;
+
+**Improvements**
+
+* Copin Alert: Implement new flow UX for custom alert
+* Filter size OI page&#x20;
+* IMP. Fix empty space when open keyboard on iOS device
+* IMP. Copin Lite UI/UX when not login
+* IMP. Maintain Live Trades&#x20;
+* IMP. Scroll for opening positions on tablet&#x20;
+
+</details>
+
+<details>
+
 <summary>Copin - 1.4.0 (3/28/2025): New landing page</summary>
 
 * Release new landing page
