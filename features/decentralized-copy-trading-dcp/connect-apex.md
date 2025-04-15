@@ -18,7 +18,7 @@
 
 > Important: The API details will only be displayed **once**! **Save your API Key, Passphrase, and Secret** for easy integration with Copin.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2: Create ApeX Omni Key
 
@@ -39,7 +39,7 @@
 
 3. **Enter your saved API Key & Omni Key** to connect.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Troubleshooting & Support
 

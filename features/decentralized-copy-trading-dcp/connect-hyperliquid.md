@@ -22,7 +22,7 @@ description: >-
 * Generate a Wallet Address: Click **\[Generate]**.
 * Authorize the API Wallet: Click **\[Authorize API Wallet]**.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Save Your Private Key:
 
@@ -30,14 +30,14 @@ description: >-
 * Save your Private Key.
 * Click **\[Authorize]** to complete.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2: Connect API to Copin
 
 1. Visit Copin Wallet Management: [https://app.copin.io/wallet-management](https://app.copin.io/wallet-management) and log in.
 2. **\[Connect]** to Hyperliquid Exchange.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter API Details:
 
@@ -48,7 +48,7 @@ description: >-
 * API Wallet Private Key: The private key saved from API creation.
 * Wallet Name: Optional.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select "I agree to let Copin use the API to place orders", sign, and confirm your agreement to pay a 0.05% trade size when open order.&#x20;
 
@@ -56,7 +56,7 @@ description: >-
 
 > **Note**: Ensure that the correct wallet used for signing is the Master Account of Hyperliquid. You can verify by clicking on the icon as shown below before selecting "Confirm."
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## FAQs
 

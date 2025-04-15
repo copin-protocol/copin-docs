@@ -486,7 +486,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Indexed trader data from GainsNetwork on Arbitrum&#x20;
 * Started supporting Bitget for hybrid copy-trading in internal testing Try now
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -528,7 +528,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Refreshed homepage look & feel.
 * Various UX & system optimizations.
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -562,7 +562,7 @@ Thank you for being a part of our community. We’re committed to continuously i
 * Sorting copy wallets by number of active copy trades as default
 * API performance improvement
 
-<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -624,7 +624,7 @@ Hope you enjoy this updates!
 * Changing ROI to Avg ROI to avoid misunderstanding
 * Some technical & experience enhancements
 
-<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 

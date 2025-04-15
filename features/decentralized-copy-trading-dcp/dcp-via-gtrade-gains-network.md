@@ -18,11 +18,11 @@ Before creating an **Account abstraction** (AA) wallet, you need to prepare by f
 
 ( 2 ) Select `Connect Wallet`
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 3 ) Choose any supported EVM wallet that Copin is compatible with. _(In this guide, I'll be using **MetaMask**)_
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 4 ) Select `Sign` to complete the login process for Copin DCP.
 
@@ -32,7 +32,7 @@ Before creating an **Account abstraction** (AA) wallet, you need to prepare by f
 
 ( 2 ) Select `Create` next to gTrade Exchange.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 3 ) Click `Confirm` to complete the setup. This process requires a fee of approximately _$0.05 in ETH_ on the Arbitrum network.
 
@@ -40,15 +40,15 @@ Before creating an **Account abstraction** (AA) wallet, you need to prepare by f
 
 ( 1 ) Continue by selecting `Deposit` to add funds to the AA wallet you just created. Ensure that your EVM wallet has a sufficient balance of ETH and USDC on the Arbitrum network. **A minimum deposit of 60 USDC is required for a single copy trade position.**
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 2 ) Click `Approve` to confirm the balance with Copin. Complete authentication through MetaMask.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 3 ) Enter the amount of USDC you wish to deposit into your AA wallet for copy trading. Click `Deposit` to proceed and `Confirm` to finalize.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. How to Set Up Copy Trading?
 
@@ -56,7 +56,7 @@ Detailed information about copy trading settings can be found at: [https://docs.
 
 ( 1 ) Selecting the AA wallet you will use for copy trading.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 2 ) A few important notes on fees:
 
@@ -74,21 +74,21 @@ Go to [https://app.copin.io/me/management](https://app.copin.io/me/management) t
 
 ( 3 ) Displays copy trade settings for each trader you are copying. You can toggle the settings on and off at `Run` and adjust details via the `⋮` icon.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **3.2 Closing an Open Position**
 
 ( 1 ) If there is an open copy trade position, you can manually close it early by selecting the open position.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 2 ) Next, click `Close`
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 3 ) Then click `Confirm` to manually close the copy trade position.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ( 4 ) Confirm the notifications in MetaMask to complete the on-chain operation. Your position will then be closed manually.
 

@@ -28,6 +28,7 @@
   * [Connect OKX API](features/centralized-copy-trading-ccp/connect-okx-api.md)
   * [Connect CoinEX API](features/centralized-copy-trading-ccp/connect-coinex-api.md)
   * [FAQs about your API security](features/centralized-copy-trading-ccp/faqs-about-your-api-security.md)
+* [Telegram Alert BOT](features/telegram-alert-bot.md)
 * [Fees Structure](features/fees-structure.md)
 * [Vault Copy Trading](features/vault-copy-trading.md)
 * [Referral Program](features/referral-program.md)
