@@ -58,19 +58,19 @@ Go to **Watchlist Trader Settings** to:
 * **Add** or **remove** traders
 * Toggle alerts on/off as needed
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><em>Easily manage which wallets to track from one place.</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><em>Easily manage which wallets to track from one place.</em></p></figcaption></figure>
 
 ## VI. Custom Alerts – Advanced Setup
 
 Create your own alert logic using filters and delivery options. Click **CREATE NEW ALERT** to start.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. By Trader Filter
 
 * Select **Trader Filter**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * Filter options:
   * **(1) Time Frame** – Define how recent trade must be
@@ -78,31 +78,31 @@ Create your own alert logic using filters and delivery options. Click **CREATE N
   * **(3) Trading Pairs** – Focus on selected markets (e.g. ETH, BTC)
   * **(4) Conditions** – Set rules (PnL, ROI, size, leverage, etc.)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 _Example:_ Track scalp traders by filtering for short-term high ROI + small size trades
 
 * Choose your **Delivery Channel**: Telegram → Direct or Group
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. By Trader Group
 
 * Select **Trader Group**
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * Add wallets you want to track
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 * Paste addresses and click **Add**
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * Set your Telegram delivery method
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=aeokxvtqlUI" %}
 
@@ -112,7 +112,7 @@ _Example:_ Track scalp traders by filtering for short-term high ROI + small size
 * Click the **three-dot menu**
 * Choose **Edit** or **Delete**
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
