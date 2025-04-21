@@ -4,6 +4,40 @@
 
 <details>
 
+<summary>Copin - 1.4.2 (4/21/2025)</summary>
+
+#### 📌 Highlights & Fixes
+
+* **\[Fix] LogX\_Blast Trader Balances:** Resolved an issue where some traders on LogX\_Blast displayed incorrect balances.
+* **\[Fix] Copin Lite ePNL Display:** Persistent error in ePNL display for copy positions has been addressed.
+* **\[Fix] Thumbnail Trader PnL Chart:** Hotfix applied to ensure correct PnL display on trader thumbnails.
+* **\[Fix] Solana Avatar Rendering:** Fixed display issue for Solana addresses on trader thumbnail templates.
+* **\[Fix] Unsupported Trading Pairs:** Resolved bug where unsupported pairs were still being shown.
+
+#### ⚙️ Improvements
+
+* **Refactor: Trader Filter & Group Display (FE):** Enhanced UX and structure of the Trader Filter and Trader Group display.
+* **Update: Price Source for Get Pair API:** Updated the pricing mechanism by integrating the latest API.
+* **Unrealized PnL Integration**
+  * Added **Unrealized PnL** on Trader Explorer.
+  * Applied to **chart PnL** on trader profiles.
+* **Add CTA for Premium Access:** Lite page now includes a clear call-to-action for premium upgrade.
+* **Warning System for Inactive Protocols:** Users are now notified if a protocol has stopped operating or is under maintenance.
+* **Mapping Support for Neiro & Nierocto Pairs:** These pairs are now fully supported for copy-trading.
+* **Streamlined Hyperliquid Charting:** Researched and integrated Hyperliquid data stream for improved TradingView charts.
+
+#### 🛠 Maintenance & System Updates
+
+* **API Key Validation:** Added check for expired API keys in Copin Lite.
+* **Telegram/Webhook Alert Timestamp:** Message alerts now include timestamps for better context.
+* **Ignore Service Keys for Copy Trading:** Improved handling to skip invalid service keys on FE.
+* **Auto Suspend Telegram Bot:** Bot will automatically suspend the channel when blocked by a user.
+* **Polynomial L2 Event Update:** Integrated support for the latest Polynomial L2 events.
+
+</details>
+
+<details>
+
 <summary>Copin - 1.4.1 (4/03/2025)</summary>
 
 **News**
