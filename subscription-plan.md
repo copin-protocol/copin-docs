@@ -1,5 +1,6 @@
 ---
 description: We've got a pricing plan that's perfect for you
+hidden: true
 ---
 
 # 👑 Subscription Plan
