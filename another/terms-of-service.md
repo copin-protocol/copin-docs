@@ -44,13 +44,43 @@ All intellectual property, including but not limited to **Copin**’s trademarks
 
 ***
 
-**V. Privacy**
+**V. Terms of Payment Subscription**
+
+1\. **Subscription Model**
+
+Copin operates on a subscription-based access model. By subscribing to any of our paid plans, you gain access to premium features for a specified period (monthly or annually, depending on your choice).
+
+#### 2. **Manual Payment Required**
+
+* **Copin does not support automatic recurring payments.**
+* At the end of each subscription period, your plan will **not** renew automatically.
+* If you wish to continue using the paid services, you must manually renew your subscription through your account dashboard.
+
+#### 3. **No Refund Policy**
+
+* **All payments made to Copin are non-refundable.**
+* This includes cases such as unused subscription time, accidental purchases, or dissatisfaction with the service.
+* Please ensure you review the plan and features carefully before completing payment.
+
+#### 4. **Subscription Expiry**
+
+* If you do not renew your subscription after it expires, your account will be downgraded to the free plan automatically.
+* You will retain access to your data, but premium features will no longer be available until payment is made again.
+
+#### 5. **Changes to Subscription Terms**
+
+* Copin reserves the right to modify subscription pricing, features, or terms. Users will be notified in advance of any significant changes.
+* Continuing to use the service after such changes constitutes acceptance of the new terms.
+
+***
+
+**VI. Privacy**
 
 Your privacy is important to us. Copin collects and processes your personal data in accordance with its **Privacy Policy**, which is incorporated by reference into these Terms. By using the Services, you consent to the collection and use of your information as outlined in the Privacy Policy.
 
 ***
 
-**VI. Disclaimer of Warranties and Limitation of Liability**
+**VII. Disclaimer of Warranties and Limitation of Liability**
 
 The Services are provided "as is" without any warranties, express or implied. Copin makes no representations or guarantees regarding the accuracy, completeness, or reliability of the information available on the platform, whether provided by other users or third parties.
 
@@ -58,18 +88,18 @@ You acknowledge that your use of the Services is entirely at your own risk. To t
 
 ***
 
-**VII. Modification and Termination**
+**VIII. Modification and Termination**
 
 Copin reserves the right to modify, suspend, or terminate any aspect of the Services at any time, with or without notice. Additionally, we may update these Terms periodically, and it is your responsibility to review them regularly. Continued use of the Services following any changes constitutes your acceptance of the revised Terms.
 
 ***
 
-**VIII. Severability**
+**IX. Severability**
 
 If any provision of these Terms is found to be unlawful, void, or unenforceable, the remaining provisions will continue in full effect. Any invalid provisions will be replaced by enforceable terms that closely reflect the intent of the original terms.
 
 ***
 
-**IX. Entire Agreement**
+**X. Entire Agreement**
 
 These Terms constitute the entire agreement between you and Copin regarding the use of the Services and supersede any prior agreements or communications. If you have any questions or concerns regarding these Terms, please reach out to us at **hi@copin.io**.
