@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Q\&A of Vault
 
 1. **What is Vault Copy Trading?**

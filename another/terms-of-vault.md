@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Terms of Vault
 
 1. **Introduction**

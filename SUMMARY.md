@@ -51,7 +51,3 @@
 * [Agreement](another/agreement.md)
 * [Terms of Vault](another/terms-of-vault.md)
 * [Q\&A of Vault](another/q-and-a-of-vault.md)
-
-***
-
-* [Terms of Payment Subscription](terms-of-payment-subscription.md)
