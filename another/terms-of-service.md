@@ -72,6 +72,18 @@ Copin operates on a subscription-based access model. By subscribing to any of ou
 * Copin reserves the right to modify subscription pricing, features, or terms. Users will be notified in advance of any significant changes.
 * Continuing to use the service after such changes constitutes acceptance of the new terms.
 
+6. **Service Termination**
+
+We reserve the right to suspend or terminate access to our services for any violation of these Terms, fraudulent activity, harm to the system, or abuse of resources.
+
+7. **Changes to Terms**
+
+We may revise these Terms at any time. Continued use of our services means you accept the most recent version.
+
+8. **Confirmation**
+
+By purchasing or using our services, you confirm that you have read and agreed to [copin.io](http://copin.io)’s Terms of Service.
+
 ***
 
 **VI. Privacy**
