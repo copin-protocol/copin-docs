@@ -50,11 +50,18 @@ All intellectual property, including but not limited to **Copin**’s trademarks
 
 Copin operates on a subscription-based access model. By subscribing to any of our paid plans, you gain access to premium features for a specified period (monthly or annually, depending on your choice).
 
-#### 2. **Manual Payment Required**
+**2. Payment & Renewal Policy🔸 Crypto Payments**
 
-* **Copin does not support automatic recurring payments.**
-* At the end of each subscription period, your plan will **not** renew automatically.
-* If you wish to continue using the paid services, you must manually renew your subscription through your account dashboard.
+* Copin does **not support automatic recurring payments** for crypto transactions.
+* At the end of each subscription period, your plan **will not** renew automatically.
+* If you wish to continue using the paid services, you must **manually renew** your subscription through your account dashboard.
+
+**🔹 Credit/Debit Card Payments (e.g., Visa)**
+
+* If you subscribe using a credit or debit card, your plan **will renew automatically** at the end of each billing cycle unless you cancel it beforehand.
+* You can manage or cancel your auto-renewal anytime via your account settings.
+
+> ⚠️ **Important:** Please make sure to cancel your subscription before the renewal date if you do not wish to be charged automatically.
 
 #### 3. **No Refund Policy**
 
