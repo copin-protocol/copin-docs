@@ -50,7 +50,9 @@ All intellectual property, including but not limited to **Copin**’s trademarks
 
 Copin operates on a subscription-based access model. By subscribing to any of our paid plans, you gain access to premium features for a specified period (monthly or annually, depending on your choice).
 
-**2. Payment & Renewal Policy🔸 Crypto Payments**
+**2. Payment & Renewal Policy**
+
+**🔸 Crypto Payments**
 
 * Copin does **not support automatic recurring payments** for crypto transactions.
 * At the end of each subscription period, your plan **will not** renew automatically.
