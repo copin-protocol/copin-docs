@@ -58,6 +58,13 @@ Copin operates on a subscription-based access model. By subscribing to any of ou
 * At the end of each subscription period, your plan **will not** renew automatically.
 * If you wish to continue using the paid services, you must **manually renew** your subscription through your account dashboard.
 
+{% hint style="warning" %}
+**⚠️ Notice for Vietnam-based Users:**
+
+* Crypto payments are **not supported** for users residing in Vietnam.
+* Customers in Vietnam can **only complete purchases using Visa or other accepted credit/debit cards**.
+{% endhint %}
+
 **🔹 Credit/Debit Card Payments (e.g., Visa)**
 
 * If you subscribe using a credit or debit card, your plan **will renew automatically** at the end of each billing cycle unless you cancel it beforehand.
