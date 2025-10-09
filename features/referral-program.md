@@ -26,7 +26,7 @@ _(Best for professional affiliates, KOLs, B2B partners, and growth hackers)_
 
 **Example – Elite Package ($999), Partner in Tier 2 (20%)**
 
-* User pays: **$999**
+* Sale Volume: **$999**
 * Commission (20%) = **$199.80**
 
 **Payouts:**
@@ -61,7 +61,7 @@ _(Commission applies to discounted price: 95% of package fee)_
 
 **Example – Elite Package ($999), Partner in Tier 2 (15%)**
 
-* User pays: $999 – 5% = **$949.05**
+* Sale Volume: $999 – 5% = **$949.05**
 * Commission (15%) = **$949.05 × 15% = $142.36**
 
 **Payouts:**
