@@ -14,17 +14,17 @@ _(Best for professional affiliates, KOLs, B2B partners, and growth hackers)_
 
 #### **Commission Tiers (by Monthly Referred Revenue)**
 
-* **Tier 1:** < $7,000 → **15%**
-* **Tier 2:** $7,000 – $49,999 → **20%**
-* **Tier 3:** $50,000 – $99,999 → **22%**
-* **Tier 4:** $100,000+ → **25%**
+* **Tier 4:** < $7,000 → **15%**
+* **Tier 3:** $7,000 – $49,999 → **20%**
+* **Tier 2:** $50,000 – $99,999 → **22%**
+* **Tier 1:** $100,000+ → **25%**
 
 #### **Payout Rules (applied to both schemes)**
 
 * **First payout per referred user (first subscription payment):** Partner receives **100% of commission**.
 * **Subsequent payments from the same user:** Partner receives **70% of commission** (recurring).
 
-**Example – Elite Package ($999), Partner in Tier 2 (20%)**
+**Example – Elite Package ($999), Partner in Tier 3 (20%)**
 
 * Sale Volume: **$999**
 * Commission (20%) = **$199.80**
@@ -47,10 +47,10 @@ _(Best for community builders, smaller influencers, and retail-focused partners)
 
 #### **Commission Tiers (by Monthly Referred Revenue)**
 
-* **Tier 1:** < $7,000 → **10%**
-* **Tier 2:** $7,000 – $49,999 → **15%**
-* **Tier 3:** $50,000 – $99,999 → **17%**
-* **Tier 4:** $100,000+ → **20%**
+* **Tier 4:** < $7,000 → **10%**
+* **Tier 3:** $7,000 – $49,999 → **15%**
+* **Tier 2:** $50,000 – $99,999 → **17%**
+* **Tier 1:** $100,000+ → **20%**
 
 _(Commission applies to discounted price: 95% of package fee)_
 
@@ -59,7 +59,7 @@ _(Commission applies to discounted price: 95% of package fee)_
 * **First payout per referred user:** 100% commission.
 * **Subsequent payments:** 70% commission (recurring).
 
-**Example – Elite Package ($999), Partner in Tier 2 (15%)**
+**Example – Elite Package ($999), Partner in Tier 3 (15%)**
 
 * Sale Volume: $999 – 5% = **$949.05**
 * Commission (15%) = **$949.05 × 15% = $142.36**
