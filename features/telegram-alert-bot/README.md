@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Telegram Alert BOT
 
 ## I. Introduction

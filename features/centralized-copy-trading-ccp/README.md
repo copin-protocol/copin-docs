@@ -3,9 +3,10 @@ description: >-
   Copy trading on Copin Analyzer allows users to effortlessly mirror the
   strategies of experienced traders from perp DEXes, blending convenience with
   expertise.
+hidden: true
 ---
 
-# Copy Trading
+# Centralized Copy-Trading (CCP)
 
 At Copin, the Copy Trading feature elegantly addresses the diverse needs within Perp DEXs, offering a dual advantage. It serves as an educational platform for new users, guiding them through a controlled and risk-managed trading environment, while also providing advanced traders with sophisticated tools to enhance their trading strategies. This balanced approach ensures that Copin is an invaluable resource for traders at any level of expertise.
 

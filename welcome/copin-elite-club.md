@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Copin Elite Club
 
 Welcome to the Copin Elite Club – a special, members-only zone for Copin enthusiasts!

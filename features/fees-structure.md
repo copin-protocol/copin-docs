@@ -1,5 +1,6 @@
 ---
 description: Fee Structures for Copy Trading on Copin
+hidden: true
 ---
 
 # Fees Structure

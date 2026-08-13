@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Official Link
 
 {% hint style="info" %}
@@ -17,13 +21,13 @@ Get feedbacks, new ideas, requests, bugs, ...: [https://copin.canny.io/](https:/
 
 ## Follow us on social media
 
-* X/Twitter: [https://twitter.com/copin\_io](https://twitter.com/copin\_io)
+* X/Twitter: [https://twitter.com/copin\_io](https://twitter.com/copin_io)
 * Youtube: [https://www.youtube.com/@CopinAnalyzer](https://www.youtube.com/@CopinAnalyzer)
 * Blog: [https://blog.copin.io](https://blog.copin.io)
 
 ## Join our community
 
-* Telegram Global (Chat): [https://t.me/Copin\_io](https://t.me/Copin\_io)
+* Telegram Global (Chat): [https://t.me/Copin\_io](https://t.me/Copin_io)
 * Discord: [https://discord.gg/jaJu8USARd](https://discord.gg/jaJu8USARd)
 
 ## Useful Links for Hybrid Copy Trading
