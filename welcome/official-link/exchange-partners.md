@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Exchange partners
 
 {% hint style="info" %}
